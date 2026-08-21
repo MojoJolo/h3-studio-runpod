@@ -1,0 +1,24 @@
+#!/bin/sh
+# H3 Studio launcher — double-click friendly.
+# Reuses a running server if one answers, otherwise starts one detached
+# (survives closing this Terminal window), then opens the browser.
+DIR="$(cd "$(dirname "$0")" && pwd)"
+URL="http://127.0.0.1:7833"
+
+if curl -s --max-time 1 "$URL/api/state" >/dev/null 2>&1; then
+  echo "H3 Studio already running at $URL"
+else
+  echo "Starting H3 Studio..."
+  nohup /usr/bin/python3 "$DIR/gui/server.py" --no-open >> "$DIR/gui/server.log" 2>&1 &
+  i=0
+  until curl -s --max-time 1 "$URL/api/state" >/dev/null 2>&1; do
+    i=$((i+1))
+    if [ "$i" -gt 50 ]; then
+      echo "Server failed to start — see $DIR/gui/server.log"
+      exit 1
+    fi
+    sleep 0.2
+  done
+  echo "H3 Studio running at $URL (Quit from the button in the web page)"
+fi
+open "$URL"

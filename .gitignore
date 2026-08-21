@@ -1,0 +1,11 @@
+engine/
+MiniMax-H3*/
+h3
+h3_shaders.metal
+inputs/
+outputs/
+loras/
+benchmarks.md
+gui/history.jsonl
+gui/server.log
+.DS_Store
