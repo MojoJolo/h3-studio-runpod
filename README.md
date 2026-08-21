@@ -2,6 +2,8 @@
 
 A zero-dependency local web GUI for [antirez/h3.c](https://github.com/antirez/h3.c) — MiniMax-H3 video generation (video + synchronized audio) on Apple Silicon Macs.
 
+![H3 Studio](docs/screenshot.png)
+
 The whole thing is one Python-stdlib server and one HTML file wrapping the `h3` CLI. No frameworks, no pip installs, no cloud — everything runs and stays on your Mac (the server binds to `127.0.0.1` only).
 
 ## Features
