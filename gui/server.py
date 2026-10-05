@@ -1129,6 +1129,9 @@ class AutoLoop:
             }
 
     def start(self):
+        if not os.access(CLAUDE_BIN, os.X_OK):
+            raise ValueError("Auto needs the Claude Code CLI (`claude`) to write scripts: install it from "
+                              "claude.com/claude-code and log in once by running `claude` in a terminal")
         if self.engine == "vpipe" and not VPIPE_AVAILABLE:
             raise ValueError("vpipe engine isn't set up on this machine")
         if self.engine == "runpod":
@@ -2004,15 +2007,19 @@ class Handler(BaseHTTPRequestHandler):
                 active_profile = data.get("active_profile", AUTO.active_profile)
                 if active_profile not in AUTO.profiles:
                     raise ValueError(f"active_profile must be one of {sorted(AUTO.profiles)}")
+                # Only profiles (and fields) present in the request are changed, so an
+                # API caller can update one profile without wiping the others.
                 profiles_in = data.get("profiles") or {}
                 profiles = {}
-                for pid in AUTO.profiles:
-                    p = profiles_in.get(pid) or {}
-                    profiles[pid] = {
-                        "prompt": (p.get("prompt") or "").strip(),
-                        "topics": [str(t).strip() for t in (p.get("topics") or []) if str(t).strip()],
-                    }
-                cooldown_s = int(data.get("cooldown_s", 300))
+                for pid, p in profiles_in.items():
+                    if pid not in AUTO.profiles or not isinstance(p, dict):
+                        raise ValueError(f"unknown profile '{pid}'; profiles are {sorted(AUTO.profiles)}")
+                    profiles[pid] = {}
+                    if "prompt" in p:
+                        profiles[pid]["prompt"] = (p.get("prompt") or "").strip()
+                    if "topics" in p:
+                        profiles[pid]["topics"] = [str(t).strip() for t in (p.get("topics") or []) if str(t).strip()]
+                cooldown_s = int(data.get("cooldown_s", AUTO.cooldown_s))
                 if cooldown_s < 0:
                     raise ValueError("cooldown_s must be >= 0")
                 engine = data.get("engine", AUTO.engine)

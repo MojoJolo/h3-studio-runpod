@@ -88,6 +88,7 @@ Skills are plain Markdown: edit them to change a brand's rules. Topics and promp
 - **[docs/RUNPOD.md](docs/RUNPOD.md)**: how the Runpod engine works, settings, troubleshooting, manual fallback
 - **[docs/BENCHMARKS.md](docs/BENCHMARKS.md)**: measured speed and cost
 - **[docs/DECISIONS-AND-LESSONS.md](docs/DECISIONS-AND-LESSONS.md)**: what's been decided and why, and costly mistakes to avoid
+- **[docs/HANDOVER.md](docs/HANDOVER.md)**: operating manual for agents and people: HTTP API, Auto internals, playbooks
 - **[AGENTS.md](AGENTS.md)**: guide for AI coding agents (Claude Code, Codex, Grok…) working on this repo
 
 ## Optional: local Apple Silicon engines

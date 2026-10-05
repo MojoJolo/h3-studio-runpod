@@ -7,6 +7,7 @@ local Apple Silicon Mac (the original "h3" and "vpipe" engines). An "Auto" mode 
 
 Start here, then read `docs/`:
 
+- **`docs/HANDOVER.md` — the operating manual: full HTTP API, how Auto works, step-by-step playbooks, gotchas**
 - `SETUP.md` — install on a new machine (macOS, Linux, Windows/WSL)
 - `docs/RUNPOD.md` — how the Runpod engine works, operating it, troubleshooting
 - `docs/DECISIONS-AND-LESSONS.md` — decisions already made and why, and mistakes not to repeat
