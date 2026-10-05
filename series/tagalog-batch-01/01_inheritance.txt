@@ -1,0 +1,179 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino drama inside the cramped living room of an old family house at night, a folded funeral program on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is MARIVIC, a 41-year-old Filipina woman in a plain black blouse, hair tied back, businesslike and completely unbothered, holding her phone and a folder of papers.
+
+CHARACTER B is DANI, a 36-year-old Filipino man in a rumpled grey polo, exhausted, standing across the low table from her.
+
+They are sister and younger brother, the night before their mother's funeral.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- atin = A-tin, two syllables, stress on A, never pronounced like the English "eighteen"
+- binenta = bi-nen-TA, three syllables, stress on TA
+- obituary is an English word — say it naturally in English, then return to Filipino pronunciation
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Marivic slides the folder aside without looking up from her phone and says it like a small admin correction.
+
+MARIVIC (S1), brisk, matter-of-fact, speaks the VERY FIRST LINE: <d>[Tagalog] Wag mo nang ilagay sa obituary yung address. Hindi na atin 'yon.</d>
+
+Dani stops moving completely.
+
+DANI (S2), quiet, not yet angry: <d>[Tagalog] Hindi na atin?</d>
+
+Marivic finally looks up, mildly impatient at having to explain.
+
+MARIVIC (S1), flat, unbothered: <d>[Tagalog] Binenta ko na. Noong isang buwan pa.</d>
+
+overall_soundscape: Quiet old-house ambience at night, an electric fan, faint street noise outside. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic contemporary Filipino drama inside the cramped living room of an old family house at night, a folded funeral program on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is MARIVIC, a 41-year-old Filipina woman in a plain black blouse, hair tied back, businesslike and completely unbothered, holding her phone and a folder of papers.
+
+CHARACTER B is DANI, a 36-year-old Filipino man in a rumpled grey polo, exhausted, standing across the low table from her.
+
+They are sister and younger brother, the night before their mother's funeral.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- nalilibing = na-li-li-BING, four syllables, stress on BING
+- libing = li-BING, two syllables, stress on BING, keep the final NG clear
+- lumipat = lu-MI-pat, three syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Dani picks up the funeral program and holds it, not raising his voice.
+
+DANI (S2), low, disbelieving, speaks the VERY FIRST LINE: <d>[Tagalog] Hindi pa nga siya nalilibing.</d>
+
+Marivic shrugs, already moving on to the next thing on her phone.
+
+MARIVIC (S1), reasonable, as if explaining a schedule: <d>[Tagalog] Kailangan nilang lumipat bago matapos ang buwan.</d>
+
+Dani sets the program down very carefully.
+
+DANI (S2), quiet: <d>[Tagalog] Bukas ang libing.</d>
+
+overall_soundscape: Quiet old-house ambience at night, an electric fan, faint street noise outside. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Photorealistic contemporary Filipino drama inside the cramped living room of an old family house at night, a folded funeral program on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is MARIVIC, a 41-year-old Filipina woman in a plain black blouse, hair tied back, businesslike and completely unbothered, holding her phone and a folder of papers.
+
+CHARACTER B is DANI, a 36-year-old Filipino man in a rumpled grey polo, exhausted, standing across the low table from her.
+
+They are sister and younger brother, the night before their mother's funeral.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- gago = GA-go, two syllables, stress on GA
+- gagamitin = ga-ga-MI-tin, four syllables, stress on MI
+- sabay = SA-bay, two syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Marivic nods, agreeing with him, completely missing that it is an objection.
+
+MARIVIC (S1), agreeable, practical, speaks the VERY FIRST LINE: <d>[Tagalog] Kaya nga bukas na rin sila lilipat. Sabay na.</d>
+
+Dani stares at her.
+
+DANI (S2), quiet, final: <d>[Tagalog] Gago ka ba?</d>
+
+Marivic looks genuinely puzzled by the reaction, and answers without any cruelty in her tone at all — she means it as logic.
+
+MARIVIC (S1), mild, sincere: <d>[Tagalog] Bakit? Gagamitin pa ba niya?</d>
+
+Hold on Dani's face. CUT ABRUPTLY.
+
+overall_soundscape: Quiet old-house ambience at night, an electric fan, faint street noise outside. Abrupt audio cut at the end. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A

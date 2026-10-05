@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office break room in the daytime, shortly before the holidays. Soft overhead light, a small round table between them, two coffee cups, a kitchenette counter out of focus behind them. Grounded restrained acting, a controlled conversation between two coworkers. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+AMANDA is a 39-year-old woman with fair-medium skin, shoulder-length dark hair tied back, wearing a plain work blouse. She is a mother of two and wants Christmas off to be with her children. She is seated at the break room table facing Jess.
+
+JESS is a 28-year-old woman with fair-medium skin, dark brown hair loose, wearing a plain knit top. She is child-free and requested the holiday months ago. She is seated at the same table directly across from Amanda.
+
+They are coworkers of equal rank.
+
+Amanda's children and Jess's family are mentioned in dialogue but are NOT visible. There are NO children in this scene, and no other colleague appears in frame. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Jess's reply is exactly one word, "So?" — it must be clearly audible as a short flat question, and must not be extended, softened, or turned into a longer sentence.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no rota sheets, notices, calendars, posters, mugs with lettering, or legible writing on anything. No holiday decorations carry words.
+
+IMPORTANT EYELINE LOCK:
+Amanda and Jess face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-4.2s] Amanda, direct and matter-of-fact, treating it as an obvious ask, speaks the VERY FIRST LINE (S1): <d>[English] Can you work Christmas for me? You don't have kids.</d>
+
+[4.2-5.8s] Jess looks at her. She does not react with anger, and she does not answer quickly.
+
+[5.8-7.4s] Jess, flat and quiet, genuinely asking (S2): <d>[English] So?</d>
+
+[7.4-8.0s] Amanda holds her gaze, thrown by the answer.
+
+Speaker lock: Only Amanda, the older woman in the work blouse, speaks S1. Only Jess, the younger woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jess's lips stay completely closed while Amanda speaks, and Amanda's lips stay completely closed while Jess speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet office break room tone, a faint ventilation hum, a distant unintelligible murmur from the corridor, a cup shifting on the table. No narrator or voice-over. Only Amanda and Jess speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office break room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+AMANDA is the same 39-year-old woman with dark hair tied back, in the same plain work blouse, seated at the break room table facing Jess. She looks surprised by the response.
+
+JESS is the same 28-year-old woman with loose dark brown hair, in the same plain knit top, seated directly across from her.
+
+Amanda's children and Jess's family are mentioned but are NOT visible. There are NO children in this scene. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Amanda says "my kids" and Jess says "my family" — these must stay exactly as written and must never be swapped or made identical. The word "too" at the end of Jess's line must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no rota sheets, notices, calendars, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+Amanda and Jess face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.8s] Amanda, appealing to something she assumes is obvious, speaks the VERY FIRST LINE (S1): <d>[English] My kids only get one Christmas morning a year.</d>
+
+[3.8-4.4s] Jess does not look away. She answers without hesitating and without raising her voice.
+
+[4.4-7.8s] Jess, quiet and even (S2): <d>[English] And I only get one Christmas with my family too.</d>
+
+[7.8-8.0s] Amanda takes that in without replying.
+
+Speaker lock: Only Amanda, the older woman in the work blouse, speaks S1. Only Jess, the younger woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jess's lips stay completely closed while Amanda speaks, and Amanda's lips stay completely closed while Jess speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet break room tone, faint ventilation hum, distant unintelligible corridor murmur. No narrator or voice-over. Only Amanda and Jess speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office break room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Amanda staring at her and cuts hard.
+
+There are exactly two visible adult characters.
+
+AMANDA is the same 39-year-old woman with dark hair tied back, in the same plain work blouse, seated at the break room table facing Jess. She is increasingly frustrated.
+
+JESS is the same 28-year-old woman with loose dark brown hair, in the same plain knit top, seated directly across from her. She stays completely calm.
+
+Amanda's children are mentioned but are NOT visible. There are NO children in this scene. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Jess's final line contains "You chose" and "I didn't" — both must be clearly audible, and the line must be delivered at an unhurried pace with every word intact. Do not soften "You chose to have children" into a gentler phrasing.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no rota sheets, notices, calendars, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+Amanda and Jess face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.0s] Amanda, frustrated but still controlled, speaks the VERY FIRST LINE (S1): <d>[English] You seriously think that's the same as disappointing two children?</d>
+
+[4.0-4.4s] Jess stays completely calm. She does not flinch and she is not cruel.
+
+[4.4-7.8s] Jess, quiet, level, not triumphant (S2): <d>[English] You chose to have children. You don't get priority over my life because I didn't.</d>
+
+[7.8-8.0s] Amanda stares at her, silent. HARD CUT on her stare.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Amanda answer, concede, or reply after Jess's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them reconcile.
+Do not show Amanda's children, any child, or any other colleague at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Jess smirk, gloat, or look triumphant — she is stating a boundary, not winning.
+Do not have Amanda cry or become theatrical.
+Do not fade out.
+
+Speaker lock: Only Amanda, the older woman in the work blouse, speaks S1. Only Jess, the younger woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jess's lips stay completely closed while Amanda speaks, and Amanda's lips stay completely closed while Jess speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet break room tone, faint ventilation hum, distant unintelligible corridor murmur, falling to near silence under the final line. No narrator or voice-over. Only Amanda and Jess speak.
+
+non_diegetic_music: None.

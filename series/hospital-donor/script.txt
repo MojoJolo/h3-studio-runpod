@@ -1,0 +1,116 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside the reception area of a small private hospital. Warm recessed ceiling lights, pale stone floor, a curved reception desk out of focus in the background, two upholstered waiting chairs at frame left. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+MARGARET is a 58-year-old woman with fair skin, blonde hair set in a short blow-dried style, heavy gold earrings, a cream silk blouse and tailored navy trousers, holding a folded camel wool coat and a structured leather handbag. She is short and stands close, chin slightly lifted.
+
+RAY is a 46-year-old man with medium-brown skin, close-cropped black hair, light stubble, calm steady eyes, wearing a plain grey zip-up jacket, dark t-shirt and worn jeans. He is noticeably taller than her and remains still and relaxed throughout. The camera framing makes the height difference clearly visible, with Margaret looking slightly upward at him for the entire shot.
+
+Both speak natural conversational English.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Ray face each other at a natural three-quarter angle, standing about one arm's length apart. They speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a 35-degree side angle, not directly in front of either character. Neither character ever makes eye contact with the camera lens. No fourth-wall breaking.
+
+[0.0–0.4s] Start immediately mid-action with the coat already thrust forward into Ray's chest, Margaret's arm extended, her eyes on his jacket rather than his face.
+
+[0.4–2.2s] Margaret, brisk and clipped (S1), says: <d>[English] Hang that up and tell them I'm waiting.</d>
+
+[2.2–3.4s] Ray looks down at the coat pressed against him, then takes it without any change in expression, folding it over his left forearm. He does not step back.
+
+[3.4–5.2s] Ray, quiet and level (S2), asks: <d>[English] Waiting for who?</d>
+
+[5.2–6.6s] Margaret exhales a short breath of disbelief, glances once at his jeans, then back up at his face.
+
+[6.6–8.0s] Margaret, flatter and harder (S1), says: <d>[English] Whoever's in charge here.</d>
+
+Speaker lock: Only Margaret, the older blonde woman, speaks S1. Only Ray, the taller man in the grey jacket, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ray's lips stay completely closed while Margaret speaks, and Margaret's lips stay completely closed while Ray speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static shot with very subtle handheld realism. No cuts.
+
+overall_soundscape: Low reception-room ambience with a soft ventilation hum and a phone ringing twice at the desk in the background. Wool fabric rustles as the coat is pushed forward and folded, a handbag clasp taps, and one short disbelieving exhale is audible.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same private hospital reception, identical lighting, identical framing and identical wardrobe. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+MARGARET is a 58-year-old woman with fair skin, blonde hair set in a short blow-dried style, heavy gold earrings, a cream silk blouse and tailored navy trousers, carrying a structured leather handbag. She is short and stands close, chin slightly lifted.
+
+RAY is a 46-year-old man with medium-brown skin, close-cropped black hair, light stubble, calm steady eyes, wearing a plain grey zip-up jacket, dark t-shirt and worn jeans. He is noticeably taller than her and now holds her folded camel wool coat over his left forearm. The height difference stays clearly visible, Margaret still looking slightly upward at him.
+
+Both speak natural conversational English.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Ray face each other at a natural three-quarter angle, one arm's length apart. They speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at a 35-degree side angle, not directly in front of either character. Neither character ever makes eye contact with the camera lens. No fourth-wall breaking.
+
+[0.0–0.6s] Continue mid-scene. Margaret shifts her weight, tucks her handbag higher under her arm and tips her head as if explaining something to a child.
+
+[0.6–3.2s] Margaret, slowly and over-enunciated, one beat between each word (S1), says: <d>[English] Hang up the coat. And tell them Margaret Wilcox is waiting.</d>
+
+[3.2–4.4s] Ray does not react to the tone. He glances briefly down at the coat on his arm, then back to her face, still completely calm.
+
+[4.4–5.8s] Ray, quiet and level (S2), says: <d>[English] I heard you the first time.</d>
+
+[5.8–7.5s] Margaret, matter-of-fact rather than shouting, genuinely certain she is being reasonable (S1), says: <d>[English] I've used this hospital for eleven years. I know how it works.</d>
+
+[7.5–8.0s] Ray holds her gaze for a moment, then looks down at the coat.
+
+Speaker lock: Only Margaret, the older blonde woman, speaks S1. Only Ray, the taller man in the grey jacket, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ray's lips stay completely closed while Margaret speaks, and Margaret's lips stay completely closed while Ray speaks. Ray never raises his voice and never smiles.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static shot with very subtle handheld realism. No cuts.
+
+overall_soundscape: Low reception-room ambience with a soft ventilation hum, a distant trolley wheeling past on stone flooring and muffled voices behind the desk. Leather handbag creaks against silk fabric, and wool shifts on his forearm.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same private hospital reception, identical lighting, identical framing and identical wardrobe. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on the reveal and cuts on it.
+
+There are exactly two visible adult characters.
+
+MARGARET is a 58-year-old woman with fair skin, blonde hair set in a short blow-dried style, heavy gold earrings, a cream silk blouse and tailored navy trousers, carrying a structured leather handbag. She is short and stands close, chin slightly lifted.
+
+RAY is a 46-year-old man with medium-brown skin, close-cropped black hair, light stubble, calm steady eyes, wearing a plain grey zip-up jacket, dark t-shirt and worn jeans. He is noticeably taller than her and starts the shot holding her folded camel wool coat over his left forearm. The height difference remains clearly visible, Margaret looking slightly upward at him through the reveal.
+
+Both speak natural conversational English.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Ray face each other at a natural three-quarter angle. They speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at a 35-degree side angle, not directly in front of either character. Neither character ever makes eye contact with the camera lens. No fourth-wall breaking.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no name plaques, no donor boards, no signage, no legible lettering on badges, documents or the reception desk.
+
+[0.0–0.6s] Continue mid-scene with Ray already turning a quarter step toward the upholstered waiting chair at frame left, the coat lifting off his forearm.
+
+[0.6–2.2s] Physical action before any dialogue. Ray lays the camel coat over the back of the waiting chair, smooths it flat once with his palm, and turns back to face her. He does not hang it anywhere.
+
+[2.2–3.5s] Ray, quiet, flat and matter-of-fact, no edge in his voice (S2), says: <d>[English] I don't work here.</d>
+
+[3.5–4.3s] Margaret's face changes very slightly. A small restrained drop at the corners of her mouth, her chin lowering. No comedic shock, no gasp, no wide eyes.
+
+[4.3–5.8s] Ray, same calm register, no triumph, no emphasis (S2), says: <d>[English] I'm your kidney donor.</d>
+
+[5.8–6.5s] Margaret goes completely still. Her hand tightens on the handbag strap. She does not speak.
+
+[6.5–8.0s] Ray, flat and without cruelty, simply stating a decision (S2), says: <d>[English] Now I've changed my mind.</d>
+
+HARD CUT IMMEDIATELY at 8.0 seconds on Margaret's silence.
+
+Do not let Margaret speak, apologise, plead, or explain at any point in this clip.
+Do not show any staff member, nurse, doctor, receptionist, or bystander at any point.
+Do not add applause, reaction shots, or onlookers.
+Do not let Ray smirk, smile, gloat, raise his voice, or lean in.
+Do not have Ray walk out of frame.
+Do not resolve the aftermath, do not add another line, and do not fade out.
+
+Speaker lock: Only Ray, the taller man in the grey jacket, speaks in this clip, as S2. Margaret does not speak at all in this clip, her lips remain completely closed, and she reacts only with her face and posture. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish on a medium close two-shot. No cuts.
+
+overall_soundscape: Low reception-room ambience with a soft ventilation hum and muffled voices behind the desk. Wool coat brushes over the upholstered chair back and a palm smooths across the fabric, footsteps scuff once on stone, and the room falls to near silence under the final two lines.
+
+non_diegetic_music: None.

@@ -1,0 +1,32 @@
+subject_definitions:
+<Subject 1> is JACE, using <Picture 1> for his identity: East Asian man around 28, athletic martial artist, black undercut hair, dark charcoal tactical jacket with rolled sleeves, black cargo pants. Six thin glowing CYAN metal energy rings orbit his forearms; he controls them like whips and projectiles.
+<Subject 2> is MAYA, using <Picture 2> for her identity: Black woman around 26, lean and fast, long box braids tied back high, fitted red-and-black combat suit, fingerless gloves; her palms flash ORANGE when she absorbs or redirects momentum.
+<Subject 3> is VIKTOR, using <Picture 3> for his identity: enormous pale bald man around 40, seven feet tall, massively muscular, scar across one eyebrow, sleeveless torn grey shirt; superhuman strength, moves like a freight train.
+<Subject 4> is REI, using <Picture 4> for her identity: slim agile woman around 24, short platinum silver bob, black hooded bodysuit; her fists glow VIOLET and release short-range kinetic shockwaves.
+<Picture 5> is the location: a multi-level concrete parking structure at night in heavy rain, wet reflective floor, concrete pillars, flickering fluorescent tube lights, a black SUV, parked sedans, a sport motorcycle. Location/composition anchor only, no characters come from this picture.
+
+summary:
+[reference generation] Viktor smashes Jace through an SUV windshield; Jace answers with his rings and slams Viktor into a pillar; Rei drops in from above.
+
+retention_analysis:
+<Subject 1> to <Subject 4> fully_preserved: face, hair, skin tone, body and outfit from <Picture 1> to <Picture 4> respectively, including Jace's cyan rings, Maya's orange palm glow and Rei's violet fist glow.
+<Picture 5> is used only for the environment, layout and lighting; do not add any person from it.
+NEVER swap faces, hair, bodies, outfits or power colors between characters. Jace's power is always cyan rings, Maya's always orange palm flashes, Rei's always violet shockwaves, Viktor has no glow.
+
+detailed_description:
+CRITICAL AUDIO RULE: There is NO narrator and NO voice-over. ONLY dialogue written inside <d>...</d> may be spoken aloud. Everything else is SILENT visual direction. Apart from that, characters make only physical effort sounds (breaths, grunts), never words.
+CRITICAL VISUAL RULE: Only the named characters for this clip are visible. No bystanders, no extra fighters, no crowd. No on-screen text, subtitles, captions, logos or watermarks.
+LOCATION LOCK (same set in every shot of every clip): one continuous parking level, the same as <Picture 5>. Fixed layout: a row of square concrete pillars with yellow-and-black striped bases running away from camera; low ceiling with long fluorescent tube lights in parallel rows; wet grey concrete floor with yellow parking lines and puddles reflecting the lights; the black SUV parked nose-in on the left side; a row of parked sedans (white, silver, dark grey) along the right side; the sport motorcycle parked beside the second pillar; the open side of the structure on the right with rain blowing in. Every camera angle shows THIS same space from a different position: only the camera moves. Do not add, remove or relocate pillars, cars, the motorcycle or lights between shots, and do not change the lighting color or time of day. Damage is cumulative and stays: once the SUV windshield is shattered or a pillar is cracked, it stays shattered or cracked in every later shot.
+STYLE: Photorealistic live-action superhero film, practical-effects feel, anamorphic lens, rain and wet reflections, high-contrast teal and amber grading, fast precise fight choreography, weighty impacts, debris and sparks, slight handheld energy. Hard cuts on impact, no dissolves.
+Visible in this clip: Jace, Viktor and Rei (Rei only in the final shot). Maya is NOT in this clip.
+
+[Shot 1] Low wide angle on the wet floor. Viktor already mid-swing: his fist hits Jace square in the chest and Jace flies backward through the windshield of the black SUV in an explosion of glass. Rain in the lights.
+[Shot 2] At 00:01.800, cut to a fast tracking shot: Jace rolls across the SUV hood and lands in a crouch, glass sliding off him. Viktor charges at him from frame left, huge and fast.
+[Shot 3] At 00:03.400, cut to a close-up on Jace's forearms: he flicks both wrists, WHIP, WHIP, and two glowing cyan rings shoot out, streaking light, and lock around Viktor's arms.
+[Shot 4] At 00:04.800, cut to a wide side angle: Jace yanks both rings backward with his whole body and Viktor is pulled off his feet face-first into a concrete pillar; the pillar cracks, dust bursts. [00:06.800] A beat later Rei drops into frame from the level above, landing in a crouch between them, fists already glowing violet.
+
+overall_soundscape:
+Rain hammering the garage, tires hiss outside, a massive punch impact, a windshield shattering, glass raining onto metal, a thrown body denting a hood, two sharp metallic WHIP sounds, a bone-shaking concrete crack, Rei's light landing.
+
+non_diegetic_music:
+Driving cinematic action score: heavy taiko percussion and low pulsing synth bass, hitting accents on each impact.

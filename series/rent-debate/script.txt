@@ -1,0 +1,168 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary family drama inside a lived-in family kitchen in the evening, just after dinner. Warm overhead light, plates cleared to the side of the sink, two mugs on the table between them. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+DANIEL is a 55-year-old man with fair-medium skin, short greying hair, light stubble, reading glasses pushed up on his head, wearing a plain button-down shirt with the sleeves rolled. He is practical and calm, seated at the kitchen table facing his daughter.
+
+SOPHIE is a 25-year-old woman with fair-medium skin, dark brown hair tied back after work, wearing a plain work blouse with the top button undone. She is employed full-time and saving hard to move out. She is seated at the same kitchen table directly across from Daniel.
+
+They are father and daughter.
+
+Sophie's grandmother is mentioned later but is NOT visible at any point. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Daniel and Sophie face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.2s] Daniel, calm and matter-of-fact, speaks the VERY FIRST LINE (S1): <d>[English] Starting next month, I need you to pay rent.</d>
+
+[3.2-4.4s] Sophie stops with her hand on her mug. She does not raise her voice and does not look away.
+
+[4.4-6.8s] Sophie, level and tired rather than defiant (S2): <d>[English] I'm trying to save enough to leave.</d>
+
+[6.8-8.0s] Daniel holds her gaze without answering.
+
+Speaker lock: Only Daniel, the older man in the button-down shirt, speaks S1. Only Sophie, the younger woman in the work blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Sophie's lips stay completely closed while Daniel speaks, and Daniel's lips stay completely closed while Sophie speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet kitchen room tone, a soft refrigerator hum, a clock ticking faintly, one mug shifting on the table. No narrator or voice-over. Only Daniel and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same family kitchen, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+DANIEL is the same 55-year-old man with short greying hair, reading glasses pushed up on his head, in the same plain button-down shirt with rolled sleeves, seated at the kitchen table. He stays calm throughout.
+
+SOPHIE is the same 25-year-old woman with dark brown hair tied back, in the same plain work blouse, seated directly across from him.
+
+They are father and daughter.
+
+Sophie's grandmother is NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Daniel and Sophie face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.4s] Daniel, reasonable and unhurried, not accusing her, speaks the VERY FIRST LINE (S1): <d>[English] You work full-time. You use the room, food, electricity, everything.</d>
+
+[4.4-5.0s] Sophie does not look away. She takes the point seriously.
+
+[5.0-7.8s] Sophie, quiet and precise (S2): <d>[English] And every dollar I give you keeps me here longer.</d>
+
+[7.8-8.0s] Daniel takes that in without replying.
+
+Speaker lock: Only Daniel, the older man in the button-down shirt, speaks S1. Only Sophie, the younger woman in the work blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Sophie's lips stay completely closed while Daniel speaks, and Daniel's lips stay completely closed while Sophie speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock tick. No narrator or voice-over. Only Daniel and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same family kitchen, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. This shot ends on Daniel having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+DANIEL is the same 55-year-old man with short greying hair, reading glasses pushed up on his head, in the same plain button-down shirt with rolled sleeves, seated at the kitchen table.
+
+SOPHIE is the same 25-year-old woman with dark brown hair tied back, in the same plain work blouse, seated directly across from him.
+
+They are father and daughter.
+
+Sophie's grandmother is mentioned in dialogue but is NOT visible and does NOT appear. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The number in Sophie's line is "twenty-eight" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Daniel and Sophie face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.2s] Daniel pauses, choosing his number carefully rather than arguing.
+
+[1.2-4.2s] Daniel, calm and reasonable (S1): <d>[English] I'm not asking for market rent. Five hundred a month.</d>
+
+[4.2-4.8s] Sophie looks at him steadily. She does not raise her voice.
+
+[4.8-7.6s] Sophie, quiet, flat, not triumphant (S2): <d>[English] You paid nothing living with Grandma until you were twenty-eight.</d>
+
+[7.6-8.0s] Daniel goes quiet. He has no answer. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Daniel answer, concede, or reply after Sophie's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show the grandmother, any other family member, child, pet, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Sophie smirk, gloat, or look triumphant — she is making a point, not winning.
+Do not fade out.
+
+Speaker lock: Only Daniel, the older man in the button-down shirt, speaks S1. Only Sophie, the younger woman in the work blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Sophie's lips stay completely closed while Daniel speaks, and Daniel's lips stay completely closed while Sophie speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock tick, falling to near silence under the final line. No narrator or voice-over. Only Daniel and Sophie speak.
+
+non_diegetic_music: None.

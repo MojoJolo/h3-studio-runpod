@@ -1,3 +1,18 @@
+# H3 Studio (Runpod edition)
+
+This fork adds a **Runpod cloud GPU engine** (RTX 4090 + ComfyUI) to H3 Studio, plus Auto mode with brand profiles,
+a GPU panel with live cost/balance, and an episode-first history. It runs on **macOS, Linux and Windows (WSL)**;
+the original local Apple Silicon engine is optional.
+
+- **New machine?** → [`SETUP.md`](SETUP.md)
+- **Operating the Runpod engine** → [`docs/RUNPOD.md`](docs/RUNPOD.md)
+- **AI agents (Claude Code, Codex, Grok…)** → [`AGENTS.md`](AGENTS.md)
+- Speed & cost → [`docs/BENCHMARKS.md`](docs/BENCHMARKS.md) · Decisions & lessons → [`docs/DECISIONS-AND-LESSONS.md`](docs/DECISIONS-AND-LESSONS.md)
+
+The original README (local h3.c engine on Apple Silicon) follows.
+
+---
+
 # H3 Studio
 
 A zero-dependency local web GUI for [antirez/h3.c](https://github.com/antirez/h3.c) — MiniMax-H3 video generation (video + synchronized audio) on Apple Silicon Macs.

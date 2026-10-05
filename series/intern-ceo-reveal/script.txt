@@ -1,0 +1,163 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside a modern corporate strategy meeting room in the daytime. Soft overhead light, a long conference table, a closed laptop and a notebook in front of each of them, a window with blinds out of focus. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+DEREK is a 54-year-old man with fair skin, grey-flecked dark hair, polished and composed, wearing a charcoal suit jacket over an open-collar shirt. He genuinely believes he is being realistic, not cruel. He is SEATED at the conference table.
+
+MONICA is a 34-year-old woman with medium skin, dark hair in a low bun, wearing a tailored blazer, holding a pen over an open notebook. She is calm and completely unbothered. She is SEATED across the table from Derek.
+
+Do NOT show another character, and do not show any other executive or assistant in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Monica's line must be delivered as a genuine, unhurried question, not a defensive one — slow, one beat between "Why do you assume" and "I'm just taking notes."
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The meeting room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no legible text on the laptop screen, the notebook page, or anything else.
+
+IMPORTANT EYELINE LOCK:
+Derek and Monica face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Derek and Monica remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Both are already seated at the conference table, Monica already holding a pen over her open notebook. Derek is already mid-posture, dismissive.
+
+[0.4-3.2s] Derek, condescending, as if stating the obvious, speaks the VERY FIRST LINE (S1): <d>[English] Sweetheart, just write down what the real decision-makers say.</d>
+
+[3.2-3.8s] Monica looks at him, calm, unhurried, not offended.
+
+[3.8-8.0s] Monica, calm, genuinely asking, one deliberate beat mid-line (S2): <d>[English] Why do you assume I'm just taking notes?</d>
+
+Speaker lock: Only Derek, the man in the charcoal jacket, speaks S1. Only Monica, the woman with the notebook, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Monica's lips stay completely closed while Derek speaks, and Derek's lips stay completely closed while Monica speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet meeting-room ambience, a soft ventilation hum, a faint laptop fan. No narrator or voice-over. Only Derek and Monica speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same strategy meeting room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+DEREK is the same 54-year-old man with grey-flecked dark hair, in the same charcoal suit jacket, still SEATED at the conference table. He is not angry, just certain he is right.
+
+MONICA is the same 34-year-old woman with dark hair in a low bun, in the same tailored blazer, still SEATED across the table, pen still over her notebook. She remains completely calm and does not defend herself.
+
+Do NOT show another character or any other executive or assistant.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Only Derek speaks in this clip. Monica does not reply verbally at any point — her only response is staying calm and waiting him out. Do not invent a line for her.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The meeting room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Derek and Monica face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Derek and Monica remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Monica stays calm, pen still in hand, unbothered.
+
+[0.3-3.1s] Derek, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] Because that's clearly your role here.</d>
+
+[3.1-3.5s] Monica does not react. She waits, saying nothing, holding his gaze.
+
+[3.5-8.0s] Derek, flatter now, making a demand (S1): <d>[English] Just stick to the minutes and let the adults handle strategy.</d>
+
+Speaker lock: Only Derek, the man in the charcoal jacket, speaks S1. Monica does not speak in this clip; her lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet meeting-room ambience, soft ventilation hum, faint laptop fan. No narrator or voice-over. Only Derek speaks.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same strategy meeting room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Derek's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+DEREK is the same 54-year-old man with grey-flecked dark hair, in the same charcoal suit jacket, still SEATED at the conference table.
+
+MONICA is the same 34-year-old woman with dark hair in a low bun, in the same tailored blazer, still SEATED across the table at the start of this shot.
+
+Do NOT show another character or any other executive or assistant, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Monica speaks all three lines in this clip, each one flat and matter-of-fact, with no triumph, no smile, and no raised voice. A short, genuine silent beat separates each of her three lines — they are not rushed together.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The meeting room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Derek and Monica face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Derek and Monica remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Monica closes her notebook, sets the pen down on top of it, and meets his eyes directly. This physical gesture happens before she speaks.
+
+[0.5-2.7s] Monica, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] I'm not here to take notes.</d>
+
+[2.7-2.9s] A short beat. Derek says nothing yet.
+
+[2.9-4.6s] Monica, same calm register, no triumph (S2): <d>[English] I'm the interim CEO.</d>
+
+[4.6-4.8s] A short beat.
+
+[4.8-6.9s] Monica, plain, without emphasis (S2): <d>[English] And this is my first strategy meeting.</d>
+
+[6.9-8.0s] Derek says nothing, stunned, staring at her. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Derek answer, apologise, or reply after Monica's final line.
+Do not resolve it with a threat, a firing, or a demand for a refund — the fact is enough.
+Do not show any other executive or assistant at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Monica smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Derek walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Monica, the woman with the notebook, speaks S2 in this clip. Derek does not speak; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet meeting-room ambience, soft ventilation hum, the notebook closing, falling to near silence under her final line. No narrator or voice-over. Only Monica speaks.
+
+non_diegetic_music: None.

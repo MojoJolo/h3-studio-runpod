@@ -1,0 +1,196 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino family drama inside a modest but comfortable Metro Manila condominium living room at night. Natural restrained acting, realistic family tension, absurd situation played completely seriously.
+
+There are exactly two visible adult characters.
+
+CLAIRE is a 27-year-old Filipina working professional with warm medium skin, long dark brown hair, expressive brown eyes, wearing a fitted casual blouse and trousers. She is responsible, independent, and clearly not prepared for what her mother is about to ask.
+
+MAMA ROSE is a 53-year-old Filipina woman, visibly older than Claire, with warm medium skin, shoulder-length dark hair with visible strands of grey, fine lines around her eyes, a softer and more matronly build than Claire, wearing a simple house blouse and lounge pants. She is Claire's mother. She looks nervous but speaks as if her request is practical and reasonable.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Claire and Mama Rose must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Rose must remain visibly older than Claire throughout — an older woman's face, grey-streaked hair, and an older woman's posture — and must NEVER be rendered as a young woman or resemble Claire. Claire must remain visibly younger than Mama Rose throughout, with no grey hair and no older features. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Claire's older sister, JEN, is completely OFF-SCREEN.
+The baby's father is completely OFF-SCREEN.
+Do NOT show any third person. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both Claire and Mama Rose are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+Never speak timestamps, character descriptions, actions, speaker labels, pronunciation guidance, or production notes.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT alter verb aspect.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- anák = a-NAK, stress on NAK
+- ákin = A-kin, stress on A
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.8s] Start IMMEDIATELY with Mama Rose already facing Claire. There is no setup pause.
+
+Mama Rose (S2), quietly but matter-of-factly, says as the VERY FIRST LINE: <d>[Tagalog] Anák, sabihin natin na sa'yo yung baby ni Ate.</d>
+
+[2.8-4.3s] Claire freezes, genuinely thinking she misheard.
+
+Claire (S1): <d>[Tagalog] Ha? Sa ákin?</d>
+
+[4.3-6.2s] Mama Rose nods seriously.
+
+Mama Rose (S2): <d>[Tagalog] Ikaw muna yung magpanggap na nanay.</d>
+
+[6.2-8.0s] Claire stares at her mother in disbelief.
+
+Claire (S1): <d>[English] What the fuck?</d>
+
+Speaker lock: Only Claire, the visibly younger woman, speaks S1. Only Mama Rose, the visibly older woman, speaks S2. Never swap voices, dialogue, or lip movements. The listener keeps their mouth naturally closed while the other character speaks.
+
+Camera: Single continuous medium two-shot. No introductory movement. The immoral request must be spoken immediately.
+
+overall_soundscape: Quiet condominium ambience, faint air-conditioning, distant Metro Manila traffic, restrained tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium living room with the same characters, positions, wardrobe, and lighting. Claire now demands to know why her sister cannot simply acknowledge her own child. Mama Rose reveals the real reason.
+
+There are exactly two visible adult characters.
+
+CLAIRE is the same 27-year-old Filipina working professional, now angry and deeply confused.
+
+MAMA ROSE is the same 53-year-old Filipina mother, visibly older than Claire with grey-streaked hair and an older woman's face, uncomfortable but still defending the plan.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Claire and Mama Rose must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Rose must remain visibly older than Claire throughout and must NEVER be rendered as a young woman or resemble Claire. Claire must remain visibly younger than Mama Rose throughout. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Jen remains completely OFF-SCREEN.
+The baby's father remains completely OFF-SCREEN.
+Do NOT show another character. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- buntís = bun-TIS, stress on TIS
+- asáwa = a-SA-wa, stress on SA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.0s] Claire immediately demands an explanation (S1): <d>[Tagalog] Bakit hindi si Ate ang umamin na baby niya?</d>
+
+[2.0-3.8s] Mama Rose hesitates only briefly, then answers (S2): <d>[Tagalog] Kasi may asáwa yung tatay.</d>
+
+[3.8-5.2s] Claire's eyes widen.
+
+Claire (S1): <d>[Tagalog] Alam niyang may asáwa?</d>
+
+[5.2-6.8s] Mama Rose replies quietly but plainly (S2): <d>[Tagalog] Alam niya.</d>
+
+[6.8-8.0s] Claire looks disgusted.
+
+Claire (S1): <d>[Tagalog] Tapos ako ang tatakip?</d>
+
+Speaker lock: Only Claire, the visibly younger woman, speaks S1. Only Mama Rose, the visibly older woman, speaks S2. Never swap voices, dialogue, or lip movements.
+
+Camera: Single continuous medium close two-shot. Keep the acting restrained. Mama Rose should sound embarrassed by the situation, but not enough to reject the plan.
+
+overall_soundscape: Same quiet condominium ambience, faint air-conditioning, distant traffic, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same living room. Claire thinks the plan is already outrageous. Mama Rose now reveals why Claire specifically was chosen to carry the lie. The final line should make the moral logic even worse.
+
+There are exactly two visible adult characters.
+
+CLAIRE is the same 27-year-old Filipina working professional, furious and disgusted.
+
+MAMA ROSE is the same 53-year-old Filipina mother, visibly older than Claire with grey-streaked hair and an older woman's face, defensive and sincerely convinced that Claire should sacrifice because she is the responsible one.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Claire and Mama Rose must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Rose must remain visibly older than Claire throughout and must NEVER be rendered as a young woman or resemble Claire. Claire must remain visibly younger than Mama Rose throughout. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Jen remains completely OFF-SCREEN.
+The married father remains completely OFF-SCREEN.
+Do NOT show another character. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- anák = a-NAK, stress on NAK
+- trabáho = tra-BA-ho, stress on BA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-1.9s] Claire stares directly at Mama Rose and asks angrily (S1): <d>[Tagalog] Bakit ako?</d>
+
+[1.9-4.1s] Mama Rose answers with complete sincerity (S2): <d>[Tagalog] Kasi single ka. Wala namang magtatanong.</d>
+
+[4.1-5.7s] Claire looks horrified.
+
+Claire (S1): <d>[Tagalog] So sisirain ko pangalan ko para sa kanila?</d>
+
+[5.7-8.0s] Mama Rose replies as though Claire is being selfish (S2): <d>[Tagalog] Ikaw yung may trabáho. Kaya mong buhayin yung anák.</d>
+
+Claire goes completely still.
+
+CUT ABRUPTLY.
+
+Do not make Mama Rose apologize.
+Do not show Jen.
+Do not show the married father.
+Do not resolve whether Claire agrees.
+End on the implication that the family expects Claire not only to take the blame, but also to financially raise the child because she is the responsible sibling.
+
+Speaker lock: Only Claire, the visibly younger woman, speaks S1. Only Mama Rose, the visibly older woman, speaks S2. Never swap voices, dialogue, or lip movements.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the abrupt ending. Prioritize Claire's reaction to "Ikaw yung may trabáho. Kaya mong buhayin yung anák."
+
+overall_soundscape: Same quiet condominium ambience, tense breathing, faint air-conditioning, distant traffic, restrained natural voices. Abrupt audio cut.
+
+non_diegetic_music: N/A

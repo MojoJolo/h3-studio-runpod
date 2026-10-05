@@ -1,0 +1,167 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern kitchen at night. Warm under-cabinet lighting, a kitchen island between them, two mugs and a baby bottle drying on a rack. Grounded restrained acting, a married couple discussing childcare and work. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+NICOLE is a 34-year-old woman with fair-medium skin, dark brown hair tied back after work, wearing a plain blouse with the sleeves pushed up. She is successful and career-driven and considers herself strongly pro-equality. She stands on one side of the kitchen island facing Ben.
+
+BEN is a 36-year-old man with fair-medium skin, short dark hair, light stubble, wearing a plain long-sleeve t-shirt. He is burned out from work and wants to become the primary parent at home. He stands on the other side of the island directly facing her.
+
+They are husband and wife.
+
+Their baby is mentioned in dialogue but is NOT visible. There are NO children anywhere in this scene. Do NOT show a child, a cot, or another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No baby sounds or crying are present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no payslips, bills, calendars, labels, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+Nicole and Ben face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are standing at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other, and neither sits down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.8s] Ben, calm and tentative, floating an idea rather than announcing it, speaks the VERY FIRST LINE (S2): <d>[English] I'm thinking about quitting and staying home with the baby.</d>
+
+[3.8-4.6s] Nicole looks at him. She does not raise her voice.
+
+[4.6-7.7s] Nicole, flat and immediate (S1): <d>[English] I didn't marry a man so I could financially support him.</d>
+
+[7.7-8.0s] Ben holds her gaze without answering.
+
+Speaker lock: Only Nicole, the woman in the blouse, speaks S1. Only Ben, the man in the long-sleeve t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ben's lips stay completely closed while Nicole speaks, and Nicole's lips stay completely closed while Ben speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet kitchen room tone at night, a soft refrigerator hum, a faint clock, distant muffled street noise. No narrator or voice-over. Only Nicole and Ben speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+NICOLE is the same 34-year-old woman with dark brown hair tied back, in the same plain blouse, standing on her side of the kitchen island facing Ben.
+
+BEN is the same 36-year-old man with short dark hair and light stubble, in the same plain long-sleeve t-shirt, standing on the other side facing her. He is taken aback but stays calm.
+
+Their baby is mentioned but is NOT visible. There are NO children anywhere in this scene. Do NOT show a child or another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No baby sounds or crying are present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The word "twice" in Ben's line must be clearly audible. Nicole's line begins with "It's not just about the money." followed by a short pause, then the rest — both halves must be audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no payslips, bills, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+Nicole and Ben face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.5s] Ben, calm and factual, not pleading, speaks the VERY FIRST LINE (S2): <d>[English] You make twice what I do, and daycare costs almost my entire salary.</d>
+
+[4.5-4.9s] Nicole does not look away. She answers without hesitating.
+
+[4.9-7.8s] Nicole, firm and certain (S1): <d>[English] It's not just about the money. I want a husband with ambition.</d>
+
+[7.8-8.0s] Ben takes that in without replying.
+
+Speaker lock: Only Nicole, the woman in the blouse, speaks S1. Only Ben, the man in the long-sleeve t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ben's lips stay completely closed while Nicole speaks, and Nicole's lips stay completely closed while Ben speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock. No narrator or voice-over. Only Nicole and Ben speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Nicole having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+NICOLE is the same 34-year-old woman with dark brown hair tied back, in the same plain blouse, standing on her side of the kitchen island facing Ben.
+
+BEN is the same 36-year-old man with short dark hair and light stubble, in the same plain long-sleeve t-shirt, standing on the other side facing her.
+
+Their baby is mentioned but is NOT visible. There are NO children anywhere in this scene. Do NOT show a child or another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No baby sounds or crying are present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nicole's middle line is exactly two words, "That's different." — it must be clearly audible and must not be dropped, extended, or run into Ben's next line. Ben's final line is exactly "Why? Because I'm the man?" — the word "Why?" stands alone as its own question and must not be merged into the rest of the sentence.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Nicole and Ben face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.1s] Ben looks directly at her and speaks the VERY FIRST LINE (S2), quiet and genuinely asking: <d>[English] If you stayed home, would that mean you had no ambition?</d>
+
+[4.1-4.7s] Nicole pauses. For the first time she does not have an immediate answer ready.
+
+[4.7-5.7s] Nicole, quieter, less certain (S1): <d>[English] That's different.</d>
+
+[5.7-6.0s] Ben answers immediately, without any satisfaction in it.
+
+[6.0-8.0s] Ben, quiet, flat, not triumphant (S2): <d>[English] Why? Because I'm the man?</d>
+
+[7.9-8.0s] Nicole has no immediate response. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Nicole answer, concede, or reply after Ben's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show a baby, a child, or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Ben smirk, gloat, or look triumphant — he is asking a real question, not scoring a point.
+Do not fade out.
+
+Speaker lock: Only Nicole, the woman in the blouse, speaks S1. Only Ben, the man in the long-sleeve t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ben's lips stay completely closed while Nicole speaks, and Nicole's lips stay completely closed while Ben speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock, falling to near silence under the final line. No narrator or voice-over. Only Nicole and Ben speak.
+
+non_diegetic_music: None.

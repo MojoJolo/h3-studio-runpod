@@ -1,0 +1,174 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino marriage drama-comedy inside a small modern condominium living room in Metro Manila at night. Natural restrained acting, realistic husband-wife tension, dry absurd humor played completely seriously.
+
+There are exactly two visible adult characters.
+
+MARA is a 30-year-old Filipina working professional with warm medium skin, long dark brown hair tied loosely after work, expressive brown eyes, wearing office slacks and a fitted blouse. She has just arrived home carrying her handbag and looks visibly exhausted.
+
+VINCE is a 32-year-old Filipino man with warm tan skin, short black hair, clean-shaven, wearing an oversized T-shirt and shorts. He is Mara's husband. He has been unemployed for several months and is lounging comfortably on the sofa with his phone in his hand.
+
+Both Mara and Vince are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame, including in the background, doorway, window, hallway, or out of focus. The condominium living room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind.
+
+PRONUNCIATION LOCK:
+- kúlang = KU-lang, stress on KU
+- trabáho = tra-BA-ho, stress on BA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.4s] Start IMMEDIATELY as Mara enters the living room. Vince barely looks up from his phone and says as the VERY FIRST LINE, mildly annoyed (S2): <d>[Tagalog] Babe, dagdagan mo allowance ko. Kúlang yung ten thousand.</d>
+
+[2.4-4.4s] Mara stops and stares at him.
+
+Mara (S1), incredulous, asks: <d>[Tagalog] Allowance? Wala ka ngang trabáho.</d>
+
+[4.4-6.1s] Vince looks at her as though her question makes no sense and replies (S2): <d>[Tagalog] Kaya nga humihingi ako.</d>
+
+[6.1-8.0s] Mara's exhausted expression turns into disbelief.
+
+Speaker lock: Only Mara speaks S1. Only Vince speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium two-shot. No introductory pause. Start with Vince already asking for money.
+
+overall_soundscape: Quiet condominium ambience, faint air-conditioning, distant Metro Manila traffic, subtle phone sounds, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium living room with the same characters, wardrobe, lighting, and positions. Mara is frustrated because she has been financially supporting the household while Vince remains unemployed. Vince genuinely believes that because Mara earns enough, there is no urgent reason for him to work.
+
+There are exactly two visible adult characters.
+
+MARA is the same 30-year-old Filipina working wife, exhausted and increasingly angry.
+
+VINCE is the same 32-year-old Filipino husband, relaxed, defensive, and completely comfortable with the current arrangement.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame, including in the background, doorway, window, hallway, or out of focus. The condominium living room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind.
+
+PRONUNCIATION LOCK:
+- trabáho = tra-BA-ho, stress on BA
+- swéldo = SWEL-do, stress on SWEL
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.2s] Mara immediately says angrily (S1): <d>[Tagalog] Vince, tatlong buwan ka nang walang trabáho.</d>
+
+[2.2-3.8s] Vince replies calmly (S2): <d>[Tagalog] Hindi naman tayo naghihirap.</d>
+
+[3.8-5.3s] Mara stares at him and fires back (S1): <d>[Tagalog] Kasi ako lahat nagbabayad!</d>
+
+[5.3-8.0s] Vince answers with complete sincerity (S2): <d>[Tagalog] Eh malaki naman swéldo mo.</d>
+
+Mara looks at him in disgusted disbelief.
+
+Speaker lock: Only Mara speaks S1. Only Vince speaks S2. Never swap dialogue, voices, or lip movements.
+
+Camera: Single continuous medium close two-shot. No cuts. Vince should sound genuinely convinced that Mara's salary solves the problem.
+
+overall_soundscape: Same quiet condominium ambience, faint air-conditioning, distant traffic, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same condominium living room. Mara now points out that if Vince is not working, he should at least contribute by handling chores at home. Vince is offended by the suggestion and treats basic household work as beneath him. His final line should be shameless, absurd-but-plausible, and rage-inducing.
+
+There are exactly two visible adult characters.
+
+MARA is the same 30-year-old Filipina working wife, now furious and emotionally exhausted.
+
+VINCE is the same 32-year-old Filipino husband, defensive and genuinely offended that Mara expects him to do housework.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame, including in the background, doorway, window, hallway, or out of focus. The condominium living room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind.
+
+PRONUNCIATION LOCK:
+- asáwa = a-SA-wa, stress on SA
+- katúlong = ka-TU-long, stress on TU
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.2s] Mara looks directly at Vince and says firmly (S1): <d>[Tagalog] Eh di ikaw muna sa luto, laba, at linis.</d>
+
+[2.2-3.6s] Vince immediately looks offended and replies (S2): <d>[Tagalog] Bakit ako?</d>
+
+[3.6-5.3s] Mara stares at him and snaps (S1): <d>[Tagalog] Kasi nasa bahay ka buong araw!</d>
+
+[5.3-8.0s] Vince answers with complete conviction, genuinely believing this ends the argument (S2): <d>[Tagalog] Asáwa mo ako, hindi katúlong.</d>
+
+Mara goes completely still in disbelief.
+
+CUT ABRUPTLY.
+
+Do not make Vince apologize.
+Do not resolve whether Vince looks for work.
+Do not make Mara agree to keep supporting him.
+End on Vince sincerely believing that being Mara's husband exempts him from contributing through household work.
+
+Speaker lock: Only Mara speaks S1. Only Vince speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the abrupt ending. Prioritize Mara's reaction to "Asáwa mo ako, hindi katúlong."
+
+overall_soundscape: Same quiet condominium ambience, tense breathing, faint air-conditioning, distant traffic, natural restrained voices. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

@@ -1,0 +1,157 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside a small upscale bakery tasting room in the daytime. Warm natural light from a front window, a white-clothed tasting table with three small cake samples on plates, a silver dessert fork, a framed wedding-cake photo on the wall behind. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+DIANE is a 58-year-old woman with fair skin, short ash-blonde hair, a pearl necklace, wearing a cream cardigan over a silk blouse. She genuinely believes she is being reasonable, not rude. She is SEATED at the tasting table.
+
+MARCUS is a 30-year-old man with dark brown skin, a short black fade haircut and a neatly trimmed beard, wearing a plain gray hoodie with flour dusted on both sleeves. He is holding a white cake box in both hands. He is calm and completely unbothered. He is STANDING beside the table, facing Diane.
+
+Do NOT show another character, and do not show any other customer or staff member in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Marcus's line is a genuine, unhurried question, not defensive — slow and even.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The tasting room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — the cake box and the wall photo show no readable text or logo.
+
+IMPORTANT EYELINE LOCK:
+Diane and Marcus face each other and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Diane stays SEATED and Marcus stays STANDING for the entire shot, so Marcus is visibly higher in frame than Diane throughout.
+
+[0.0-0.4s] Start immediately mid-scene. Marcus is already standing beside the table holding the cake box, Diane already seated looking up at him. No one walking into frame.
+
+[0.4-3.8s] Diane, dismissive, not even looking at the box, speaks the VERY FIRST LINE (S1): <d>[English] Just put it down. I don't discuss my son's wedding with the delivery boy.</d>
+
+[3.8-4.4s] Marcus looks at her, calm, unhurried, not offended.
+
+[4.4-8.0s] Marcus, calm, genuinely asking, even and unhurried (S2): <d>[English] Is something wrong with the samples?</d>
+
+Speaker lock: Only Diane, the seated woman in the pearl necklace, speaks S1. Only Marcus, the standing man in the gray hoodie, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Marcus's lips stay completely closed while Diane speaks, and Diane's lips stay completely closed while Marcus speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible, Marcus standing higher in frame than seated Diane. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet bakery tasting-room ambience, the faint hum of a display fridge, distant soft clatter from a kitchen through a closed door. No narrator or voice-over. Only Diane and Marcus speak.
+
+non_diegetic_music: None.
+
+---
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside the same small upscale bakery tasting room in the daytime. Same warm window light, same white-clothed tasting table with three cake samples and a silver dessert fork. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+DIANE is a 58-year-old woman with fair skin, short ash-blonde hair, a pearl necklace, wearing a cream cardigan over a silk blouse. She is SEATED at the tasting table.
+
+MARCUS is a 30-year-old man with dark brown skin, a short black fade haircut and a neatly trimmed beard, wearing a plain gray hoodie with flour dusted on both sleeves, still holding the white cake box. He is STANDING beside the table.
+
+Do NOT show another character, and do not show any other customer or staff member in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Diane and Marcus face each other. Neither character looks toward or acknowledges the camera. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Diane stays SEATED and Marcus stays STANDING for the entire shot, Marcus visibly higher in frame.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Marcus stays calm, unbothered, holding the box.
+
+[0.3-3.4s] Diane, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] I booked the man on the website. Not his errand runner.</d>
+
+[3.4-3.8s] Marcus does not react. He waits, saying nothing, holding her gaze.
+
+[3.8-8.0s] Diane, flatter now, making a demand, waving a hand toward the kitchen door (S1): <d>[English] Go get the baker. The real one.</d>
+
+Speaker lock: Only Diane, the seated woman in the pearl necklace, speaks S1. Marcus does not speak in this clip; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet tasting-room ambience, faint display-fridge hum. No narrator or voice-over. Only Diane speaks.
+
+non_diegetic_music: None.
+
+---
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside the same small upscale bakery tasting room in the daytime. Same warm window light, same white-clothed tasting table with three cake samples and a silver dessert fork. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+DIANE is a 58-year-old woman with fair skin, short ash-blonde hair, a pearl necklace, wearing a cream cardigan over a silk blouse. She is SEATED at the tasting table.
+
+MARCUS is a 30-year-old man with dark brown skin, a short black fade haircut and a neatly trimmed beard, wearing a plain gray hoodie with flour dusted on both sleeves. He is STANDING beside the table.
+
+Do NOT show another character, and do not show any other customer or staff member in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Diane and Marcus face each other. Neither character looks toward or acknowledges the camera. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Diane stays SEATED and Marcus stays STANDING for the entire shot, Marcus visibly higher in frame.
+
+[0.0-0.6s] Continue mid-scene with no pause or reset. Marcus sets the white cake box down on the table directly in front of Diane, then brushes the flour off his sleeves and meets her eyes directly. This physical gesture happens before he speaks.
+
+[0.6-2.6s] Marcus, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] I am the baker.</d>
+
+[2.6-2.9s] A short beat. Diane says nothing yet.
+
+[2.9-5.8s] Marcus, same calm register, no triumph (S2): <d>[English] And your Saturday just went to the couple on my waitlist.</d>
+
+[5.8-8.0s] Diane says nothing, stunned, staring up at him. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Diane answer, apologise, or reply after Marcus's final line.
+Do not resolve it with a threat, a refund, or a manager.
+Do not show any other customer or staff member at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Marcus smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Marcus walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Marcus, the standing man in the gray hoodie, speaks S2 in this clip. Diane does not speak; her lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet tasting-room ambience, faint display-fridge hum, falling to near silence under his final line. No narrator or voice-over. Only Marcus speaks.
+
+non_diegetic_music: None.

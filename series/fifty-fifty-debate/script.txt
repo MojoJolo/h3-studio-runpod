@@ -1,0 +1,166 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern apartment kitchen in the evening. Warm under-cabinet lighting, a kitchen island between them with a closed laptop and a couple of envelopes pushed to one side. Grounded restrained acting, a married couple arguing after going through their monthly expenses. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+JULIA is a 32-year-old woman with fair-medium skin, dark brown hair tied back after work, wearing a plain fitted top. She is independent and career-focused and strongly believes marriage should be equal. She stands on one side of the kitchen island, facing Ryan.
+
+RYAN is a 35-year-old man with fair-medium skin, short dark hair, light stubble, wearing a plain long-sleeve shirt with the sleeves pushed up. He is traditional in some ways and increasingly frustrated about carrying most of the expenses. He stands on the other side of the island directly facing her.
+
+They are husband and wife.
+
+No one else lives here and no one else is present. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase in Ryan's line is "fifty-fifty" and must be clearly audible as two words.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no bills, statements, receipts, or papers with legible writing, and no visible screen text. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Julia and Ryan face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are standing at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other, and neither sits down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.6s] Ryan, frustrated but controlled, not shouting, speaks the VERY FIRST LINE (S2): <d>[English] You want everything fifty-fifty except when the bill comes.</d>
+
+[3.6-4.8s] Julia looks at him. She does not raise her voice and does not look away.
+
+[4.8-7.6s] Julia, level and firm (S1): <d>[English] I'm your wife. Not your roommate.</d>
+
+[7.6-8.0s] Ryan holds her gaze without answering.
+
+Speaker lock: Only Julia, the woman in the fitted top, speaks S1. Only Ryan, the man in the long-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ryan's lips stay completely closed while Julia speaks, and Julia's lips stay completely closed while Ryan speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet apartment kitchen room tone, a soft refrigerator hum, a faint clock, distant muffled street noise. No narrator or voice-over. Only Julia and Ryan speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment kitchen, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+JULIA is the same 32-year-old woman with dark brown hair tied back, in the same plain fitted top, standing on her side of the kitchen island facing Ryan.
+
+RYAN is the same 35-year-old man with short dark hair and light stubble, in the same plain long-sleeve shirt with sleeves pushed up, standing on the other side facing her. He stays calm but is clearly irritated.
+
+No one else is present. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Julia's line begins with "I don't." followed by a short pause, then the rest. Those words must be clearly audible and must not be run into what follows. The final word is "equally" and must not be changed to "equal."
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no bills, statements, or papers with legible writing. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Julia and Ryan face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.8s] Ryan, calm but clearly irritated, speaks the VERY FIRST LINE (S2): <d>[English] You said you didn't need a man to provide for you.</d>
+
+[3.8-4.4s] Julia does not look away. She answers without hesitating.
+
+[4.4-7.8s] Julia, firm and precise (S1): <d>[English] I don't. But I'm not marrying a man just to struggle equally.</d>
+
+[7.8-8.0s] Ryan takes that in without replying.
+
+Speaker lock: Only Julia, the woman in the fitted top, speaks S1. Only Ryan, the man in the long-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ryan's lips stay completely closed while Julia speaks, and Julia's lips stay completely closed while Ryan speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet apartment kitchen room tone, soft refrigerator hum, faint clock. No narrator or voice-over. Only Julia and Ryan speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment kitchen, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on the two of them mirrored against each other and cuts hard.
+
+There are exactly two visible adult characters.
+
+JULIA is the same 32-year-old woman with dark brown hair tied back, in the same plain fitted top, standing on her side of the kitchen island facing Ryan.
+
+RYAN is the same 35-year-old man with short dark hair and light stubble, in the same plain long-sleeve shirt, standing on the other side facing her.
+
+No one else is present. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: These two lines are deliberately mirrored. Ryan says "a modern marriage with a traditional husband" and Julia says "a traditional wife who still pays half." The words "modern" and "traditional" must stay exactly where they are written in each line and must never be swapped between the two speakers. Both lines must be delivered at an unhurried pace with every word audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no bills, statements, or papers with legible writing. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Julia and Ryan face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other. The framing should feel symmetrical — this is the moment they become mirror images of the same argument.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.0s] Ryan pauses, then looks directly at her. He is naming what he thinks she is actually asking for.
+
+[1.0-4.4s] Ryan, quiet and level, no edge (S2): <d>[English] So you want a modern marriage with a traditional husband?</d>
+
+[4.4-4.7s] Julia does not pause at all. She answers immediately.
+
+[4.7-7.6s] Julia, quick, flat, not triumphant (S1): <d>[English] And you want a traditional wife who still pays half.</d>
+
+[7.6-8.0s] Neither of them answers. They stare at each other. HARD CUT.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let either character reply after Julia's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show any bill, statement, receipt, calculator, or open laptop at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let either character smirk, gloat, or look triumphant — both are naming something true, and neither is winning.
+Do not fade out.
+
+Speaker lock: Only Julia, the woman in the fitted top, speaks S1. Only Ryan, the man in the long-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ryan's lips stay completely closed while Julia speaks, and Julia's lips stay completely closed while Ryan speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces, keeping both equally framed. No cuts.
+
+overall_soundscape: Same quiet apartment kitchen room tone, soft refrigerator hum, faint clock, falling to near silence under the final two lines. No narrator or voice-over. Only Julia and Ryan speak.
+
+non_diegetic_music: None.

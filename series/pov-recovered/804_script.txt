@@ -1,0 +1,88 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic spontaneous handheld smartphone footage inside a small suburban kitchen at night. Vertical, casual, slightly imperfect framing, natural small camera movement — this feels captured in the moment on a phone, not professionally filmed. Warm overhead kitchen light, dishes still in the sink.
+
+There are exactly two visible adult characters.
+
+MARCUS is a 34-year-old man in a wrinkled grey work shirt with the sleeves pushed up, standing at the kitchen counter gripping his phone, agitated, already mid-panic, doing math in his head.
+
+RACHEL is a 32-year-old woman, visibly about six months pregnant, in a loose navy t-shirt and leggings, holding a folded hospital appointment card, standing across the counter from him, calm and very still.
+
+They are married.
+
+Both speak natural conversational English.
+
+CRITICAL AUDIO RULE:
+There is NO narrator and NO disembodied voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters (S1, S2). No other voice speaks — not the person filming, not anyone off-screen.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns (e.g. do not change "you" to "I" or vice versa).
+Do NOT alter verb tense.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+IMPORTANT: The exact word at the end of the first line is "too," not "to." It must be clearly audible.
+
+The camera holds a handheld medium two-shot with natural small movement and slightly loose framing. Neither visible character looks at the camera at any point. No text is legible on the phone screen.
+
+Marcus stares down at the calendar on his phone with the screen angled away from the camera, drags one hand down his face, and turns to Rachel as the words come out of him before he can stop them.
+
+MARCUS (S1), a man in his thirties with a tight, panicked voice, speaks the VERY FIRST LINE: <d>[English] You can't be due in March too!</d>
+
+Rachel goes completely still, the appointment card lowering in her hand, and repeats the single word back at him without raising her voice.
+
+RACHEL (S2), a woman in her thirties with a low, flat, quiet voice, replies: <d>[English] Too?</d>
+
+Marcus does not flinch and does not deny it — he lifts the phone toward her like he is presenting a scheduling conflict he is being unfairly blamed for.
+
+MARCUS (S1), defensive, talking faster, as if being reasonable: <d>[English] I can't be in two hospitals in one week, Rachel.</d>
+
+Speaker lock: Only MARCUS, the man in the grey work shirt (S1), speaks S1. Only RACHEL, the pregnant woman in the navy t-shirt (S2), speaks S2. Never swap dialogue, voices, or lip movements between them.
+
+overall_soundscape: Low refrigerator hum and faint late-night traffic outside the kitchen window. Small handheld movement and fabric rustle from the phone holding the shot, a hard exhale, and the soft tap of a phone being set down on the counter.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic spontaneous handheld smartphone footage continuing immediately in the exact same small suburban kitchen at night, same warm overhead light, same dishes in the sink, same wardrobe and positions. Vertical, casual, slightly imperfect framing, natural small camera movement.
+
+There are exactly two visible adult characters.
+
+MARCUS is the same 34-year-old man in the wrinkled grey work shirt with sleeves pushed up, still at the kitchen counter, still holding his phone, now shifting into problem-solving mode as if this were a logistics issue.
+
+RACHEL is the same 32-year-old woman, visibly about six months pregnant, in the loose navy t-shirt and leggings, still holding the folded appointment card, completely still.
+
+They are married.
+
+Both speak natural conversational English.
+
+CRITICAL AUDIO RULE:
+There is NO narrator and NO disembodied voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters (S1, S2). No other voice speaks — not the person filming, not anyone off-screen.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+The camera holds a handheld medium two-shot with natural small movement. Neither visible character looks at the camera at any point. No text is legible on the phone screen.
+
+Marcus turns the phone face down on the counter and says it like he is reading out an arrangement that has already been settled.
+
+MARCUS (S1), matter-of-fact, almost relieved to be organising it: <d>[English] I already booked the week of the ninth off. For hers.</d>
+
+Rachel does not move. The appointment card bends slightly in her hand.
+
+RACHEL (S2), quiet, flat, not raising her voice at all: <d>[English] What the fuck.</d>
+
+Marcus spreads both hands, genuinely offended, as if she is being unreasonable about a scheduling constraint.
+
+MARCUS (S1), completely sincere, explaining it patiently: <d>[English] Hers is a scheduled C-section. Yours could be any day. That's harder to plan around.</d>
+
+Rachel stares at him. Hold on her face. CUT ABRUPTLY.
+
+Speaker lock: Only MARCUS, the man in the grey work shirt (S1), speaks S1. Only RACHEL, the pregnant woman in the navy t-shirt (S2), speaks S2. Never swap dialogue, voices, or lip movements between them.
+
+overall_soundscape: Low refrigerator hum and faint late-night traffic outside the window. Small handheld movement, the soft flat sound of a phone being turned face down on the counter, then tense silence. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

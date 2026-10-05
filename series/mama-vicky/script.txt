@@ -1,0 +1,196 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino family drama inside a stylish but lived-in condominium living room in Metro Manila in the evening. Natural restrained acting, realistic uncomfortable family tension, not exaggerated teleserye performance.
+
+There are exactly two visible adult characters.
+
+JESSA is a 22-year-old Filipina young woman with warm medium skin, long straight dark brown hair, expressive brown eyes, wearing a fitted spaghetti-strap crop top and high-waisted jeans. She is relaxed at first, then quickly becomes confused and alarmed.
+
+MAMA VICKY is a 45-year-old Filipina woman with warm medium skin, shoulder-length dark brown hair styled neatly, striking features, and a poised, confident bearing. She is strikingly attractive and looks at least a decade younger than her age — people routinely assume she is Jessa's older sister rather than her mother — and she carries herself like a woman who is used to being noticed. She is wearing a fitted sleeveless house top with lounge shorts, well-chosen ordinary home clothing. She is Jessa's mother. She looks nervous but unusually composed, as if she has already decided she needs to confess something.
+
+Jessa's boyfriend and Jessa's father are NOT visible.
+There are exactly two visible characters throughout the shot.
+
+Both Jessa and Mama Vicky are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+Never speak character descriptions, speaker labels, timestamps, pronunciation guidance, or production instructions aloud.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+PRONUNCIATION LOCK:
+- buntís = bun-TIS, stress on TIS
+- tátay = TA-tay, stress on TA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–0.8s] Mama Vicky stands across from Jessa, visibly nervous. Jessa senses something is wrong.
+
+[0.8–3.5s] Mama Vicky looks directly at Jessa and says as the VERY FIRST LINE (S2): <d>[Tagalog] Buntís ako. Pero hindi si Papa ang tátay.</d>
+
+[3.5–4.8s] Jessa freezes completely.
+
+[4.8–6.0s] Jessa blurts out in disbelief (S1): <d>[Tagalog] Ano?</d>
+
+[6.0–7.4s] Jessa stares at her mother and asks sharply (S1): <d>[Tagalog] Eh sino?</d>
+
+[7.4–8.0s] Mama Vicky hesitates and avoids Jessa's eyes.
+
+CUT TO NEXT CLIP.
+
+Speaker lock: Only Jessa speaks S1. Only Mama Vicky speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous intimate medium two-shot. No cuts. Prioritize Jessa's reaction immediately after "hindi si Papa ang tátay."
+
+overall_soundscape: Quiet family-home room tone, faint electric fan, distant Metro Manila traffic, soft breathing, natural tense voices. No narrator or voice-over.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium living room with the same characters, wardrobe, lighting, and positions. Jessa is waiting for her mother to reveal who fathered the baby. Keep the acting restrained, realistic, and painfully uncomfortable.
+
+There are exactly two visible adult characters.
+
+JESSA is the same 22-year-old Filipina woman wearing the same spaghetti-strap crop top and jeans, now visibly alarmed.
+
+MAMA VICKY is the same 45-year-old Filipina mother — strikingly attractive and looking far younger than her age, easily mistaken for Jessa's older sister — with the same neatly styled dark hair, fitted sleeveless top, and lounge shorts. She remains glamorous and composed despite the increasingly disturbing confession.
+
+Jessa's boyfriend CARLO remains completely OFF-SCREEN.
+Do NOT show another character.
+
+Both Jessa and Mama Vicky are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+[0.0–1.5s] Mama Vicky finally looks at Jessa.
+
+[1.5–2.7s] Mama Vicky quietly answers (S2): <d>[Tagalog] Si Carlo.</d>
+
+[2.7–4.0s] Jessa looks confused for half a second.
+
+[4.0–5.3s] Jessa asks sharply (S1): <d>[Tagalog] Anong Carlo?</d>
+
+[5.3–6.7s] Mama Vicky replies quietly but clearly (S2): <d>[Tagalog] Boyfriend mo.</d>
+
+[6.7–8.0s] Jessa's face drops. She stares at her mother in complete disbelief.
+
+Speaker lock: Only Jessa speaks S1. Only Mama Vicky speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium close two-shot. No cuts. Prioritize Jessa's delayed realization immediately after "Boyfriend mo."
+
+overall_soundscape: Same quiet family-home ambience, faint electric fan, distant traffic, tense breathing, natural voices. No narrator or voice-over.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same condominium living room. Jessa has just realized that her own boyfriend impregnated her mother. The confrontation becomes furious and humiliating. Mama Vicky's final explanation should make the betrayal even more rage-inducing because she speaks as though it reduces her responsibility.
+
+There are exactly two visible adult characters.
+
+JESSA is the same 22-year-old Filipina woman wearing the same spaghetti-strap crop top and jeans, now furious, shocked, and deeply betrayed.
+
+MAMA VICKY is the same 45-year-old Filipina mother — strikingly attractive and youthful-looking, easily mistaken for Jessa's older sister — with the same neatly styled dark hair, fitted sleeveless top, and lounge shorts. She is defensive but disturbingly calm and still carries herself with confident composure.
+
+Carlo remains completely OFF-SCREEN.
+Do NOT show another character.
+
+Both Jessa and Mama Vicky are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+Never speak pronunciation guidance or production instructions aloud.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+PRONUNCIATION LOCK:
+- alám = a-LAM, stress on LAM
+- lumápit = lu-MA-pit, stress on MA
+- ákin = A-kin, stress on A
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–2.1s] Jessa steps toward her mother, furious and unable to believe what she has heard.
+
+[2.1–3.6s] Jessa shouts (S1): <d>[Tagalog] Ma! Boyfriend ko 'yon!</d>
+
+[3.6–4.5s] Mama Vicky replies quietly (S2): <d>[Tagalog] Alám ko.</d>
+
+[4.5–5.7s] Jessa stares at her mother, completely stunned.
+
+[5.7–6.6s] Jessa explodes (S1): <d>[English] What the fuck?</d>
+
+[6.6–8.0s] Mama Vicky defensively replies with complete sincerity (S2): <d>[Tagalog] Siya naman lumápit sa ákin.</d>
+
+Jessa goes completely still in disgust and disbelief.
+
+CUT ABRUPTLY.
+
+Do not show Carlo.
+Do not show Jessa's father.
+Do not make Mama Vicky apologize.
+Do not reveal how long the affair lasted.
+Do not resolve whether Jessa confronts Carlo.
+End on Mama Vicky trying to justify the betrayal by saying Carlo approached her first.
+
+Speaker lock: Only Jessa speaks S1. Only Mama Vicky speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the abrupt ending. Prioritize Jessa's reaction to "Siya naman lumápit sa ákin."
+
+overall_soundscape: Same quiet family-home ambience, tense breathing, faint electric fan, distant traffic, restrained natural voices. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

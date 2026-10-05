@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1> is ELI, using <Picture 1> for his identity: Filipino-Spanish man around 35, lean and tired, short messy dark hair, stubble, olive-green worn field jacket over a grey hoodie, dark jeans, black backpack, short metal baton, a thin plain silver bracelet on his right wrist.
+<Subject 2> is the INFECTED, using <Picture 2> ONLY as the style template: greyish pale skin with dark veins, bloodshot clouded eyes, torn dirty everyday clothes, hunched twitching movement. Every infected is a DIFFERENT person (different age, gender, build, hair and clothes: office worker, delivery rider, older woman in a cardigan, teenager in a hoodie, security guard). Never copy the same face onto several infected.
+<Picture 3> is the location: an empty downtown street at dusk. Location/composition anchor only, no characters come from this picture.
+
+summary:
+[reference generation] Eli packs insulin and his daughter's crayon drawing, walks the empty street, hears a rolling bottle, and gets tackled into a parked car by an infected man.
+
+retention_analysis:
+<Subject 1> fully_preserved: face, hair, skin tone, body and outfit from <Picture 1>, including the backpack and the silver bracelet.
+<Subject 2>: style only from <Picture 2>; each infected individual looks different.
+<Picture 3> is used only for the environment, layout and lighting; do not add any person from it.
+
+detailed_description:
+CRITICAL AUDIO RULE: There is NO narrator and NO voice-over. ONLY dialogue written inside <d>...</d> may be spoken aloud. Everything else is SILENT visual direction. Otherwise only breathing, grunts, infected snarls and screeches, never words.
+CRITICAL VISUAL RULE: No other survivors, no crowd of normal people. No on-screen text, subtitles, captions, logos, watermarks or readable signs.
+LOCATION LOCK (same street in every shot of every clip): one straight downtown road running away from camera, the same as <Picture 3>. Fixed layout: a dark alley entrance on the LEFT side; storefronts with half-open metal shutters on both sides; a silver sedan abandoned at an angle across the left lane; a white van stopped in the middle distance; a red hatchback parked at the RIGHT curb (the car Eli gets slammed into); flickering streetlights; an orange-purple dusk sky between the buildings; trash and glass bottles on the asphalt. Every camera angle shows THIS same street: only the camera moves. Do not add, remove or relocate cars, the alley, shutters or lights between shots. Same dusk light throughout, slowly darkening. Changes persist: a dent in the red hatchback stays dented in later shots.
+STYLE: Photorealistic live-action survival horror film, handheld documentary energy, shallow depth of field, desaturated teal-orange grade, natural dusk light, grounded and tense, no gore, no cartoon effects. Hard cuts, no dissolves.
+
+[Shot 1] Extreme close-up: Eli's hands, crouched beside the red hatchback, slide a small white insulin box and a folded child's crayon drawing (a stick-figure man holding a little girl's hand, a yellow sun, NO words) into the front pocket of his backpack and zip it shut.
+[Shot 2] At 00:01.600, cut to a wide shot from behind: Eli walks quickly down the middle of the empty road toward camera-far, backpack on, baton in hand, the abandoned silver sedan on the left, the red hatchback at the right curb.
+[Shot 3] At 00:03.200, cut to a medium shot facing Eli: he stops dead, listening. Cut to an insert at 00:04.200: a glass bottle rolls slowly out of the dark alley on the left and clinks to a stop. Total silence.
+[Shot 4] At 00:05.800, cut to a wide handheld shot: an infected man in a torn office shirt bursts from behind the red hatchback and tackles Eli into its side, BANG, the door dents, the frame shakes.
+
+overall_soundscape:
+Distant wind between buildings, Eli's quick footsteps and breath, a zipper, a glass bottle rolling and clinking, dead silence, then a violent snarl and a heavy BANG of a body hitting a car door.
+
+non_diegetic_music:
+A low, uneasy drone that drops out completely during the silence; a sharp sting on the tackle.

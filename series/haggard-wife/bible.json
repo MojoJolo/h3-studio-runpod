@@ -1,0 +1,585 @@
+{
+  "title": "Haggard Wife",
+  "logline": "A worn-down young wife is openly discarded by her husband for an older, wealthy mistress who funds his vices — until it surfaces that the wife comes from a powerful clan, and she quietly turns the humiliation back on both of them.",
+  "language": "Tagalog/Taglish",
+  "engine_settings": {
+    "engine": "h3",
+    "width": 576,
+    "height": 1024,
+    "steps": 20,
+    "layers": 50,
+    "reuse": 2,
+    "ssd_streaming": true,
+    "default_clip_frames": 192
+  },
+  "production_rules": {
+    "max_visible_characters_per_clip": 2,
+    "scene_target_seconds": 60,
+    "scenes_per_episode": 3,
+    "every_scene_must_cliffhanger": true,
+    "verify_faces_before_using_as_continuity": true,
+    "every_clip_must_include_character_AND_location_refs": true,
+    "location_ref_sourcing": "A location reference must ALWAYS be an empty room/set with NO characters in it, generated fresh via Krea 2 — never extracted from an actual clip frame, even a clean-looking one. A frame with real characters in it (even partially, even just an arm at the edge) gives the model ambiguous body information alongside the two clean character portraits, and that ambiguity can hallucinate a phantom third person into the shot AND propagate through every later chained clip via last-frame conditioning (confirmed failure: Episode 1 Scene 1's first redo used a real clip-1 frame as the bedroom reference, which introduced a stray extra arm that then persisted through every subsequent clip in the chain). To get the details right without using a real frame: describe the specific established details (wall treatment, furniture, fixtures) explicitly in the Krea 2 prompt, generate it, and only then confirm it matches before use — do not reuse an in-scene frame as a shortcut.",
+    "default_clip_length": "VARIABLE per clip based on what that beat actually needs (starting Scene 2 onward — Scene 1 used a fixed 8s/192 frames throughout and that's fine as-is, not worth a redo just for this). h3's frame validation snaps to steps of 17 frames (~0.7s) apart — valid durations roughly every 0.7s from ~1s up to ~15s (e.g. 124=~5.2s, 175=~7.3s, 192=~8.0s, 226=~9.4s, 243=~10.1s). Pick shorter for a quick exchange, longer for a beat with an in-clip [Shot N] cut that needs room to breathe. Note shorter clips are ALSO more compute-efficient per second of footage (~4.25 min/sec at 8s vs ~5+ min/sec at 10-14s), so varying duration down when a beat is quick saves time too, not just a quality tradeoff.",
+    "camera_variety_is_independent_of_clip_count": "Varying camera angle per clip (close-up, reverse angle, pull-back, etc.) does NOT reduce how many clips a scene needs — clip count is set by h3's hard ~14.4s-per-generation ceiling (60s scene needs ~5 minimum regardless of framing style). Camera variety is a quality upgrade layered on top, not a way to cut clip count.",
+    "no_last_frame_chaining_for_refs_mode": "ROOT CAUSE FOUND AND FIXED for the recurring overexposed/grainy/streaky degradation that hit Scene 1 twice (once pre-format-fix, once again post-format-fix on clip 3 of the properly-formatted run). Cause: /api/sequence's automatic last-frame-folding adds each completed clip's actual output frame as an extra 4th reference for the next clip — any small artifact from one generation gets baked in and fed forward, compounding worse each clip (clip 1 clean, clip 2 a faint mark, clip 3 a visible reddish streak + grain). Confirmed fix by direct A/B test: generating the same clip independently via /api/generate (mode=refs) using ONLY the 3 fixed standing refs (character x2 + location), with NO first_frame/last_frame at all, came out completely clean. Standing references already anchor identity/scene consistency, so the pixel-exact last-frame handoff was never actually needed once refs-mode was in play — it was pure downside. RULE: never use /api/sequence's chaining for refs-mode clips going forward. Submit every clip independently via /api/generate with the same fixed refs list, wait for each to finish, then manually ffmpeg-concat all the clip files into the final scene at the end (no automatic merge, since /api/sequence is what does the chaining we're avoiding). GOTCHA: give each independently-submitted clip a UNIQUE seed. The server names each output file from a same-second timestamp + seed, so submitting several /api/generate calls back-to-back in a script with an identical fixed seed collides on the exact same output filename and each clip silently overwrites the previous one's file. Vary the seed per clip (e.g. base_seed + clip_index) even though refs-mode identity comes from the standing references, not the seed.",
+    "prompt_format": "STANDARD (confirmed working, use for every clip going forward): the official MiniMax H3 'Full-Reference Mode' six-section structure, not the plain filipino-ragebait-skill H3 template. See https://github.com/MiniMax-AI/MiniMax-H3/blob/main/skills/h3-prompt-writing/references/ref-en.txt for the source doc. Sections in order: (1) subject_definitions — <Subject 1>/<Subject 2> for characters, each citing their <Picture N> for identity inline; a standalone <Picture N> (not wrapped in a Subject) for the location/composition-only reference. (2) summary — '[reference generation] ' + one paragraph. (3) retention_analysis — state fully_preserved for each Subject's face/hair/body from its Picture, and clarify the location Picture contributes room/composition only, no characters. (4) detailed_description — the audio/dialogue-preservation critical-rules text, then one or more '[Shot N]' blocks; [Shot 1] has no timestamp, every later shot in the SAME clip is '[Shot N] At MM:SS.mmm, cut to ...' — this is a REAL in-clip camera cut, confirmed working (verified: wide two-shot at 0s cut to a genuine close-up at 4s within one 8s generation, clean identity, no artifacts). (5) overall_soundscape. (6) non_diegetic_music. This replaced three earlier failed attempts at getting camera variety via a trailing 'Camera: ...' sentence in the old template, which the model simply ignored.",
+    "why_earlier_camera_attempts_failed": "Two compounding causes, now both fixed: (1) the flawed bedroom reference (see location_ref_sourcing) was corrupting identity generally, which may have suppressed the model following ANY secondary instruction including camera direction; (2) the 'Camera: <description>' trailing-sentence approach was never the right mechanism at all — real camera cuts need the [Shot N] At MM:SS.mmm structure inside detailed_description, which is a different part of the prompt entirely. Don't reintroduce the old template even for clips that don't need an in-clip cut; use prompt_format for every clip for consistency.",
+    "clothing_drift_across_clips": {
+      "issue": "Marco's outfit drifted from a fitted crew-neck white undershirt (clips 1-3, ref image) to a looser sleeveless muscle tank in clip 4 (seed 100505), despite retention_analysis claiming clothing is scene-specific and body/face fully_preserved.",
+      "severity": "minor - accepted, identity/face stayed clean, not worth a redo",
+      "lesson": "retention_analysis alone does not lock garment style tightly enough across independently-generated refs-mode clips. Spell out exact garment details (fit, sleeve length, neckline, fabric) explicitly in every single clip's subject_definitions block, not just once loosely - do not rely on the ref image or a vague scene-clothing note to hold it steady clip-to-clip.",
+      "how_to_apply": "From Scene 2 onward, repeat the full precise clothing description (not just \"his usual outfit\") in subject_definitions for every clip, same as face/hair/body details already are."
+    },
+    "tagalog_pronoun_accuracy": {
+      "lesson": "amin (exclusive we/us, excludes listener) vs atin (inclusive we/us, includes listener) matters for accuracy - when a line is about the relationship between speaker and the person being spoken to (\"there is no more us\"), use atin, not amin.",
+      "how_to_apply": "Before finalizing any Tagalog dialogue with pronoun choices (amin/atin, kami/tayo, etc.), double check inclusivity/exclusivity matches who is actually being referred to."
+    },
+    "phantom_duplicate_of_named_subject": {
+      "issue": "A named Subject can occasionally get cloned into a second copy of itself mid-clip (not just an unrelated stray limb like the earlier bedroom incident) - here Tatay Lino appeared twice simultaneously.",
+      "lesson": "The standard no-third-person retention_analysis line is not always enough; when a scene has exactly one instance of a background/staff-type character, explicitly state EXACTLY TWO PEOPLE TOTAL and explicitly forbid duplicating/cloning either named subject. UPDATE: reinforcing the retention_analysis text alone was NOT sufficient - it recurred on the retry with the same wide two-shot framing. Second attempt tightened the shot (close two-shot, minimal background depth/empty space) since a wide shot with visible open background around a gate seems to invite the model to hallucinate a second staff/guard figure, and added explicit denial of a security-guard/watchman trope specifically (the model may default to gate scenes needing 2 guards). ROOT CAUSE FOUND: it was never really about duplication language strength - staging a gate-opening/crossing action creates an ambiguous crossing direction (rendered backward as exiting, twice) AND an implied gate-operator role that got duplicated into a second figure (twice, across two different framings/seeds). Fix: avoid staging the gate-crossing moment itself - stage the scene already past the threshold, gate closed and only in background, characters simply walking toward the house. Removing the ambiguous action fixed both bugs at once rather than needing ever-stronger denial language.",
+      "how_to_apply": "Add this stronger anti-duplication phrasing by default for any future clip introducing a new, less-established minor character, especially in a two-shot with more open background space (like an outdoor gate scene) where a clone has room to render."
+    },
+    "pacing_and_characterization_feedback": {
+      "feedback_received": "Early single-viewer review after Ep1 Scenes 1-2: (1) story drags, too much repeated context, wealth reveal (Scene 3) feels stretched; (2) the \"haggard wife\" premise from the title is never actually established - the conflict reads as generic cheating, not tied to her being run ragged from sacrifice/overwork; (3) why Marco specifically prefers Selina is never given texture beyond \"she has money\" - no sense of what she gives him emotionally (ego, admiration, ease) vs. what Teresas exhaustion costs the relationship.",
+      "action_taken": "Re-cut (not regenerated) Scenes 1-2 to remove purely-repetitive clips, addressing complaint (1) only, since footage already existed. Complaints (2) and (3) require NEW footage/lines and could not be fixed by re-cutting alone.",
+      "how_to_apply_going_forward": "Starting Scene 3 and into Episode 2-3: (a) every clip must reveal something the audience did not already know - if a clip only restates an emotional beat already landed, cut it before generating, not after; (b) explicitly establish the \"haggard\" premise with a concrete visual/line tying her exhaustion to sacrifice for the family (e.g. she works nights/second job, gave up her own plans, physically depleted from providing) rather than leaving it as an unexplained adjective; (c) give Marco a real, specific reason he prefers Selina beyond money - what she makes him FEEL (admired, like a man, unpressured) contrasted with what Teresas exhaustion/nagging-about-bills costs him emotionally, so the choice reads as a person, not a cliche."
+    },
+    "scene_transition_bridging": {
+      "lesson": "A hard cut between two very different spaces (outdoor walkway with a companion -> alone indoors) reads as confusing/abrupt without any bridging action, even if narratively the audience can infer time has passed.",
+      "how_to_apply": "When a scene moves from one location/character-configuration to another, give the new clip a brief opening beat (a few seconds) showing the character arriving/entering the new space, rather than starting already static/mid-activity in it - costs little runtime but preserves spatial continuity."
+    },
+    "no_dragging_explosive_pacing": {
+      "rule": "Every scene must feel explosive - reveal after reveal, twist after twist - never a scene that just sits in one emotional beat restating itself. At the same time, speed must never come at the cost of clarity: the intent behind every line, the actual argument being had, and the WHY behind each character's choice must stay obvious to the viewer even at a fast pace.",
+      "why": "User has no luxury of viewer patience - short-form drama lives or dies on immediate engagement. The goal is hook after hook so viewers watch the entire video, and a real emotional trigger landing every time, not passive viewing.",
+      "how_to_apply": "Before writing a scene: list what NEW information/reveal each clip adds. If a clip does not add a new fact, twist, or escalation beyond the previous clip, cut it before generating (do not write it and trim later). Every scene should answer intent/argument/why clearly even as it moves fast - clarity and speed are not in tension, a well-written escalating scene achieves both. This supersedes any instinct to let a scene breathe or linger for atmosphere."
+    },
+    "direction_ambiguity_root_cause": {
+      "issue": "Entering/exiting direction confusion recurred a 3rd time (gate clips 1/2, then this porch clip) even after removing the gate-crossing action specifically - the walking motion ITSELF (toward or away from camera) seems unreliable for the model to render with a clear/consistent direction.",
+      "fix_that_worked": "Remove ALL walking motion from the clip - stage both characters already stationary in their final positions, with explicit body-orientation language (Teresa's front facing the house/door, never her back) instead of relying on motion direction to convey arrival.",
+      "how_to_apply": "For any future clip where entering/arriving/approaching needs to be conveyed, default to a static already-arrived staging with explicit facing/orientation language, rather than depicting the walking motion itself."
+    },
+    "first_frame_location_lock": {
+      "issue": "A clip can render its OPENING second or two in a completely unrelated location before correcting to the intended scene, even when the scene/staging is otherwise correctly described.",
+      "fix": "Explicitly anchor the very first frame with language like 'From the very first frame, the camera is already on/in [LOCATION]...' and state 'there is no other location shown at any point in this clip' - don't just describe the final staging and assume the opening frame will match it.",
+      "how_to_apply": "Apply this opening-frame anchor by default for any clip using a still/static staging (no walking-in motion establishing the location), since without that motion there's apparently nothing else pinning the model to the right location at frame one."
+    },
+    "visual_artifacts_and_color_bleed": {
+      "issue": "A clip can render a persistent diagonal RGB-fringed streak artifact across frame, and a character's solid-color garment can drift to match a nearby character's different-colored garment mid-clip (Marco's navy shirt drifting to Selina's teal-green).",
+      "fix": "Reroll with a new seed - this looks like a per-generation rendering quality issue, not something the original prompt did wrong. Reinforce with explicit language distinguishing the two garment colors ('never green, never teal' for the navy shirt) and a general 'no visual artifacts or streaks anywhere in frame' line as a preventive measure.",
+      "how_to_apply": "Add this checks to the phantom-character/clothing-drift visual QA pass: also scan for (a) any persistent line/streak artifacts, (b) one character's colors bleeding into another's garment, especially with two characters in similar fabric (both wearing silk/satin in this case)."
+    },
+    "clip_to_clip_topic_bridging": {
+      "issue": "Even within one scene/location, consecutive clips written as separate self-contained beats can read as an incoherent topic jump if nothing in the first clip's ending motivates the next clip's opening topic.",
+      "fix": "End a clip with a concrete, visible/audible hook (a phone buzzing, someone entering, a specific line that raises the next topic) that the following clip's opening beat directly picks up - not just cutting to a new subject cold.",
+      "how_to_apply": "When writing multi-clip scenes, check the LAST beat of clip N against the FIRST beat of clip N+1 - if there's no causal or referential link between them, add one (even a small one like a phone buzzing) rather than relying on scene continuity alone to justify the jump."
+    },
+    "reveal_causality_precision": {
+      "lesson": "When writing a reveal that connects a protagonist's family/company to an antagonist's wrongdoing, be precise about the DIRECTION of the financial/causal relationship - 'the corrupt money comes FROM our company' and 'they depend ON financing FROM our company' sound similar but imply opposite moral positions (source of corruption vs. leverage over someone else's corruption).",
+      "how_to_apply": "Before finalizing any reveal dialogue involving money/company relationships between a sympathetic and unsympathetic character, explicitly check which direction responsibility/leverage actually flows, since a single preposition swap can accidentally implicate the wrong party."
+    },
+    "no_burned_in_captions": {
+      "issue": "A clip can spontaneously render on-screen subtitle/caption text overlaying the dialogue at the bottom of frame, even though nothing in the prompt asked for it - likely the model's training data includes captioned video.",
+      "fix": "Add an explicit CRITICAL VISUAL RULE denying subtitles/captions/text overlays/burned-in text, alongside the existing audio rules, as a standing part of every clip's prompt going forward (not just when it happens to show up).",
+      "how_to_apply": "Add this line to the shared AUDIO_RULES/template block for every future scene's submission script by default, not just as a reactive fix - captions were not in the phantom-character/clothing-drift QA checklist before, add it as a standard visual QA check too."
+    },
+    "framing_language_precision": {
+      "issue": "Vague emotional framing language like 'tight intimate two-shot' can get interpreted as an extreme close-up crop that loses the location entirely, rather than the intended warm-but-still-contextualized medium shot.",
+      "fix": "Use concrete framing language instead of mood-only descriptors: 'medium two-shot... [location elements] clearly visible around them' rather than 'tight intimate.' Warmth/intimacy should come from acting direction (tone, expression) not from framing extremity, unless an actual close-up is specifically wanted.",
+      "how_to_apply": "When writing shot descriptions, always pair any emotional/mood adjective (intimate, tense, warm) with an explicit framing type (medium two-shot, close-up, wide shot) and confirm the location stays visible unless a true close-up is intended. Also specify physical contact explicitly (or explicitly deny it) rather than leaving it to the model's interpretation, especially between characters with a formal/respectful relationship dynamic."
+    },
+    "opening_shot_no_walking_for_retention": {
+      "issue": "Episode 1 posted with 73% retention at 5 seconds - a high early drop-off for content designed to hook immediately. Diagnosed cause: Scene 1 clip 1's opening actually shows Marco walking several seconds across the room toward Teresa before the confrontation visually starts, even though the scripted dialogue was timed to begin at 0.4s. The visual blocking (a 'walking into the room' beat) diluted the hook regardless of audio timing, and directly violates the drama skill's own explicit warning against opening on someone walking into a room.",
+      "fix": "Stage every opening shot with both characters ALREADY in position - already close, already visibly tense - from the very first frame. No walking, no entering, no blocking that takes a few seconds to resolve into confrontation. This is the same fix as the direction_ambiguity_root_cause lesson (avoid walking motion in a clip), now confirmed to also matter for retention, not just direction-clarity.",
+      "how_to_apply": "When writing any clip meant to open a video (not mid-scene continuation clips), explicitly describe the characters as already standing close/already facing each other/already mid-tension in the very first sentence of the shot description - never 'X walks toward Y' or 'X enters' as the opening action. Also worth checking (can't verify without audio): whether the AI-generated dialogue delivery timing matches the scripted second-by-second cues, since delivery pacing can drift from the script.",
+      "also_consider": "Sound-off viewing is very common on social feeds (muted autoplay by default) - if the posted video has no burned-in caption/subtitle text, viewers who can't hear the hook line lose it entirely in the first few seconds. Worth testing a version WITH burned-in captions to see if retention improves, since this project's current convention is captions added separately in post rather than baked into generation."
+    },
+    "weak_hook_vs_accusation": {
+      "lesson": "A hook line phrased as a neutral question ('Sino si Selina?' / 'Who is Selina?') doesn't carry inherent emotional charge - it reads as investigative curiosity, not accusation or hurt, until context is added. A hook line phrased as a raw, blunt STATEMENT OF FACT (especially a humiliating one, stated flatly rather than dramatically) hooks harder because it plants a question ('why/how did that happen?') without needing setup.",
+      "example": "Weak: 'Sino si Selina?' (investigative, no inherent charge). Strong: 'Pinagpalit ako ng asawa ko sa sugar mommy niya.' (a flat, humiliating statement of fact that immediately raises questions and carries built-in emotional weight).",
+      "how_to_apply": "When writing any opening/hook line, prefer a blunt declarative statement of a painful fact over a neutral question, especially when the audience doesn't yet have context - a statement forces curiosity ('what happened?') while a bare question can read as merely curious rather than urgent."
+    }
+  },
+  "locations": {
+    "bedroom": {
+      "reference_image": "inputs/bedroom-ref.jpeg",
+      "description": "Plain cream walls, wall-mounted split-type AC unit, sheer white curtains, dark wooden window frame, wooden dresser with mirror and warm bedside lamp, small framed picture on the wall, bed with floral-pattern sheets.",
+      "note": "Empty-room synthetic Krea 2 generation (outputs/gui-image-20260920-165657-seed1447222512.jpeg), no characters in it, matches all established details. Superseded two earlier bad attempts: (1) a synthetic image with wrong details (wallpaper instead of plain walls, no AC unit, wrong bedding), (2) a real extracted clip-1 frame that matched details but contained Teresa/Marco's actual bodies, which caused a phantom extra arm to appear and propagate through the whole chained scene. See production_rules.location_ref_sourcing."
+    },
+    "gate": {
+      "reference_image": "inputs/gate-ref.jpeg",
+      "description": "Exterior gate of Teresa's real home: plain grey concrete perimeter wall, simple steel gate, unremarkable/modest from outside on purpose, single warm porch light, dusk."
+    },
+    "porch": {
+      "reference_image": "inputs/porch-ref.jpeg",
+      "description": "Front porch of Teresa's real home, taken just outside the open front door. Door open, revealing an opulent interior beyond: crystal chandelier, marble floor, elegant curved staircase, warm gold lighting - deliberate contrast to the modest street-side gate. Porch itself stays understated/plain."
+    },
+    "condo": {
+      "reference_image": "inputs/condo-ref.jpeg",
+      "description": "Marco and Selina's upgraded high-rise condo, living room: floor-to-ceiling windows with city skyline view, curved white sofa, crystal pendant light, marble accent wall - deliberate contrast to the modest bedroom of Episode 1."
+    },
+    "office": {
+      "reference_image": "inputs/office-ref.jpeg",
+      "description": "Teresa's private home office/study: large dark wood executive desk, tall bookshelf, deep green leather chair, warm brass desk lamp, old-money decor conveying quiet authority - where she conducts business and is visibly obeyed."
+    },
+    "boardroom": {
+      "reference_image": "inputs/boardroom-ref.jpeg",
+      "description": "An imposing corporate boardroom: long polished dark wood table, tall leather chairs, floor-to-ceiling windows with city skyline at night - where Teresa reveals herself to Selina.",
+      "door_reference_image": "inputs/boardroom-door-ref.jpeg",
+      "note": "Two reference angles: boardroom-ref.jpeg (window end) and boardroom-door-ref.jpeg (entrance end, double doors) - use both together for clips involving someone entering through the door."
+    }
+  },
+  "characters": {
+    "Teresa": {
+      "role": "wife",
+      "age": 25,
+      "reference_image": "inputs/teresa-ref.jpeg",
+      "description": "TERESA is a 25-year-old Filipina woman, naturally beautiful but haggard from years of overwork, faint under-eye circles, dark hair usually pulled back into a low ponytail with loose strands, fine delicate features and high cheekbones still visible beneath the exhaustion. Early scenes: simple worn cotton house clothes. Later scenes (post-reveal): composed, elegant, understated wealth.",
+      "quote_card_color": [
+        255,
+        138,
+        157,
+        255
+      ]
+    },
+    "Marco": {
+      "role": "husband",
+      "age": 25,
+      "reference_image": "inputs/marco-ref.jpeg",
+      "description": "MARCO is a 25-year-old handsome Filipino man, short dark hair, clean-shaven sharp jawline, confident easy charming smile, warm brown eyes. Dresses well but not flashy early on; increasingly flashy/borrowed-glamour clothing as Selina funds his vices.",
+      "quote_card_color": [
+        110,
+        180,
+        255,
+        255
+      ]
+    },
+    "Selina": {
+      "role": "mistress",
+      "age": 42,
+      "reference_image": "inputs/selina-ref.jpeg",
+      "description": "SELINA is a 42-year-old striking, confident Filipina woman, glossy dark wavy hair, bold red lipstick, refined makeup, dresses in expensive silk/satin blouses and gold jewelry. Poised, composed, seductive, used to getting her way.",
+      "quote_card_color": [
+        255,
+        195,
+        0,
+        255
+      ]
+    },
+    "Staff": {
+      "role": "household staff / butler",
+      "age": 55,
+      "reference_image": "inputs/staff-ref.jpeg",
+      "description": "A composed Filipino man in his 50s, neatly combed grey-streaked hair, clean-shaven, wearing a simple white long-sleeve barong-style shirt, calm and deeply respectful demeanor.",
+      "quote_card_color": [
+        180,
+        200,
+        180,
+        255
+      ]
+    },
+    "Maid": {
+      "role": "household maid",
+      "age": 35,
+      "reference_image": "inputs/maid-ref.jpeg",
+      "description": "A Filipina woman in her mid-30s, neat black hair in a low bun, warm and welcoming expression, wearing a simple pale blue collared house-uniform blouse.",
+      "quote_card_color": [
+        200,
+        220,
+        255,
+        255
+      ]
+    }
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Choice",
+      "status": "complete",
+      "scenes": [
+        {
+          "number": 1,
+          "title": "Caught",
+          "summary": "Teresa finds undeniable proof of the affair (evidence in Marco's phone/receipts). Confronts him. Marco does not deny it — he's dismissive, already checked out.",
+          "cliffhanger": "Marco says he's not sorry, and that he's not ending it.",
+          "status": "complete",
+          "clips": [
+            {
+              "n": 1,
+              "seed": 100501,
+              "file": "outputs/gui-20260920-174443-seed100501.mp4"
+            },
+            {
+              "n": 2,
+              "seed": 100501,
+              "file": "outputs/gui-20260920-182006-seed100501.mp4"
+            },
+            {
+              "n": 3,
+              "seed": 100501,
+              "file": "outputs/gui-20260920-185716-seed100501.mp4"
+            },
+            {
+              "n": 4,
+              "seed": "100510+100504(spliced)",
+              "file": "outputs/gui-20260920-203043-seed100504-fixed.mp4",
+              "note": "Shot1 regenerated (seed100510, phantom hand fix), Shot2 reused from original 100504 (clean)"
+            },
+            {
+              "n": 7,
+              "seed": 100507,
+              "file": "outputs/gui-20260920-203043-seed100507.mp4"
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep1_scene1_final.mp4",
+          "notes": "Once clips 4-7 finish, manually ffmpeg-concat clips 1,2,3 (above) + 4,5,6,7 (new) into the final scene file — no automatic merge this time since these aren't one /api/sequence chain. Superseded/discarded entirely: seq_id 1 (old template, no location ref), seq_id 2/3 (flawed bedroom ref caused a phantom arm), seq_id 4/5 (old template 'Camera:' sentence approach, ignored by the model). | Clip4 (seed100504) had a phantom hand in Shot1 (0-4s); Shot2 (4-8s) was clean. Fix: regenerated Shot1-only as job 625 (seed100510, ~3.75s), to be concatenated with the reused/re-encoded Shot2 trim (scratchpad/clip4_shot2_good.mp4) to rebuild clip4. Once done + clips 6,7 (jobs 614,615) finish, concat all 7 into final Scene1 video and mark complete. | RE-CUT (2026-09-21) per early audience feedback: dropped clips 5 (\"tapusin mo na to\"/\"hindi ko kailangan tapusin ang nagpapasaya sa akin\") and 6 (\"kahit konting hiya\"/\"hindi ako humihingi ng tawad\") - both were pure restatements of \"he wont stop, has no shame\" with no new information, making the scene drag. Kept 1,2,3,4,7. No regeneration needed, existing footage re-cut only.",
+          "duration_s": 39.83,
+          "quote_card": {
+            "native": "series/haggard-wife/ep1_scene1_quote_card.jpg",
+            "fb": "series/haggard-wife/ep1_scene1_quote_card-fb.jpg",
+            "line": [
+              [
+                "Marco",
+                "At hindi ko tinatapos 'to."
+              ]
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "title": "The Reason",
+          "summary": "Teresa demands to know why. Marco's shameless justification: Selina doesn't make him feel small about money, she funds what he wants, Teresa never could.",
+          "cliffhanger": "Marco tells her to pack her things — he's already decided.",
+          "status": "complete",
+          "clips": [
+            {
+              "n": 1,
+              "seed": 100511,
+              "job_id": 626,
+              "frames": 124,
+              "file": "outputs/gui-20260921-003908-seed100511.mp4"
+            },
+            {
+              "n": 3,
+              "seed": 100513,
+              "job_id": 628,
+              "frames": 175,
+              "file": "outputs/gui-20260921-003909-seed100513.mp4"
+            },
+            {
+              "n": 4,
+              "seed": 100514,
+              "job_id": 629,
+              "frames": 158,
+              "file": "outputs/gui-20260921-003910-seed100514.mp4"
+            },
+            {
+              "n": 6,
+              "seed": 100518,
+              "job_id": 633,
+              "frames": 175,
+              "file": "outputs/gui-20260921-070412-seed100518.mp4"
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep1_scene2_final.mp4",
+          "script_file": "series/haggard-wife/ep1_scene2_submit.py",
+          "notes": "Applied clip5 clothing-drift lesson (exact garments repeated every clip) and clip4 phantom-hand lesson (explicit no-third-limb line). Variable frame counts per beat (124-175). Queued behind Scene1 remainder (jobs 614,615,625). | Jobs 630/631 (clips 5,6) cancelled and redone as 632/633: fixed \"amin\"->\"atin\" (user caught wrong exclusive-we pronoun, should be inclusive since referring to Teresa+Marco together) and \"Simpakan\"(not a real word)->\"Kunin\" (user suggested simpler natural phrasing over my initial \"Impake\" fix). | RE-CUT (2026-09-21) per early audience feedback: dropped clip 2 (\"hindi ako kailangan magpaliwanag\") as redundant with clip 3s fuller money reveal, and clip 5 (\"ano nangyari sa atin\"/\"wala nang atin\") as a thin bridge the clip 6 cliffhanger doesnt need. Kept 1,3,4,6.",
+          "duration_s": 26.39,
+          "quote_card": {
+            "native": "series/haggard-wife/ep1_scene2_quote_card.jpg",
+            "fb": "series/haggard-wife/ep1_scene2_quote_card-fb.jpg",
+            "line": [
+              [
+                "Marco",
+                "Kunin mo na ang mga gamit mo. Desidido na ako."
+              ]
+            ]
+          }
+        },
+        {
+          "number": 3,
+          "title": "Not Who You Think",
+          "summary": "Teresa leaves with nothing but composure. At what seems like a modest place she goes to, staff/people treat her with unexpected deference — \"Ma'am\" with real weight, someone waiting on her arrival.",
+          "cliffhanger": "A phone call: someone addresses her by a family name that clearly commands respect. She simply says, ‘Let them have their happiness. For now.’",
+          "status": "complete",
+          "clips": [
+            {
+              "n": 1,
+              "seed": 100631,
+              "file": "outputs/gui-20260921-102309-seed100631.mp4"
+            },
+            {
+              "n": 2,
+              "seed": 100630,
+              "file": "outputs/gui-20260921-102308-seed100630.mp4"
+            },
+            {
+              "n": 3,
+              "seed": 100670,
+              "file": "outputs/gui-20260921-123517-seed100670.mp4",
+              "note": "trimmed to start at 2.0s (skips a ~1.7s wrong-location opening artifact) rather than regenerated - user preferred the manual trim over a redo since the rest of the clip was good."
+            },
+            {
+              "n": 4,
+              "seed": 100690,
+              "file": "outputs/gui-20260921-131523-seed100690.mp4"
+            },
+            {
+              "n": 5,
+              "seed": 100603,
+              "file": "outputs/gui-20260921-081113-seed100603.mp4"
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep1_scene3_final.mp4",
+          "script_file": "series/haggard-wife/ep1_scene3_submit.py",
+          "notes": "New location (gate) and new minor character (Tatay Lino, household staff) introduced via Krea2-generated refs (inputs/gate-ref.jpeg, inputs/staff-ref.jpeg, inputs/sala-ref.jpeg for the solo interior clip). Clip 3 is solo Teresa on a one-sided phone call (only her lines rendered as <d> dialogue, caller intentionally not given audible dialogue, per the no-invisible-third-speaker rule). Teresa stays in her plain house dress throughout - wealth reveal lands via treatment, not wardrobe, saving the elegant wardrobe shift for Episode 2 onward. | Clip 1 (seed100601) had a phantom SECOND staff member (duplicate of Tatay Lino) persisting from ~2s onward - redone as job 640 (seed100610) with more explicit anti-duplication language in retention_analysis (\"do not duplicate or clone either subject\", \"EXACTLY TWO PEOPLE total\"). Clips 2 and 3 (seed100602, 100603) reviewed clean, no redo needed. | User decided against a same-clip glamorous transformation during the phone call (risk of audience thinking it's a new character with no on-screen transition). Reverted to keeping Teresa's haggard look for Episode 1's ending - any transformation reveal is deferred to a later, clearer moment (e.g. an Episode 2 cold open) rather than forced into this cliffhanger. Instead added a new short transitional clip (job 652, seed100690, ~4.5s, no dialogue) between the porch/maid clip and the phone-call cliffhanger: Teresa enters her room alone, looks around taking it in, picks up her ringing phone - bridges naturally into the cliffhanger clip which opens already mid-call.",
+          "duration_s": 28.125,
+          "quote_card": {
+            "native": "series/haggard-wife/ep1_scene3_quote_card.jpg",
+            "fb": "series/haggard-wife/ep1_scene3_quote_card-fb.jpg",
+            "line": [
+              [
+                "Teresa",
+                "Hayaan mo silang maging masaya. Sa ngayon."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Trap",
+      "status": "complete",
+      "scenes": [
+        {
+          "number": 1,
+          "title": "Flaunting It",
+          "summary": "Marco and Selina living large off her money — a purchase, a party, a flex — and a chance public humiliation of Teresa (or news of her reaches them and they mock it).",
+          "cliffhanger": "Selina says something dismissive about Teresa's family being 'nobodies.'",
+          "status": "complete",
+          "clips": [
+            {
+              "n": 1,
+              "seed": 200010,
+              "job_id": 658,
+              "frames": 158,
+              "file": "outputs/gui-20260921-165326-seed200010.mp4",
+              "note": "2nd redo: combines the visual-artifact/color-drift fix with a narrative bridge fix (user flagged clip1->clip2 as an incoherent topic jump - warm watch moment cutting straight to Teresa gossip with no connective tissue). Added her phone buzzing at the very end of clip1's dialogue, since clip2 already opens with her looking at her phone - this makes the topic shift causal instead of an unmotivated jump, without needing to touch clips 2/3 at all (both already generated well)."
+            },
+            {
+              "n": 2,
+              "seed": 200002,
+              "job_id": 655,
+              "frames": 141,
+              "file": "outputs/gui-20260921-150632-seed200002.mp4"
+            },
+            {
+              "n": 3,
+              "seed": 200003,
+              "job_id": 656,
+              "frames": 158,
+              "file": "outputs/gui-20260921-150633-seed200003.mp4"
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep2_scene1_final.mp4",
+          "script_file": "series/haggard-wife/ep2_scene1_submit.py",
+          "notes": "Lean 3-clip scene per the explosive-pacing rule. Clip 1 gives Marco/Selina real emotional texture (she makes him feel chosen/unburdened, not just funded). Clip 3 cliffhanger deliberately leaves Marco's reaction ambiguous (not laughing along this time) to foreshadow the reckoning, rather than flat agreement.",
+          "duration_s": 19.08,
+          "quote_card": {
+            "native": "series/haggard-wife/ep2_scene1_quote_card.jpg",
+            "fb": "series/haggard-wife/ep2_scene1_quote_card-fb.jpg",
+            "line": [
+              [
+                "Selina",
+                "Wala naman talagang mawawala sa kanila. Mga walang kwentang pamilya lang naman sila."
+              ]
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "title": "Quiet Moves",
+          "summary": "Teresa, composed and different now, makes calls / meets someone — we see her actually being obeyed. She's investigating exactly what Selina depends on financially.",
+          "cliffhanger": "Tatay Lino reveals Selina has been profiting from her own corrupt flood control project dealings - a standalone fact about her, with NO connection to Teresa's family or any company they own. Teresa: 'Kaya pala.'",
+          "status": "in_progress",
+          "clips": [
+            {
+              "n": 0,
+              "seed": 200302,
+              "job_id": 703,
+              "frames": 107,
+              "file": "outputs/gui-20260922-121423-seed200302.mp4",
+              "note": "NEW minimal hook-only clip (~4.5s): Teresa alone, one raw line only ('Pinagpalit ako ng asawa ko sa sugar mommy niya'), no second shot, no Tatay Lino. Prepends the existing good instruction clip rather than replacing it - keeps that clip's footage intact per user preference to stay minimal."
+            },
+            {
+              "n": 1,
+              "seed": 200111,
+              "job_id": 666,
+              "frames": 141,
+              "file": "outputs/gui-20260921-181132-seed200111.mp4",
+              "note": "unchanged, existing good clip - Teresa gives the investigate-Selina instruction to Tatay Lino."
+            },
+            {
+              "n": 2,
+              "seed": 200103,
+              "job_id": 667,
+              "frames": 175,
+              "file": "outputs/gui-20260921-174453-seed200103.mp4",
+              "note": "unchanged - Tatay Lino reveals Selina's flood control corruption, Teresa: 'Kaya pala.'"
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep2_scene2_final.mp4",
+          "script_file": "series/haggard-wife/ep2_scene2_hook_only.py",
+          "notes": "Teresa's visible transformation begins here (composed, hair down, tailored blouse - no longer haggard) per the bible's own schedule. Clip 2 lands the 'why haggard' backstory: she chose that life herself, refusing to let money define her marriage to Marco. Merged the 'give order' and 'investigate Selina' beats into one clip (200101) per the no-drag rule. New location: office (inputs/office-ref.jpeg). | User will add a 'Kinabukasan...' text card in editing before this scene's clip 3 to bridge the investigation timeline - no regeneration needed, kept clip 1's Selina-investigation line as-is. | REOPENED (2026-09-22) to fix weak opening hook after real retention data (73% at 5s on Ep1) prompted a full review of hook strength. Old clip1 (soft instruction) + clip2 (Tatay Lino's gentle 'the door is open' line) merged into one new opening clip led by a raw, blunt hook line from Teresa herself, per the established 'raw/blunt hooks work' pattern. | CORRECTED (2026-09-22): first attempt at the new hook merged the raw line into the same clip as the instruction, discarding the existing good instruction clip - user wanted the new hook to stay minimal and separate instead, so it's now a standalone ~4.5s clip that plays before the untouched existing clips.",
+          "duration_s": 21.22,
+          "quote_card": {
+            "native": "series/haggard-wife/ep2_scene2_quote_card.jpg",
+            "fb": "series/haggard-wife/ep2_scene2_quote_card-fb.jpg",
+            "line": [
+              [
+                "Teresa",
+                "Kaya pala."
+              ]
+            ]
+          }
+        },
+        {
+          "number": 3,
+          "title": "The Trap Is Set",
+          "summary": "Teresa instructs Tatay Lino to arrange a private meeting with Selina without revealing her own identity. Cliffhanger is a silent visual reveal, not dialogue: Selina opens the boardroom door expecting an anonymous meeting and finds Teresa already seated, waiting. No confrontation dialogue happens here - that's saved for Episode 3's opening.",
+          "cliffhanger": "Selina enters the boardroom, camera cuts to a close-up as her shock lands, and she says 'Teresa?' Hard cut to black.",
+          "status": "complete",
+          "clips": [
+            {
+              "n": 1,
+              "seed": 200211,
+              "job_id": 672,
+              "frames": 141,
+              "file": "outputs/gui-20260921-203915-seed200211.mp4"
+            },
+            {
+              "n": 2,
+              "seed": 200221,
+              "job_id": 673,
+              "frames": 124,
+              "file": "outputs/gui-20260921-204100-seed200221.mp4",
+              "note": "solo Teresa, seated, waiting - suspense-building shot before the reveal."
+            },
+            {
+              "n": 3,
+              "seed": 200232,
+              "job_id": 678,
+              "frames": 175,
+              "file": "outputs/gui-20260921-221208-seed200232.mp4",
+              "note": "v2: original silent version's shock reaction was too subtle for the episode's final cliffhanger. Restructured into 2 shots - wide entrance (0-4s) then a hard cut to a genuine close-up push-in (4s+) with much stronger explicit shock direction, and added Selina's single line 'Teresa?' right as the shock lands, ending the episode on dialogue instead of pure silence."
+            }
+          ],
+          "merged_file": "series/haggard-wife/ep2_scene3_final.mp4",
+          "script_file": "series/haggard-wife/ep2_scene3_submit.py",
+          "notes": "Revenge mechanism changed from institutional reporting (Ombudsman) to direct personal confrontation per user direction - Teresa arranges to meet Selina herself. The reveal moment (Selina seeing Teresa) was deliberately moved from Episode 3 Scene 1 into this scene's cliffhanger instead, as a purely visual/silent gut-punch with zero dialogue - preserves the surprise while letting Episode 3 open directly with the actual confrontation conversation. New location: boardroom (inputs/boardroom-ref.jpeg). | Split the single combined reveal clip into two per user direction: clip2 is Teresa alone waiting (suspense build), clip3 is a fresh angle at the entrance for Selina's entrance and shock reaction - more cinematic than one static two-shot.",
+          "duration_s": 18.38,
+          "quote_card": {
+            "native": "series/haggard-wife/ep2_scene3_quote_card.jpg",
+            "fb": "series/haggard-wife/ep2_scene3_quote_card-fb.jpg",
+            "line": [
+              [
+                "Selina",
+                "Teresa?"
+              ]
+            ]
+          }
+        }
+      ],
+      "final_interleaved_file": "series/haggard-wife/ep2_final.mp4",
+      "final_interleaved_duration_s": 58.72,
+      "final_interleaved_order": [
+        {
+          "seed": 200302,
+          "desc": "NEW hook: Teresa alone - 'Pinagpalit ako ng asawa ko sa sugar mommy niya.'"
+        },
+        {
+          "seed": 200111,
+          "desc": "Teresa instructs Tatay Lino to investigate Selina's money."
+        },
+        {
+          "seed": 200401,
+          "job_id": 705,
+          "desc": "NEW bridging shot: wide zoomed-out establishing shot of the whole condo interior, Marco and Selina small in frame, laughing together - silent tonal/spatial bridge between Teresa's office scene and the closer Marco/Selina dialogue clips. Fixes an abrupt 'magic scene change' cut the user caught.",
+          "note": "trimmed to start at 1.5s - a phantom duplicate Selina (two identical Selinas) appeared in the first ~1.25s before correcting to Marco+Selina. Manual trim, no regeneration, per user preference."
+        },
+        {
+          "seed": 200010,
+          "desc": "Marco/Selina: the watch, the warmth (Scene 1 clip 1)."
+        },
+        {
+          "seed": 200002,
+          "desc": "Gossip about Teresa reaches Marco/Selina (Scene 1 clip 2)."
+        },
+        {
+          "seed": 200003,
+          "desc": "Selina's 'nobodies' dismissal, Marco's reaction falters (Scene 1 clip 3)."
+        },
+        {
+          "seed": 200103,
+          "desc": "Tatay Lino reveals the flood control corruption; Teresa: 'Kaya pala.'"
+        },
+        {
+          "seed": 200211,
+          "desc": "Teresa instructs Tatay Lino to schedule a meeting with Selina, without revealing her identity (Scene 3 clip 1)."
+        },
+        {
+          "seed": 200221,
+          "desc": "Teresa alone in the boardroom, waiting (Scene 3 clip 2)."
+        },
+        {
+          "seed": 200232,
+          "desc": "Selina enters, shock lands, 'Teresa?' Final cliffhanger (Scene 3 clip 3)."
+        }
+      ],
+      "notes": " | Final published cut uses the INTERLEAVED order (not sequential scene-by-scene) per user preference, with the new sharper hook clip replacing the old soft opening. This is now the canonical Episode 2 video: series/haggard-wife/ep2_final.mp4 (37.42s). | CORRECTED: Scene 3 (the meeting instruction + Selina's shock reveal) was accidentally left out of the first final assembly - the interleaving exercise only ever covered Scenes 1-2. Rebuilt to include all 9 clips, Scene 3 appended at the end as the true episode-ending cliffhanger. Canonical file: series/haggard-wife/ep2_final.mp4 (55.77s). | Added a bridging establishing shot (job 705) between the office-instruction clip and the Marco/Selina flaunting clips to fix an abrupt location/character jump - series/haggard-wife/ep2_final.mp4 needs to be rebuilt once this clip is reviewed. | Bridge clip trimmed for a phantom-duplicate-Selina opening artifact. Final: series/haggard-wife/ep2_final.mp4 (58.72s, 10 clips)."
+    },
+    {
+      "number": 3,
+      "title": "The Reckoning",
+      "status": "pending",
+      "scenes": [
+        {
+          "number": 1,
+          "title": "The Ground Shifts",
+          "summary": "REVISED: no longer opens with the 'walks in and sees Teresa' reveal - that moment now happens at the end of Episode 2 instead. Episode 3 should open directly with the two of them already face to face in the boardroom, picking up right where Episode 2 left off, and move into the actual confrontation conversation (which was originally planned for Scene 2 'Face to Face' - may need Scene 1 and Scene 2 of Episode 3 to be reworked/merged since the reveal-only beat that was Scene 1's cliffhanger no longer exists as a separate moment).",
+          "cliffhanger": "She walks in and sees Teresa sitting there, in full composed power.",
+          "status": "pending",
+          "clips": [],
+          "merged_file": null
+        },
+        {
+          "number": 2,
+          "title": "Face to Face",
+          "summary": "Teresa, unrecognizable in poise, tells Selina exactly who she is and what she's about to lose. Selina realizes she needs Teresa's family more than she ever needed Marco.",
+          "cliffhanger": "Selina, humiliated, begs. Teresa doesn't answer yet — cut to Marco arriving, confused.",
+          "status": "pending",
+          "clips": [],
+          "merged_file": null
+        },
+        {
+          "number": 3,
+          "title": "What's Left",
+          "summary": "Marco realizes what Teresa actually was all along and what he threw away. Selina has already started distancing herself from him now that he's no longer useful. Teresa delivers the final line and walks away composed — the comeuppance lands, but whether she ever looks back stays open.",
+          "cliffhanger": "Marco, alone, calls out to her. Teresa keeps walking. Final line lands, hard cut — leaves the door open for more without feeling unfinished.",
+          "status": "pending",
+          "clips": [],
+          "merged_file": null
+        }
+      ]
+    }
+  ],
+  "pending_decisions": [
+    {
+      "topic": "Extend series from 3 to 4 episodes",
+      "proposal": "Episode 3 ('The Reckoning') becomes specifically Selina's reckoning/downfall. A NEW Episode 4 becomes Marco's reckoning separately, rather than both being resolved together in Episode 3's original 3 scenes.",
+      "status": "deferred - discuss and plan in detail later",
+      "note": "User's reasoning: gives each character's comeuppance its own space instead of compressing both into one episode."
+    }
+  ]
+}

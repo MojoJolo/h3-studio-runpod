@@ -1,0 +1,167 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office break room in the afternoon. Soft overhead light, a small round table between them, two coffee cups, a kitchenette counter out of focus behind them. Grounded restrained acting, a quiet but pointed professional disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+DAVID is a 48-year-old man with fair-medium skin, short greying hair, polished, wearing a charcoal suit jacket over an open-collar shirt. He is the department head: calm, deliberate, genuinely believes salary discussions damage team culture. He is SEATED at the break room table facing Mia, leaning slightly toward her.
+
+MIA is a 27-year-old woman with fair-medium skin, dark hair loose at shoulder length, wearing a plain knit top. She is an employee, sharp and composed. She is SEATED across the table directly facing him.
+
+They are manager and employee.
+
+Do NOT show another character, and do not show any other colleague in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Mia's line is exactly "Trust me with what?", delivered slowly with one deliberate beat between each word — all four words must be clearly audible and not rushed together.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no HR forms, notices, mugs with lettering, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+David and Mia face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already seated across the table. David lowers his voice, leaning slightly toward her.
+
+[0.4-4.2s] David, firm, matter-of-fact, speaks the VERY FIRST LINE (S1): <d>[English] If you discuss your salary with coworkers, don't expect me to trust you.</d>
+
+[4.2-4.6s] Mia looks at him, stunned.
+
+[4.6-8.0s] Mia, slow, one deliberate beat between each word (S2): <d>[English] Trust me with what?</d>
+
+Speaker lock: Only David, the man in the charcoal jacket, speaks S1. Only Mia, the woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mia's lips stay completely closed while David speaks, and David's lips stay completely closed while Mia speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet afternoon break-room tone, a soft ventilation hum, a distant unintelligible murmur from the corridor, a cup shifting on the table. No narrator or voice-over. Only David and Mia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office break room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+DAVID is the same 48-year-old department head with short greying hair, in the same charcoal suit jacket, still SEATED at the break room table facing Mia. He stays completely calm.
+
+MIA is the same 27-year-old employee with dark hair loose at shoulder length, in the same plain knit top, still SEATED across the table facing him.
+
+They are manager and employee.
+
+Do NOT show another character or anyone in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase "the person I trained" in Mia's line must be clearly audible — this is what makes the disparity personal, not abstract.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+David and Mia face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. David stays calm.
+
+[0.3-2.0s] David, even, deliberate, speaks the VERY FIRST LINE (S1): <d>[English] Compensation is private for a reason.</d>
+
+[2.0-5.4s] Mia, sharp, direct (S2): <d>[English] I found out the person I trained makes more than me.</d>
+
+[5.4-6.0s] A beat. David takes it in without reacting.
+
+[6.0-8.0s] David, calm, matter-of-fact, no defensiveness (S1): <d>[English] That's exactly why these conversations create problems.</d>
+
+Speaker lock: Only David, the man in the charcoal jacket, speaks S1. Only Mia, the woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mia's lips stay completely closed while David speaks, and David's lips stay completely closed while Mia speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet afternoon break-room tone, soft ventilation hum, distant unintelligible corridor murmur. No narrator or voice-over. Only David and Mia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office break room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Mia's silent stare and cuts hard.
+
+There are exactly two visible adult characters.
+
+DAVID is the same 48-year-old department head with short greying hair, in the same charcoal suit jacket, still SEATED at the break room table facing Mia.
+
+MIA is the same 27-year-old employee with dark hair loose at shoulder length, in the same plain knit top, still SEATED across the table facing him.
+
+They are manager and employee.
+
+Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: David's final line must clearly distinguish "happy with your salary" from "until you knew his" — neither phrase may be dropped, softened, or merged together, and it is delivered flat, without cruelty.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+David and Mia face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset. Mia looks at him carefully.
+
+[0.4-3.2s] Mia, level, pointed, speaks the VERY FIRST LINE (S2): <d>[English] The problem is that we talked about it?</d>
+
+[3.2-3.6s] David gives a small nod.
+
+[3.6-7.4s] David, flat, matter-of-fact, without cruelty (S1): <d>[English] The problem is you were happy with your salary until you knew his.</d>
+
+[7.4-8.0s] Mia just stares at him, saying nothing. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Mia answer, concede, or reply after David's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show any other colleague at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let David smirk, gloat, or look triumphant — he genuinely believes what he is saying.
+Do not have Mia stand up or walk out of frame.
+Do not fade out.
+
+Speaker lock: Only David, the man in the charcoal jacket, speaks S1. Only Mia, the woman in the knit top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mia's lips stay completely closed while David speaks, and David's lips stay completely closed while Mia speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet afternoon break-room tone, soft ventilation hum, falling to near silence under the final line. No narrator or voice-over. Only David and Mia speak.
+
+non_diegetic_music: None.

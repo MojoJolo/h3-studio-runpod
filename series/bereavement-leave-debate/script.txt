@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office pantry in the daytime. Soft overhead light, a small counter with a coffee machine, two mugs, a window out of focus behind. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+ASHLEY is a 30-year-old woman with fair-medium skin, light brown hair loose at shoulder length, wearing business casual attire, holding a coffee mug. She is entitled, defensive, and completely convinced her logic is reasonable. She is STANDING at the counter.
+
+JULIA is a 33-year-old woman with fair-medium skin, dark hair tied back, wearing a tailored blouse, a mug in hand. She is stunned, controlled, clearly trying not to explode. She is STANDING facing Ashley.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Ashley's first line is long and must be delivered as one casual, run-on sentence, as if stating something obvious — every word still audible, not rushed into mumbling. The word "died" at the end of it must be clearly audible, with no softening.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The pantry is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Ashley and Julia face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Ashley and Julia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Ashley is already sipping her coffee, both already standing at the counter. No greeting, no setup, no one entering the frame.
+
+[0.4-4.4s] Ashley, casual, as if stating the obvious, speaks the VERY FIRST LINE (S1): <d>[English] I told the manager you could cover Friday because you already got time off when your dad died.</d>
+
+[4.4-4.8s] Julia freezes, caught completely off guard.
+
+[4.8-6.2s] Julia, stunned, direct (S2): <d>[English] You mean my bereavement leave?</d>
+
+[6.2-8.0s] Ashley, casual, matter-of-fact (S1): <d>[English] Yeah. You already had a break.</d>
+
+Speaker lock: Only Ashley, the woman at the counter, speaks S1. Only Julia, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Julia's lips stay completely closed while Ashley speaks, and Ashley's lips stay completely closed while Julia speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet pantry room tone, a faint coffee machine hum, a distant keyboard clicking somewhere else. No narrator or voice-over. Only Ashley and Julia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office pantry, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+ASHLEY is the same 30-year-old woman with light brown hair loose at shoulder length, in the same business casual attire, mug in hand, still STANDING at the counter.
+
+JULIA is the same 33-year-old woman with dark hair tied back, in the same tailored blouse, mug in hand, still STANDING facing Ashley.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Julia's first line, "My father died.", is delivered slow and weighty, each word landing deliberately, not rushed. Julia's second line must land clearly on the word "break", directly echoing Ashley's own earlier word.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The pantry is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Ashley and Julia face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Ashley and Julia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Julia stares at her.
+
+[0.3-1.7s] Julia, slow, weighty, speaks the VERY FIRST LINE (S2): <d>[English] My father died.</d>
+
+[1.7-2.1s] Ashley sighs.
+
+[2.1-4.1s] Ashley, casual, not quite apologetic (S1): <d>[English] I know. I'm not saying it was a vacation.</d>
+
+[4.1-5.9s] Julia, sharper (S2): <d>[English] You literally just called it a break.</d>
+
+[5.9-6.3s] Ashley shrugs.
+
+[6.3-8.0s] Ashley, casual, unbothered (S1): <d>[English] I'm saying I haven't had one.</d>
+
+Speaker lock: Only Ashley, the woman at the counter, speaks S1. Only Julia, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Julia's lips stay completely closed while Ashley speaks, and Ashley's lips stay completely closed while Julia speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet pantry room tone, faint coffee machine hum. No narrator or voice-over. Only Ashley and Julia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office pantry, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+ASHLEY is the same 30-year-old woman with light brown hair loose at shoulder length, in the same business casual attire, still STANDING at the counter, arms folded.
+
+JULIA is the same 33-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING facing Ashley, coffee mug set down.
+
+They are coworkers of equal rank.
+
+Julia's father is mentioned but is NOT visible. Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: This clip has an unusually large amount of dialogue for 8 seconds. Julia's first line, Ashley's first line, Julia's second line, and Ashley's third line are rapid-fire, each spoken quickly and clipped as the argument escalates — every word still audible, not slurred together. Ashley's final line, "Honestly, I thought you'd be more understanding.", is the clinching thesis of the whole script and must slow down noticeably compared to everything before it, delivered unhurried and with complete sincerity, as if she genuinely believes she is the reasonable one.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The pantry is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Ashley and Julia face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Ashley and Julia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.1s] Continue mid-scene with no pause or reset. Julia puts her coffee down.
+
+[0.1-2.0s] Julia, firm, speaks the VERY FIRST LINE (S2), quick and clipped: <d>[English] So you volunteered me for your shift because my dad died?</d>
+
+[2.0-2.15s] Ashley immediately gets defensive.
+
+[2.15-3.4s] Ashley, quick and clipped (S1): <d>[English] Why are you twisting it like that?</d>
+
+[3.4-4.3s] Julia, quick, sharp (S2): <d>[English] What exactly am I twisting?</d>
+
+[4.3-4.45s] Ashley folds her arms.
+
+[4.45-6.2s] Ashley, quick and clipped, defensive (S1): <d>[English] You got five paid days off. I'm asking for one.</d>
+
+[6.2-6.4s] Julia just stares at her, saying nothing.
+
+[6.4-8.0s] Ashley, slowing down, unhurried, completely sincere, annoyed (S1): <d>[English] Honestly, I thought you'd be more understanding.</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Julia reply after Ashley's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show Julia's father or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Ashley smirk, gloat, or look triumphant — she genuinely believes what she is saying.
+Do not have Julia raise her voice or cry.
+Do not fade out.
+
+Speaker lock: Only Ashley, the woman at the counter, speaks S1. Only Julia, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Julia's lips stay completely closed while Ashley speaks, and Ashley's lips stay completely closed while Julia speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet pantry room tone, faint coffee machine hum, falling to near silence under the final line. No narrator or voice-over. Only Ashley speaks at the end.
+
+non_diegetic_music: None.

@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside an upscale apartment dining area in the evening. Warm pendant light over a dining table, two wine glasses and a closed laptop pushed to one side, city windows dark behind them. Grounded restrained acting, an engaged couple discussing wedding plans. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+NATALIE is a 30-year-old woman with fair-medium skin, dark brown hair worn loose, wearing a simple knit top. She wants marriage to mean complete partnership. She is seated at the dining table facing Marcus.
+
+MARCUS is a 35-year-old man with fair-medium skin, short dark hair, clean-shaven, wearing a plain open-collar shirt. He earns significantly more and owns assets from before the relationship. He is seated at the same table directly across from her.
+
+They are an engaged couple.
+
+Lawyers, family and friends are implied but NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no documents, no contracts, no papers with legible writing, no screens with visible text. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Natalie and Marcus face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.2s] Marcus, calm and direct, not cold, speaks the VERY FIRST LINE (S2): <d>[English] I'm not getting married without a prenup.</d>
+
+[3.2-4.4s] Natalie looks at him. She does not raise her voice and does not look away.
+
+[4.4-7.6s] Natalie, level and quiet (S1): <d>[English] Then maybe you shouldn't marry someone you don't trust.</d>
+
+[7.6-8.0s] Marcus holds her gaze without answering.
+
+Speaker lock: Only Natalie, the woman in the knit top, speaks S1. Only Marcus, the man in the open-collar shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Marcus's lips stay completely closed while Natalie speaks, and Natalie's lips stay completely closed while Marcus speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet apartment room tone, a faint clock, distant muffled city traffic, one wine glass shifting on wood. No narrator or voice-over. Only Natalie and Marcus speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same upscale apartment dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+NATALIE is the same 30-year-old woman with loose dark brown hair, in the same simple knit top, seated at the dining table facing Marcus.
+
+MARCUS is the same 35-year-old man with short dark hair, clean-shaven, in the same plain open-collar shirt, seated directly across from her. He stays composed throughout.
+
+Lawyers, family and friends are implied but NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The word "prenup" must be clearly audible and must not be replaced with "prenuptial agreement" or any other wording.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no documents, contracts, or papers with legible writing. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Natalie and Marcus face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.5s] Marcus, composed and sincere, explaining rather than defending, speaks the VERY FIRST LINE (S2): <d>[English] A prenup isn't planning a divorce. It's setting the rules while we still love each other.</d>
+
+[4.5-4.9s] Natalie does not look away. She takes the point seriously and it does not move her.
+
+[4.9-7.8s] Natalie, quiet and precise (S1): <d>[English] And protecting yourself from me before I'm your wife.</d>
+
+[7.8-8.0s] Marcus takes that in without replying.
+
+Speaker lock: Only Natalie, the woman in the knit top, speaks S1. Only Marcus, the man in the open-collar shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Marcus's lips stay completely closed while Natalie speaks, and Natalie's lips stay completely closed while Marcus speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock, distant muffled city traffic. No narrator or voice-over. Only Natalie and Marcus speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same upscale apartment dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on the two of them mirrored against each other and cuts hard.
+
+There are exactly two visible adult characters.
+
+NATALIE is the same 30-year-old woman with loose dark brown hair, in the same simple knit top, seated at the dining table facing Marcus.
+
+MARCUS is the same 35-year-old man with short dark hair, clean-shaven, in the same plain open-collar shirt, seated directly across from her.
+
+Lawyers, family and friends are implied but NOT visible. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: These two lines are deliberately mirrored. Marcus says "prove I trust you" and Natalie says "prove I love you" — those two phrases must stay exactly as written and must never be swapped or made identical. Both lines must be delivered at an unhurried pace with every word audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no documents, contracts, or papers with legible writing. The laptop stays closed.
+
+IMPORTANT EYELINE LOCK:
+Natalie and Marcus face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other. The framing should feel symmetrical — this is the moment they become mirror images of the same argument.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-0.8s] Marcus pauses. He is not preparing an attack — he is naming what he thinks she is actually asking of him.
+
+[0.8-4.3s] Marcus, quiet and level, no edge (S2): <d>[English] You want me to prove I trust you by risking everything I built before you.</d>
+
+[4.3-4.6s] Natalie looks straight at him. She does not flinch and does not soften.
+
+[4.6-7.8s] Natalie, quiet, flat, not triumphant (S1): <d>[English] And you want me to prove I love you by signing whatever protects you.</d>
+
+[7.8-8.0s] Neither of them answers. They hold each other's gaze. HARD CUT.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let either character reply after Natalie's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show any document, contract, pen, or lawyer at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let either character smirk, gloat, or look triumphant — both are naming something true, and neither is winning.
+Do not fade out.
+
+Speaker lock: Only Natalie, the woman in the knit top, speaks S1. Only Marcus, the man in the open-collar shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Marcus's lips stay completely closed while Natalie speaks, and Natalie's lips stay completely closed while Marcus speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces, keeping both equally framed. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock, distant muffled city traffic, falling to near silence under the final two lines. No narrator or voice-over. Only Natalie and Marcus speak.
+
+non_diegetic_music: None.

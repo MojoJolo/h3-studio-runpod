@@ -1,0 +1,64 @@
+subject_definitions:
+<Subject 1> is MAMA, using <Picture 1> for her identity: a Filipina mother in her mid-50s, short permed black hair with visible grey streaks, round warm face with fine lines, slightly heavyset build, wearing a loose pastel floral house duster dress. Seated on SCREEN-LEFT. Speaker S1. Calm, sincere, completely unbothered, genuinely believes she is being practical.
+<Subject 2> is JEN, using <Picture 2> for her identity: a Filipina woman, age 26, long straight black hair in a high ponytail, slim athletic build, sharp defined features, wearing a plain fitted solid black t-shirt. Seated on SCREEN-RIGHT. Speaker S2. Increasingly stunned, controlled, not crying.
+<Picture 3> is the room: a modest Metro Manila living room in the daytime, small wooden dining table with two plastic monobloc chairs facing each other, a framed family photo and a small religious statue on a shelf, tiled floor, window with sheer curtains, natural daylight, electric fan in the corner. Location/composition anchor only — no characters appear in this picture.
+
+summary:
+[reference generation] Jen asks who the father would be, and Mama answers that it would be her sister's husband.
+
+retention_analysis:
+<Subject 1> fully_preserved: face, hair, skin tone and body from <Picture 1>. Clothing as specified above.
+<Subject 2> fully_preserved: face, hair, skin tone and body from <Picture 2>. Clothing as specified above.
+<Picture 3> is used only for the room's layout and lighting — do not add any person from this picture. Exactly two people are visible in every shot of this clip: Mama and Jen.
+
+detailed_description:
+CRITICAL CHARACTER IDENTITY LOCK:
+NEVER swap their faces, hairstyles, bodies, ages, wardrobe, screen positions, voices or dialogue. NEVER morph one character into the other. MAMA (mid-50s, permed grey-streaked short hair, floral duster) is ALWAYS SCREEN-LEFT. JEN (26, black high ponytail, solid black t-shirt) is ALWAYS SCREEN-RIGHT. They do not cross or exchange sides. Every camera angle stays on the same side of the two women, so Mama remains on the left of frame and Jen on the right in every shot. Maintain the same facial identity from first frame to last frame.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+PRONUNCIATION LOCK (silent):
+- tátay = TA-tay, stress on TA
+- asáwa = a-SA-wa, stress on SA
+- A-te = A-te, TWO syllables, Filipino vowels, NEVER "eight" or "Eyte"
+- siyempre = si-YEM-pre
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+Never speak timestamps, character descriptions, actions, camera instructions, speaker labels, pronunciation guidance, or production notes.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Exactly two people are visible: Mama and Jen. Do NOT show another character. Ate and Marvin are mentioned only and remain OFF-SCREEN. No silhouettes, reflections or figures of a third person anywhere, including in the family photo on the shelf. Do NOT render any on-screen subtitles, captions, text overlays or watermarks of any kind. Natural restrained acting. Absurd situation played completely seriously. Do not exaggerate reactions. No teleserye acting.
+
+[Shot 1] Continue mid-scene with no reset. Over-the-shoulder shot from behind Mama's shoulder (Mama's shoulder and back of her permed hair soft in the foreground screen-left) onto Jen's face screen-right. [0.2-2.0s] JEN (S2), cautious: <d>[Tagalog] Eh sino yung magiging tátay?</d>
+[Shot 2] At 00:02.200, cut to a medium close-up on Mama (screen-left), completely calm. [2.3-3.4s] MAMA (S1): <d>[Tagalog] Si Marvin.</d>
+[Shot 3] At 00:03.600, cut to a tight close-up on Jen (screen-right), shocked. [3.7-5.4s] JEN (S2): <d>[Tagalog] Asáwa ni A-te?!</d>
+[Shot 4] At 00:05.600, cut back to a medium close-up on Mama (screen-left), flat, as if it is obvious. [5.7-7.0s] MAMA (S1): <d>[Tagalog] Eh siyempre.</d> [7.0-8.0s] Mama holds still, unbothered.
+
+FINAL SPEAKER LOCK:
+S1 = MAMA ONLY (SCREEN-LEFT, floral duster, permed grey-streaked hair).
+S2 = JEN ONLY (SCREEN-RIGHT, black t-shirt, high ponytail).
+Never exchange voices or dialogue. Only the active speaker moves her lips. The listener's mouth remains naturally closed.
+
+
+overall_soundscape:
+Same quiet home, soft electric fan whir. No narrator or voice-over. Only Mama and Jen speak.
+
+non_diegetic_music:
+N/A

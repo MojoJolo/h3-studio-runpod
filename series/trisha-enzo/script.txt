@@ -1,0 +1,137 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino relationship drama-comedy inside a stylish modern condominium living room in Metro Manila at night. Natural restrained acting, realistic relationship tension, but with an increasingly absurd and rage-inducing situation.
+
+There are exactly two visible adult characters.
+
+TRISHA is a 25-year-old Filipina woman with warm medium skin, long dark brown hair, expressive brown eyes, wearing a fitted casual top and jeans. She is attractive, confident, and initially nervous because she has just told her boyfriend she is pregnant.
+
+ENZO is a 28-year-old Filipino man with warm tan skin, short styled black hair, clean-shaven, athletic build, wearing a plain fitted T-shirt and lounge pants. He is Trisha's boyfriend. He looks immediately panicked for a reason Trisha does not yet understand.
+
+Enzo secretly has an older wealthy sugar mama named CELINE, a 46-year-old adult woman who financially supports him. Celine is NOT visible in this clip.
+
+All characters mentioned are adults.
+
+Both speak natural conversational Tagalog.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase or rewrite the dialogue.
+
+They are already in the middle of a serious conversation.
+
+Enzo (S2), visibly panicking, speaks the VERY FIRST LINE: <d>[Tagalog] Hindi pwedeng buntis ka rin!</d>
+
+Trisha's expression immediately changes.
+
+Trisha (S1), suspiciously asks: <d>[Tagalog] Rin?</d>
+
+Enzo freezes.
+
+Trisha steps slightly closer.
+
+Trisha (S1), sharply asks: <d>[Tagalog] Sinong buntis pa?</d>
+
+Enzo cannot answer immediately.
+
+overall_soundscape: Quiet condominium ambience, faint air-conditioning, distant traffic, natural tense voices. No narrator or voice-over. Only Trisha and Enzo speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium living room with the same characters, wardrobe, lighting, and positions. Enzo has already accidentally revealed that another woman is pregnant. Keep the acting serious even as the situation becomes increasingly absurd.
+
+There are exactly two visible adult characters.
+
+TRISHA is the same 25-year-old Filipina girlfriend, now suspicious and increasingly furious.
+
+ENZO is the same 28-year-old Filipino boyfriend, visibly cornered and struggling to explain himself.
+
+Celine remains OFF-SCREEN and is never visible.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase or rewrite the dialogue.
+
+Enzo (S2), reluctantly admits: <d>[Tagalog] Si Celine.</d>
+
+Trisha looks confused.
+
+Trisha (S1), asks sharply: <d>[Tagalog] Yung sinasabi mong ninang mo?</d>
+
+Enzo avoids her eyes.
+
+Enzo (S2), quietly replies: <d>[Tagalog] Hindi ko naman talaga ninang.</d>
+
+Trisha's expression changes from confusion to horrified realization.
+
+Trisha (S1), stunned, asks: <d>[Tagalog] Sugar mama mo?</d>
+
+Enzo stays silent.
+
+overall_soundscape: Same quiet condominium ambience, tense breathing and distant traffic. No narrator or voice-over. Only Trisha and Enzo speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same condominium living room. Trisha now understands that Enzo has been maintaining both relationships and has gotten both women pregnant. The final exchange should be absurd, shameless, and rage-inducing. Enzo should deliver his lines seriously, as if his logic is reasonable.
+
+There are exactly two visible adult characters.
+
+TRISHA is the same 25-year-old Filipina girlfriend, furious and completely disgusted.
+
+ENZO is the same 28-year-old Filipino boyfriend, cornered but still trying to think practically about the situation.
+
+Celine remains OFF-SCREEN and is never visible.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+Trisha (S1), furious, asks: <d>[Tagalog] Pareho mo kaming binuntis?</d>
+
+Enzo hesitates, then replies quietly:
+
+Enzo (S2): <d>[Tagalog] Mukhang ganun na nga.</d>
+
+Trisha stares at him in absolute disbelief.
+
+Trisha (S1), snaps: <d>[Tagalog] Gago ka!</d>
+
+Enzo becomes defensive and replies with complete seriousness:
+
+Enzo (S2): <d>[Tagalog] Hinaan mo boses mo. Siya nagbabayad ng condo.</d>
+
+Trisha goes completely still.
+
+CUT ABRUPTLY.
+
+Do not show Celine.
+Do not resolve which pregnancy Enzo will prioritize.
+Do not make Enzo apologize.
+End immediately after Enzo reveals that even the condominium where he is arguing with his girlfriend is being paid for by his pregnant sugar mama.
+
+overall_soundscape: Same quiet condominium ambience, tense silence, faint air-conditioning and distant traffic. No narrator or voice-over. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

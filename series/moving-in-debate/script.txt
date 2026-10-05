@@ -1,0 +1,161 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern apartment living room in the evening. Warm lamplight, a low sofa, a coffee table with two mugs, a window with city lights out of focus behind them. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+MAYA is a 29-year-old woman with warm medium-brown skin, dark hair loose to her shoulders, minimal makeup, wearing a simple cream knit sweater and jeans. She is calm and firm, sitting turned toward Liam at one end of the sofa.
+
+LIAM is a 31-year-old man with fair-medium skin, short dark brown hair, light stubble, wearing a navy henley and grey joggers. He is practical and unhurried, sitting turned toward Maya at the other end of the same sofa.
+
+They are a couple who have been together six years.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Maya and Liam face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.0s] Maya, calm and firm, speaks the VERY FIRST LINE (S1): <d>[English] I'm not moving in with you until we're engaged.</d>
+
+[3.0-4.2s] Liam does not react defensively. He sets his mug down on the coffee table, unhurried, and keeps his eyes on her.
+
+[4.2-6.8s] Liam, level and matter-of-fact (S2): <d>[English] And I'm not proposing until we've lived together.</d>
+
+[6.8-8.0s] Maya holds his gaze without answering.
+
+Speaker lock: Only Maya, the woman in the cream sweater, speaks S1. Only Liam, the man in the navy henley, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Liam's lips stay completely closed while Maya speaks, and Maya's lips stay completely closed while Liam speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet apartment room tone, a soft refrigerator hum from off screen, faint distant city traffic through glass, one mug set down lightly on wood. No narrator or voice-over. Only Maya and Liam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+MAYA is the same 29-year-old woman with warm medium-brown skin, dark hair loose to her shoulders, in the same cream knit sweater and jeans, seated turned toward Liam.
+
+LIAM is the same 31-year-old man with fair-medium skin, short dark brown hair and light stubble, in the same navy henley and grey joggers, seated turned toward Maya.
+
+They are a couple who have been together six years.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The contrasting words are "wife-level" and "husband-level" — both must be clearly audible and must not be swapped.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Maya and Liam face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.0s] Maya, pointed but not raised, speaks the VERY FIRST LINE (S1): <d>[English] So you want wife-level commitment before giving me husband-level commitment?</d>
+
+[4.0-4.6s] Liam does not flinch and does not look away. He takes the question seriously.
+
+[4.6-7.8s] Liam, calm and sincere (S2): <d>[English] I want to know we can live together before promising forever.</d>
+
+[7.8-8.0s] Maya breathes out once, still looking at him.
+
+Speaker lock: Only Maya, the woman in the cream sweater, speaks S1. Only Liam, the man in the navy henley, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Liam's lips stay completely closed while Maya speaks, and Maya's lips stay completely closed while Liam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, soft refrigerator hum, faint distant city traffic through glass. No narrator or voice-over. Only Maya and Liam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Maya having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+MAYA is the same 29-year-old woman with warm medium-brown skin, dark hair loose to her shoulders, in the same cream knit sweater and jeans, seated turned toward Liam. She is visibly frustrated but controlled.
+
+LIAM is the same 31-year-old man with fair-medium skin, short dark brown hair and light stubble, in the same navy henley and grey joggers, seated turned toward Maya. He is calm and not defensive.
+
+They are a couple who have been together six years.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase "six years" appears in both lines and must be clearly audible in each.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Maya and Liam face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-2.4s] Maya, frustrated but controlled, speaks the VERY FIRST LINE (S1): <d>[English] We've been together for six years.</d>
+
+[2.4-3.2s] Liam pauses, genuinely considering it rather than preparing a defence. He does not smile.
+
+[3.2-7.4s] Liam, calm and level, no edge in his voice (S2): <d>[English] Exactly. If six years isn't enough to live together, why is it enough to marry?</d>
+
+[7.4-8.0s] Maya has no immediate response. She looks at him, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Maya answer, concede, or reply after Liam's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show any third person, child, pet, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Liam smirk, gloat, or look triumphant — he is making a point, not winning.
+Do not fade out.
+
+Speaker lock: Only Maya, the woman in the cream sweater, speaks S1. Only Liam, the man in the navy henley, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Liam's lips stay completely closed while Maya speaks, and Maya's lips stay completely closed while Liam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, soft refrigerator hum, faint distant city traffic through glass, falling to near silence under the final line. No narrator or voice-over. Only Maya and Liam speak.
+
+non_diegetic_music: None.

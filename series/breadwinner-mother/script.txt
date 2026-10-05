@@ -1,0 +1,202 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino family drama inside a modest but well-kept condominium living room in Metro Manila in the evening. Natural restrained acting, realistic uncomfortable family tension, not exaggerated teleserye performance.
+
+There are exactly two visible adult characters.
+
+MAYA is a 27-year-old Filipina working professional with warm medium skin, long dark brown hair tied loosely after work, expressive brown eyes, wearing office slacks and a fitted blouse. She has just arrived home from work with her handbag still over one shoulder. She looks physically tired after a long workday.
+
+MAMA TESS is a 52-year-old Filipina woman with warm medium skin, shoulder-length dark hair, wearing a simple house blouse and lounge pants. She is Maya's mother. She speaks as though asking her daughter for money is completely normal and reasonable.
+
+Maya's older brother is NOT visible.
+Do NOT show another character.
+
+Both Maya and Mama Tess are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+Never speak character descriptions, timestamps, speaker labels, pronunciation guidance, or production instructions aloud.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no signage, no documents, no legible lettering on anything.
+
+PRONUNCIATION LOCK:
+- útang = U-tang, stress on U
+- kúya = KU-ya, stress on KU
+- kakabigáy = ka-ka-bi-GAI, four syllables, stress on the last; the final syllable rhymes with the English word "buy" and must NEVER be pronounced like the English word "gay"
+- kúlang = KU-lang, stress on KU
+- twenty thousand and thirty thousand are English numbers — say them naturally in English, then return to Filipino pronunciation
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–2.3s] Start IMMEDIATELY as Maya has barely entered the room. Mama Tess is already facing her and asks matter-of-factly as the VERY FIRST LINE (S2): <d>[Tagalog] Anak, pahingi ulit ng twenty thousand. May útang kúya mo.</d>
+
+[2.3–4.8s] Maya stops walking and stares at her mother, exhausted.
+
+Maya (S1), incredulous, replies: <d>[Tagalog] Ma, kakabigáy ko lang ng thirty thousand.</d>
+
+[4.8–6.4s] Mama Tess answers immediately, without guilt or hesitation (S2): <d>[Tagalog] Eh kúlang.</d>
+
+[6.4–8.0s] Maya remains frozen, staring at her mother in disbelief.
+
+Speaker lock: Only Maya speaks S1. Only Mama Tess speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium two-shot. No introductory pause. Conflict begins immediately with Mama Tess asking for more money.
+
+overall_soundscape: Quiet family-home ambience, faint electric fan, distant Metro Manila traffic, subtle handbag movement, natural tense voices. No narrator or voice-over.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium living room with the same characters, wardrobe, lighting, and positions. Maya is frustrated because she already shoulders most of the household expenses. Mama Tess genuinely believes this is simply Maya's responsibility because Maya is the working daughter with the better salary.
+
+There are exactly two visible adult characters.
+
+MAYA is the same 27-year-old Filipina working professional, tired and increasingly angry.
+
+MAMA TESS is the same 52-year-old Filipina mother, calm and entitled rather than apologetic.
+
+Maya's older brother remains completely OFF-SCREEN.
+Do NOT show another character.
+
+Both Maya and Mama Tess are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+PRONUNCIATION LOCK:
+- kuryénte = kur-YEN-te, stress on YEN
+- gamót = ga-MOT, stress on MOT
+- trabáho = tra-BA-ho, stress on BA
+- lahát = la-HAT, stress on HAT
+- ákin = A-kin, stress on A
+- maáyos = ma-A-yos, three syllables — the two a vowels are separate, never collapsed into one long sound
+- swéldo = SWEL-do, stress on SWEL
+- rent and groceries are English words — say them naturally in English, then return to Filipino pronunciation
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–2.5s] Maya immediately starts listing what she already pays for, visibly frustrated (S1): <d>[Tagalog] Ako sa rent, kuryénte, groceries, pati gamót ni Papa.</d>
+
+[2.5–4.1s] Mama Tess looks at her as though that changes nothing and replies calmly (S2): <d>[Tagalog] Eh may trabáho ka naman.</d>
+
+[4.1–5.6s] Maya stares at her mother and asks, offended (S1): <d>[Tagalog] So lahát sa ákin?</d>
+
+[5.6–8.0s] Mama Tess answers as though stating something obvious (S2): <d>[Tagalog] Ikaw yung may maáyos na swéldo.</d>
+
+Maya's expression hardens.
+
+Speaker lock: Only Maya speaks S1. Only Mama Tess speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium close two-shot. No cuts. Prioritize Mama Tess's completely sincere delivery.
+
+overall_soundscape: Same quiet family-home ambience, faint electric fan, distant traffic, natural tense voices. No narrator or voice-over.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same condominium living room. Maya finally points out that she has almost nothing left for herself. Mama Tess's response should be shameless, absurd-but-plausible, and rage-inducing. Mama Tess genuinely believes Maya has less need for personal money because she is unmarried and has no children.
+
+There are exactly two visible adult characters.
+
+MAYA is the same 27-year-old Filipina working professional, now furious and emotionally exhausted.
+
+MAMA TESS is the same 52-year-old Filipina mother, defensive and completely convinced her reasoning is fair.
+
+Maya's older brother remains completely OFF-SCREEN.
+Do NOT show another character.
+
+Both Maya and Mama Tess are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+PRONUNCIATION LOCK:
+- natitíra = na-ti-TI-ra, stress on the third syllable TI
+- ákin = A-kin, stress on A
+- anák = a-NAK, stress on NAK
+- kinaláman = ki-na-LA-man, stress on LA
+- saán = sa-AN, two syllables — the two a vowels are separate, never collapsed into one long sound
+- gagástusin = ga-GAS-tu-sin, stress on GAS
+- péra = PE-ra, stress on PE
+- single is an English word — say it naturally in English, then return to Filipino pronunciation
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–2.3s] Maya looks directly at Mama Tess and says angrily (S1): <d>[Tagalog] Ma, wala na ngang natitíra para sa ákin.</d>
+
+[2.3–3.7s] Mama Tess immediately answers, completely matter-of-fact (S2): <d>[Tagalog] Eh single ka naman.</d>
+
+[3.7–5.1s] Maya freezes, then asks in disbelief (S1): <d>[Tagalog] Anong kinaláman nun?</d>
+
+[5.1–8.0s] Mama Tess replies with complete sincerity, as though her logic is undeniable (S2): <d>[Tagalog] Wala ka namang anák. Saán mo gagástusin péra mo?</d>
+
+Maya goes completely still in disbelief.
+
+CUT ABRUPTLY.
+
+Do not show Maya's brother.
+Do not make Mama Tess apologize.
+Do not resolve whether Maya gives her the additional money.
+Do not soften Mama Tess's final statement.
+End on Mama Tess sincerely believing that Maya's salary is more available to the family because Maya is single and childless.
+
+Speaker lock: Only Maya speaks S1. Only Mama Tess speaks S2. Never swap dialogue, voices, or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the abrupt ending. Prioritize Maya's reaction to "Saán mo gagástusin péra mo?"
+
+overall_soundscape: Same quiet family-home ambience, tense breathing, faint electric fan, distant traffic, natural restrained voices. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

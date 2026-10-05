@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1> is ELI, using <Picture 1> for his identity: Filipino-Spanish man around 35, lean and tired, short messy dark hair, stubble, olive-green worn field jacket over a grey hoodie, dark jeans, black backpack, short metal baton, a thin plain silver bracelet on his right wrist.
+<Subject 2> is the INFECTED, using <Picture 2> ONLY as the style template: greyish pale skin with dark veins, bloodshot clouded eyes, torn dirty everyday clothes, hunched twitching movement. Every infected is a DIFFERENT person (different age, gender, build, hair and clothes: office worker, delivery rider, older woman in a cardigan, teenager in a hoodie, security guard). Never copy the same face onto several infected.
+<Picture 3> is the location: an empty downtown street at dusk. Location/composition anchor only, no characters come from this picture.
+
+summary:
+[reference generation] Eli fights off the first infected, then more emerge from between the cars and slowly surround him; there is nowhere to run.
+
+retention_analysis:
+<Subject 1> fully_preserved: face, hair, skin tone, body and outfit from <Picture 1>, including the backpack and the silver bracelet.
+<Subject 2>: style only from <Picture 2>; each infected individual looks different.
+<Picture 3> is used only for the environment, layout and lighting; do not add any person from it.
+
+detailed_description:
+CRITICAL AUDIO RULE: There is NO narrator and NO voice-over. ONLY dialogue written inside <d>...</d> may be spoken aloud. Everything else is SILENT visual direction. Otherwise only breathing, grunts, infected snarls and screeches, never words.
+CRITICAL VISUAL RULE: No other survivors, no crowd of normal people. No on-screen text, subtitles, captions, logos, watermarks or readable signs.
+LOCATION LOCK (same street in every shot of every clip): one straight downtown road running away from camera, the same as <Picture 3>. Fixed layout: a dark alley entrance on the LEFT side; storefronts with half-open metal shutters on both sides; a silver sedan abandoned at an angle across the left lane; a white van stopped in the middle distance; a red hatchback parked at the RIGHT curb (the car Eli gets slammed into); flickering streetlights; an orange-purple dusk sky between the buildings; trash and glass bottles on the asphalt. Every camera angle shows THIS same street: only the camera moves. Do not add, remove or relocate cars, the alley, shutters or lights between shots. Same dusk light throughout, slowly darkening. Changes persist: a dent in the red hatchback stays dented in later shots.
+STYLE: Photorealistic live-action survival horror film, handheld documentary energy, shallow depth of field, desaturated teal-orange grade, natural dusk light, grounded and tense, no gore, no cartoon effects. Hard cuts, no dissolves.
+
+[Shot 1] Close two-shot against the dented red hatchback: the infected man snaps at Eli's face; Eli jams his forearm into the infected's jaw, blocking the bite, then plants a boot and kicks him away.
+[Shot 2] At 00:02.200, cut to over Eli's shoulder: behind him, a second infected (a delivery rider in a torn jacket) rises between the cars. Then a third, an older woman in a cardigan.
+[Shot 3] At 00:04.000, cut to a slow wide pan: three more infected step out from between the abandoned cars and from the alley on the left, twitching, closing in from every side.
+[Shot 4] At 00:05.800, cut to a high overhead angle: Eli at the center of a tightening ring of six infected on the asphalt. Cut to a close-up at 00:06.800: Eli looks left, then right, breathing hard. Nowhere to run.
+
+overall_soundscape:
+Snarls and wet breathing, a boot impact, shuffling and dragging footsteps from every direction, low guttural clicks, Eli's ragged breath, the faint buzz of a flickering streetlight.
+
+non_diegetic_music:
+A slow, tightening string drone with a heartbeat-like low pulse.

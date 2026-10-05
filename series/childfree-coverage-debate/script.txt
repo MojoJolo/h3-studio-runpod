@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office near closing time. Low warm evening office light, a desk with a closed laptop and loose papers, a coat rack out of focus. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+JESSICA is a 33-year-old woman with fair-medium skin, dark hair tied back, wearing a plain blouse. She is a reliable employee, clearly fed up. She is SEATED at her desk.
+
+AMY is a 28-year-old woman with fair-medium skin, light brown hair loose at shoulder length, wearing a cardigan already half on, pulling a coat over her shoulders. She is cheerful, entitled, and completely comfortable making her problem someone else's. She is STANDING beside Jessica's desk.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Amy's final line in this clip, "I have to pick mine up.", is delivered casual and oblivious, as if the problem is already solved.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Jessica and Amy face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Jessica remains SEATED and Amy remains STANDING for the entire shot. Jessica does not stand up and Amy does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Start immediately mid-scene. Amy is already standing beside the desk, already pulling her coat over her shoulders. Jessica is already seated at her desk. No one walking into frame.
+
+[0.4-3.2s] Amy, casual, speaks the VERY FIRST LINE (S1): <d>[English] I told the boss you'd finish my work because you don't have kids.</d>
+
+[3.2-3.8s] Jessica slowly looks up from her desk.
+
+[3.8-5.6s] Jessica, incredulous (S2): <d>[English] You told him what?</d>
+
+[5.6-8.0s] Amy, casual, oblivious, as if the problem is already solved (S1): <d>[English] I have to pick mine up.</d>
+
+Speaker lock: Only Amy, the standing woman in the cardigan, speaks S1. Only Jessica, the seated woman in the blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jessica's lips stay completely closed while Amy speaks, and Amy's lips stay completely closed while Jessica speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, framed to keep the seated and standing figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet end-of-day office room tone, a distant air-conditioning hum, a coat zipper closing. No narrator or voice-over. Only Jessica and Amy speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+JESSICA is the same 33-year-old woman with dark hair tied back, in the same blouse, still SEATED at her desk.
+
+AMY is the same 28-year-old woman with light brown hair loose at shoulder length, coat now on, still STANDING beside Jessica's desk.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Amy's final line in this clip, "You can go out anytime.", is delivered as if she genuinely believes it is a reasonable point, not meant as an insult.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Jessica and Amy face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Jessica remains SEATED and Amy remains STANDING for the entire shot. Jessica does not stand up and Amy does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset.
+
+[0.3-2.5s] Jessica, pointed, speaks the VERY FIRST LINE (S2): <d>[English] You've left early four times this week.</d>
+
+[2.5-2.9s] Amy shrugs, unbothered.
+
+[2.9-4.3s] Amy, casual (S1): <d>[English] Parenting doesn't stop at five.</d>
+
+[4.3-5.8s] Jessica, flat (S2): <d>[English] Neither does my life.</d>
+
+[5.8-6.2s] Amy gives her a look, mildly puzzled.
+
+[6.2-8.0s] Amy, genuinely sincere, not meant as an insult (S1): <d>[English] You can go out anytime.</d>
+
+Speaker lock: Only Amy, the standing woman in the cardigan, speaks S1. Only Jessica, the seated woman in the blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jessica's lips stay completely closed while Amy speaks, and Amy's lips stay completely closed while Jessica speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, framed to keep the seated and standing figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum. No narrator or voice-over. Only Jessica and Amy speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+JESSICA is the same 33-year-old woman with dark hair tied back, in the same blouse, still SEATED at her desk.
+
+AMY is the same 28-year-old woman with light brown hair loose at shoulder length, coat on, still STANDING beside Jessica's desk, a bag now on her shoulder.
+
+They are coworkers of equal rank.
+
+Amy's daughter is mentioned but is NOT visible. Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Amy's final line, "Why are you making me feel guilty for being a good mom?", is delivered quickly but clearly, in one continuous, slightly indignant breath, with every word still audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Jessica and Amy face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Jessica remains SEATED and Amy remains STANDING for the entire shot. Jessica does not stand up and Amy does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.2s] Continue mid-scene with no pause or reset. Jessica pushes Amy's unfinished paperwork back across the desk toward her.
+
+[0.2-1.3s] Jessica, firm, speaks the VERY FIRST LINE (S2): <d>[English] Then finish it tomorrow.</d>
+
+[1.3-1.5s] Amy immediately looks annoyed.
+
+[1.5-2.9s] Amy, clipped (S1): <d>[English] I can't. The deadline is tonight.</d>
+
+[2.9-3.4s] Jessica, flat, two words (S2): <d>[English] Then stay.</d>
+
+[3.4-3.7s] Amy picks up her bag fully onto her shoulder.
+
+[3.7-5.6s] Amy, firm, certain she is in the right (S1): <d>[English] I already promised my daughter I'd be there.</d>
+
+[5.6-5.9s] Jessica stares at her, saying nothing.
+
+[5.9-8.0s] Amy, quickly but clearly, one continuous indignant breath, slightly irritated (S1): <d>[English] Why are you making me feel guilty for being a good mom?</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Jessica reply after Amy's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show Amy's daughter or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Amy smirk, gloat, or look triumphant — she genuinely believes she is in the right.
+Do not have Jessica stand up.
+Do not fade out.
+
+Speaker lock: Only Amy, the standing woman in the cardigan, speaks S1. Only Jessica, the seated woman in the blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jessica's lips stay completely closed while Amy speaks, and Amy's lips stay completely closed while Jessica speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum, papers sliding across the desk, falling to near silence under the final line. No narrator or voice-over. Only Jessica and Amy speak.
+
+non_diegetic_music: None.

@@ -1,0 +1,172 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modest bedroom at night. One warm bedside lamp on, curtains closed, bed neatly made. Grounded restrained acting, a quiet but tense conversation between a married couple. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+EMMA is a 30-year-old woman with fair-medium skin, dark brown hair loose to her shoulders, no makeup, visibly about seven months pregnant, wearing a plain long cotton pyjama top and loose lounge trousers. She is hurt but controlled. She is seated upright on the edge of the bed, turned to face Jack.
+
+JACK is a 33-year-old man with fair-medium skin, short dark brown hair, light stubble, wearing a plain t-shirt and pyjama bottoms. He is calm, visibly uncomfortable, but firm. He is seated at the foot of the same bed, turned to face Emma.
+
+They are husband and wife. This is a serious, fully clothed conversation — they are seated apart and do not touch at any point.
+
+Jack's father, Jack's mother and Jack's older brother are mentioned in dialogue but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Emma and Jack face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. Neither is lying down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.4s] Jack, calm and uncomfortable but not apologetic, speaks the VERY FIRST LINE (S2): <d>[English] I want a paternity test when the baby is born.</d>
+
+[3.4-4.6s] Emma stares at him. She does not cry and does not raise her voice.
+
+[4.6-7.2s] Emma, quiet and level (S1): <d>[English] So you think I cheated on you?</d>
+
+[7.2-8.0s] Jack holds her gaze without answering yet.
+
+Speaker lock: Only Emma, the pregnant woman in the cotton pyjama top, speaks S1. Only Jack, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emma's lips stay completely closed while Jack speaks, and Jack's lips stay completely closed while Emma speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet bedroom room tone at night, a faint clock, distant muffled street noise through closed curtains, soft breathing. No narrator or voice-over. Only Emma and Jack speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom at night, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+EMMA is the same 30-year-old visibly pregnant woman with loose dark brown hair, in the same plain long cotton pyjama top and loose lounge trousers, seated upright on the edge of the bed facing Jack.
+
+JACK is the same 33-year-old man with short dark brown hair and light stubble, in the same plain t-shirt and pyjama bottoms, seated at the foot of the bed facing Emma.
+
+They are husband and wife, seated apart, fully clothed, and do not touch at any point.
+
+Jack's father, mother and older brother are mentioned but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Jack's line begins with the single word "No." followed by a short pause, then the rest of the sentence. The word "No." must be clearly audible and must not be dropped or run into the next word.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Emma and Jack face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither is lying down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.0s] Jack shakes his head once, immediately, wanting to correct her before she settles on that reading.
+
+[1.0-4.4s] Jack, sincere and careful (S2): <d>[English] No. I think every father should know for certain.</d>
+
+[4.4-4.9s] Emma does not look away. She takes what he said seriously.
+
+[4.9-7.8s] Emma, quiet and precise (S1): <d>[English] You're asking me to prove I didn't betray you.</d>
+
+[7.8-8.0s] Jack takes that in without replying.
+
+Speaker lock: Only Emma, the pregnant woman in the cotton pyjama top, speaks S1. Only Jack, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emma's lips stay completely closed while Jack speaks, and Jack's lips stay completely closed while Emma speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet bedroom room tone at night, faint clock, distant muffled street noise, soft breathing. No narrator or voice-over. Only Emma and Jack speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom at night, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Jack having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+EMMA is the same 30-year-old visibly pregnant woman with loose dark brown hair, in the same plain long cotton pyjama top and loose lounge trousers, seated upright on the edge of the bed facing Jack.
+
+JACK is the same 33-year-old man with short dark brown hair and light stubble, in the same plain t-shirt and pyjama bottoms, seated at the foot of the bed facing Emma.
+
+They are husband and wife, seated apart, fully clothed, and do not touch at any point.
+
+Jack's father, mother and older brother are mentioned in dialogue but are NOT visible and do NOT appear. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: In Jack's line the age is "fifty" and the relation is "his oldest son" — both must be clearly audible and must not be changed. In Emma's line the words are "your mother" and must not become "your father" or "my mother."
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Emma and Jack face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither is lying down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.1s] Jack pauses. He is not building an argument — he is deciding whether to say something he does not like saying.
+
+[1.1-4.6s] Jack, quiet, reluctant, no self-pity (S2): <d>[English] My dad found out at fifty that his oldest son wasn't his.</d>
+
+[4.6-5.3s] Emma looks at him. Her expression changes as she understands where this comes from — and then hardens.
+
+[5.3-7.7s] Emma, quiet, flat, not triumphant (S1): <d>[English] And now I'm paying for what your mother did?</d>
+
+[7.7-8.0s] Jack has no immediate answer. He looks at her, silent. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Jack answer, concede, or reply after Emma's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace, touch, or reconcile.
+Do not have Emma cry or become theatrical — restrained hurt reads better.
+Do not show Jack's father, mother, brother, any doctor, or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Emma smirk, gloat, or look triumphant — she is naming something painful, not winning.
+Do not fade out.
+
+Speaker lock: Only Emma, the pregnant woman in the cotton pyjama top, speaks S1. Only Jack, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emma's lips stay completely closed while Jack speaks, and Jack's lips stay completely closed while Emma speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet bedroom room tone at night, faint clock, distant muffled street noise, falling to near silence under the final line. No narrator or voice-over. Only Emma and Jack speak.
+
+non_diegetic_music: None.

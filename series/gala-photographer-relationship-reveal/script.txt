@@ -1,0 +1,161 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama in a quiet side alcove off the main ballroom during an evening charity gala, away from the crowd. Warm low light from a nearby chandelier, a tall arched window behind them, soft shadows. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+VICTOR is a 58-year-old man with fair skin, grey hair combed back, wearing a black tuxedo, holding a champagne flute loosely at his side. He genuinely believes he is being realistic, not cruel. He is STANDING near the archway.
+
+SOPHIE is a 27-year-old woman with fair-medium skin, dark hair pinned back, wearing dark professional attire, a camera on a strap around her neck, having just lowered it from taking a shot. She is calm and composed throughout. She is STANDING a short distance from him.
+
+Do NOT show another character, and do not show any other guest in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Sophie's line is a genuine, unhurried question, not defensive — slow and even.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible badge, no readable signage, no legible text on the camera body.
+
+IMPORTANT EYELINE LOCK:
+Victor and Sophie face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Victor and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Both are already standing in the alcove, Sophie already lowering her camera from her eye, Victor already mid-sentence in his posture. No one walking into frame.
+
+[0.4-3.4s] Victor, blunt, dismissive, speaks the VERY FIRST LINE (S1): <d>[English] You do realize you're the help tonight, not a guest.</d>
+
+[3.4-4.0s] Sophie looks at him, calm, unhurried, not offended.
+
+[4.0-8.0s] Sophie, calm, genuinely asking, even and unhurried (S2): <d>[English] Why does that matter to you?</d>
+
+Speaker lock: Only Victor, the man in the tuxedo, speaks S1. Only Sophie, the woman with the camera, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Sophie's lips stay completely closed while Victor speaks, and Victor's lips stay completely closed while Sophie speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Distant faint live string quartet from the main ballroom, muffled by distance, a soft chandelier-lit room tone, the faint click of a camera settling against its strap. No narrator or voice-over. Only Victor and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same gala alcove, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+VICTOR is the same 58-year-old man with grey hair combed back, in the same black tuxedo, still STANDING near the archway, champagne flute at his side. He is not angry, just certain he is right.
+
+SOPHIE is the same 27-year-old woman with dark hair pinned back, in the same dark professional attire, camera still around her neck, still STANDING a short distance from him. She remains completely calm.
+
+Do NOT show another character or any other guest.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Sophie's line in this clip is brief and composed, not defensive — she is deflecting, not arguing. Victor's final line in this clip is a direct demand, flatter than his first line, not louder.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Victor and Sophie face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Victor and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset.
+
+[0.3-3.3s] Victor, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] People like you don't usually end up at parties like this.</d>
+
+[3.3-5.0s] Sophie, calm, composed (S2): <d>[English] I'll keep that in mind.</d>
+
+[5.0-5.4s] Victor does not let up, gesturing once with the flute toward the main room.
+
+[5.4-8.0s] Victor, flatter now, making a demand (S1): <d>[English] Just stick to taking the photos.</d>
+
+Speaker lock: Only Victor, the man in the tuxedo, speaks S1. Only Sophie, the woman with the camera, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Sophie's lips stay completely closed while Victor speaks, and Victor's lips stay completely closed while Sophie speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same distant faint string quartet, muffled room tone. No narrator or voice-over. Only Victor and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same gala alcove, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Victor's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+VICTOR is the same 58-year-old man with grey hair combed back, in the same black tuxedo, still STANDING near the archway.
+
+SOPHIE is the same 27-year-old woman with dark hair pinned back, in the same dark professional attire, camera around her neck, still STANDING a short distance from him at the start of this shot.
+
+Do NOT show another character or any other guest, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Sophie speaks both lines in this clip, flat and matter-of-fact, no triumph, no raised voice. The word "mother" at the end of her second line must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Victor and Sophie face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Victor and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Sophie lowers the camera fully and meets his eyes directly for the first time, unhurried. This physical gesture happens before she speaks.
+
+[0.5-2.3s] Sophie, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] This is my parents' house.</d>
+
+[2.3-2.6s] A short beat. Victor's expression starts to shift.
+
+[2.6-6.2s] Sophie, same calm register, no triumph (S2): <d>[English] The woman you've been talking to all night is my mother.</d>
+
+[6.2-8.0s] Victor says nothing, stunned, staring at her. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Victor answer, apologise, or reply after Sophie's final line.
+Do not resolve it with an apology, a scene, or anyone else stepping in — the fact is enough.
+Do not show any other guest, host, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Sophie smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Victor walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Sophie, the woman with the camera, speaks S2 in this clip. Victor does not speak; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same distant faint string quartet, muffled room tone, falling to near silence under her final line. No narrator or voice-over. Only Sophie speaks.
+
+non_diegetic_music: None.

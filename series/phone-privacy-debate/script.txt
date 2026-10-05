@@ -1,0 +1,169 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside an apartment living room in the evening. Warm lamplight, two armchairs angled toward each other with a low coffee table between them, a phone lying face down on the table. Grounded restrained acting, a married couple arguing calmly. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+SARA is a 30-year-old woman with fair-medium skin, dark brown hair loose to her shoulders, wearing a plain long-sleeve top and jeans. She believes marriage means full transparency. She is seated in one armchair, turned toward Daniel.
+
+DANIEL is a 32-year-old man with fair-medium skin, short dark brown hair, light stubble, wearing a plain crew-neck sweater. He is loyal but protective of personal privacy. He is seated in the other armchair directly facing her.
+
+They are husband and wife.
+
+Daniel's friends are mentioned later but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The phone stays face down on the table with its screen hidden — no messages, notifications, or legible text are ever visible on it.
+
+IMPORTANT EYELINE LOCK:
+Sara and Daniel face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.4s] Sara, direct and frustrated but not shouting, speaks the VERY FIRST LINE (S1): <d>[English] Why won't you give me your phone password?</d>
+
+[3.4-4.0s] Daniel does not reach for the phone and does not look at it. He keeps his eyes on her.
+
+[4.0-7.6s] Daniel, level and unapologetic, not defensive (S2): <d>[English] Because being married doesn't mean I stop having privacy.</d>
+
+[7.6-8.0s] Sara holds his gaze without answering.
+
+Speaker lock: Only Sara, the woman in the long-sleeve top, speaks S1. Only Daniel, the man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Daniel's lips stay completely closed while Sara speaks, and Sara's lips stay completely closed while Daniel speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. Keep the face-down phone on the table visible between them. No cuts.
+
+overall_soundscape: Quiet apartment room tone, a soft refrigerator hum from off screen, a clock ticking faintly, distant muffled street noise. No narrator or voice-over. Only Sara and Daniel speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+SARA is the same 30-year-old woman with loose dark brown hair, in the same plain long-sleeve top and jeans, seated in her armchair facing Daniel. She looks irritated.
+
+DANIEL is the same 32-year-old man with short dark brown hair and light stubble, in the same plain crew-neck sweater, seated in the other armchair facing her.
+
+They are husband and wife. The phone remains face down on the coffee table between them.
+
+Daniel's friends are mentioned but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The phone stays face down with its screen hidden — no messages, notifications, or legible text are ever visible.
+
+IMPORTANT EYELINE LOCK:
+Sara and Daniel face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.4s] Sara, irritated but controlled, speaks the VERY FIRST LINE (S1): <d>[English] What privacy do you need from your wife?</d>
+
+[3.4-4.0s] Daniel does not look away. He answers as if it is obvious rather than as if he is hiding something.
+
+[4.0-7.8s] Daniel, calm and matter-of-fact (S2): <d>[English] My friends text me things they didn't agree to share with you.</d>
+
+[7.8-8.0s] Sara takes that in without replying.
+
+Speaker lock: Only Sara, the woman in the long-sleeve top, speaks S1. Only Daniel, the man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Daniel's lips stay completely closed while Sara speaks, and Sara's lips stay completely closed while Daniel speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. Keep the face-down phone visible between them. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock tick, distant muffled street noise. No narrator or voice-over. Only Sara and Daniel speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Sara having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+SARA is the same 30-year-old woman with loose dark brown hair, in the same plain long-sleeve top and jeans, seated in her armchair facing Daniel.
+
+DANIEL is the same 32-year-old man with short dark brown hair and light stubble, in the same plain crew-neck sweater, seated in the other armchair facing her.
+
+They are husband and wife. The phone remains face down on the coffee table between them and is never picked up.
+
+Daniel's friends are mentioned but are NOT visible and do NOT appear. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Daniel's final line ends on the words "you already don't" — all three words must be clearly audible and must not be rushed, swallowed, or softened.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The phone stays face down with its screen hidden.
+
+IMPORTANT EYELINE LOCK:
+Sara and Daniel face each other and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.0s] Sara pauses, gathering the argument rather than losing her temper.
+
+[1.0-4.6s] Sara, pointed and tired (S1): <d>[English] So I trust you with everything, and your phone stays off-limits?</d>
+
+[4.6-5.2s] Daniel looks at her steadily. He does not reach for the phone.
+
+[5.2-7.7s] Daniel, quiet, flat, not triumphant (S2): <d>[English] If you need access to trust me, you already don't.</d>
+
+[7.7-8.0s] Sara has no immediate answer. She looks at him, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Sara answer, concede, or reply after Daniel's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not have either character pick up, unlock, or look at the phone at any point.
+Do not show Daniel's friends, any other person, child, pet, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Daniel smirk, gloat, or look triumphant — he is stating a position, not winning.
+Do not fade out.
+
+Speaker lock: Only Sara, the woman in the long-sleeve top, speaks S1. Only Daniel, the man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Daniel's lips stay completely closed while Sara speaks, and Sara's lips stay completely closed while Daniel speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. Keep the face-down phone visible between them. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock tick, distant muffled street noise, falling to near silence under the final line. No narrator or voice-over. Only Sara and Daniel speak.
+
+non_diegetic_music: None.

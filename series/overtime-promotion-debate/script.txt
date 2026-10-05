@@ -1,0 +1,171 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern open-plan corporate office in the early evening. Warm low evening light through floor-to-ceiling windows, most surrounding desks empty and dark, a laptop bag open on the desk. Grounded restrained acting, a calm but pointed professional disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+MARCUS is a 46-year-old man with fair-medium skin, dark hair greying faintly at the temples, wearing a navy suit jacket over an open-collar white shirt, no tie. He is the department manager: calm, confident, genuinely believes ambitious employees should sacrifice personal time. He is STANDING beside Emily's desk, hands loosely in his jacket pockets.
+
+EMILY is a 29-year-old woman with fair-medium skin, dark blonde hair in a low ponytail, wearing a tailored blazer over a plain blouse. She is a senior employee, competent and composed. She is STANDING at her desk, zipping a laptop into her bag.
+
+They are manager and employee.
+
+Do NOT show another character, and do not show any other colleague at a nearby desk.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase "ten minutes ago" in Emily's line must be clearly audible and delivered flat, not defensive.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible laptop screens, no readable documents, no signage, no legible lettering on badges or desk nameplates.
+
+IMPORTANT EYELINE LOCK:
+Marcus and Emily look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Marcus and Emily remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.5s] Start immediately mid-scene. Marcus is already standing beside her desk watching her zip a laptop into her bag, unhurried, hands in his pockets.
+
+[0.5-4.5s] Marcus, casual, as if stating obvious company policy, speaks the VERY FIRST LINE (S1): <d>[English] If you still care what time you go home, you're not ready for a promotion.</d>
+
+[4.5-5.1s] Emily slowly looks up at him, unhurried, not intimidated.
+
+[5.1-8.0s] Emily, flat (S2): <d>[English] My shift ended ten minutes ago.</d>
+
+Speaker lock: Only Marcus, the man in the navy jacket, speaks S1. Only Emily, the woman in the blazer, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emily's lips stay completely closed while Marcus speaks, and Marcus's lips stay completely closed while Emily speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet end-of-day office room tone, a distant air-conditioning hum, a laptop bag zipper closing. No narrator or voice-over. Only Marcus and Emily speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same open-plan corporate office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+MARCUS is the same 46-year-old department manager with dark hair greying at the temples, in the same navy suit jacket over an open-collar white shirt, still STANDING beside Emily's desk.
+
+EMILY is the same 29-year-old senior employee with dark blonde hair in a low ponytail, in the same tailored blazer, still STANDING at her desk, laptop bag now closed over one shoulder.
+
+They are manager and employee.
+
+Do NOT show another character or any other colleague.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Emily's line must land clearly on the contrast "work for free" against "deserve more money" — neither phrase may be dropped or softened. Marcus's final line in this clip is exactly two words, "It's called commitment." — both words audible, no added emphasis or triumph.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Marcus and Emily look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Marcus and Emily remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Marcus gives a small shrug.
+
+[0.3-3.1s] Marcus, unbothered, speaks the VERY FIRST LINE (S1): <d>[English] Promotions aren't for people who only do what they're paid for.</d>
+
+[3.1-3.5s] Emily pauses, taking that in.
+
+[3.5-6.7s] Emily, pointed but not raising her voice (S2): <d>[English] So I have to work for free to prove I deserve more money?</d>
+
+[6.7-6.9s] Marcus does not react to the contradiction.
+
+[6.9-8.0s] Marcus, calm, matter-of-fact, no triumph (S1): <d>[English] It's called commitment.</d>
+
+Speaker lock: Only Marcus, the man in the navy jacket, speaks S1. Only Emily, the woman in the blazer, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emily's lips stay completely closed while Marcus speaks, and Marcus's lips stay completely closed while Emily speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum. No narrator or voice-over. Only Marcus and Emily speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same open-plan corporate office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Emily's silent stare and cuts hard.
+
+There are exactly two visible adult characters.
+
+MARCUS is the same 46-year-old department manager with dark hair greying at the temples, in the same navy suit jacket over an open-collar white shirt, still STANDING beside Emily's desk.
+
+EMILY is the same 29-year-old senior employee with dark blonde hair in a low ponytail, in the same tailored blazer, still STANDING at her desk, laptop bag over one shoulder.
+
+They are manager and employee.
+
+Daniel is mentioned but is NOT visible. Do NOT show another character or any other colleague, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The name "Daniel" and the word "seven" in Marcus's final line must both be clearly audible. Marcus's final line is delivered matter-of-fact, with no edge and no satisfaction in it.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Marcus and Emily look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Marcus and Emily remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset. Emily closes her laptop bag.
+
+[0.4-3.2s] Emily, even, not pleading, speaks the VERY FIRST LINE (S2): <d>[English] I finished everything you gave me today.</d>
+
+[3.2-4.4s] Marcus, mild, unbothered (S1): <d>[English] So did Daniel.</d>
+
+[4.4-5.6s] Emily waits, saying nothing, watching him.
+
+[5.6-7.4s] Marcus, matter-of-fact, no edge in his voice (S1): <d>[English] He stays until seven.</d>
+
+[7.4-8.0s] Emily stares at him, saying nothing. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Emily answer, concede, or reply after Marcus's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them shake hands or soften.
+Do not show Daniel or any other colleague at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Marcus smirk, gloat, or look triumphant — he genuinely believes what he is saying.
+Do not have Emily walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Marcus, the man in the navy jacket, speaks S1. Only Emily, the woman in the blazer, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Emily's lips stay completely closed while Marcus speaks, and Marcus's lips stay completely closed while Emily speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum, falling to near silence under the final line. No narrator or voice-over. Only Marcus and Emily speak.
+
+non_diegetic_music: None.

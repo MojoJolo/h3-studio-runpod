@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside an apartment living room in the evening. Warm lamp light, two armchairs facing each other across a small coffee table, soft shadows. Grounded restrained acting, tense but controlled. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+CLAIRE is a 28-year-old woman with fair-medium skin, dark hair loose at shoulder length, wearing a plain cardigan over a simple top. She is calm and completely serious, not emotional or theatrical. She is SEATED in one armchair facing Ethan.
+
+ETHAN is a 31-year-old man with fair-medium skin, short dark brown hair, light stubble, wearing a plain grey sweater. He is her fiancé, composed, caught off guard but not panicked. He is SEATED in the other armchair directly facing her.
+
+They are an engaged couple.
+
+Ethan's mother and sister are mentioned in dialogue but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Claire's two lines are flat and matter-of-fact, delivered without hesitation. Ethan's final line in this clip, "You're serious?", is slow and quiet, one deliberate beat between the two words — a real question, not an exclamation.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Claire and Ethan face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Start immediately mid-conversation. Both are already seated facing each other, still and tense. No greeting, no setup, no one entering the room.
+
+[0.3-2.3s] Claire, calm, deadly serious, speaks the VERY FIRST LINE (S1): <d>[English] I'll marry you on one condition.</d>
+
+[2.3-3.3s] Ethan, wary (S2): <d>[English] What condition?</d>
+
+[3.3-5.3s] Claire, flat, no hesitation (S1): <d>[English] You cut off your entire family.</d>
+
+[5.3-5.9s] Ethan stares at her, stunned, taking a moment before he speaks.
+
+[5.9-8.0s] Ethan, quiet, one deliberate beat between the words (S2): <d>[English] You're serious?</d>
+
+Speaker lock: Only Claire, the woman in the cardigan, speaks S1. Only Ethan, the man in the grey sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ethan's lips stay completely closed while Claire speaks, and Claire's lips stay completely closed while Ethan speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet apartment evening ambience, a faint hum from the kitchen fridge, soft fabric movement as they shift in the armchairs. No narrator or voice-over. Only Claire and Ethan speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+CLAIRE is the same 28-year-old woman with dark hair loose at shoulder length, in the same plain cardigan, still SEATED in her armchair facing Ethan. She remains calm, listing facts rather than venting.
+
+ETHAN is the same 31-year-old man with short dark brown hair and light stubble, in the same plain grey sweater, still SEATED in the other armchair facing her.
+
+They are an engaged couple.
+
+Ethan's mother and sister are mentioned but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Claire delivers all three of her lines in this clip as a brisk, continuous list with almost no pause between them — she is building a case, not pausing for effect. Ethan's two short replies are quick and clipped, cut off by her next line each time.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Claire and Ethan face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.2s] Continue mid-conversation with no pause or reset.
+
+[0.2-1.9s] Claire, listing it flatly, speaks the VERY FIRST LINE (S1): <d>[English] Your mom called me a gold digger.</d>
+
+[1.9-3.0s] Ethan, quick, defensive (S2): <d>[English] I defended you.</d>
+
+[3.0-4.7s] Claire, continuing the list without pausing (S1): <d>[English] Your sister tried to break us up.</d>
+
+[4.7-5.8s] Ethan, clipped (S2): <d>[English] I stopped inviting her.</d>
+
+[5.8-8.0s] Claire, quieter, landing the real point (S1): <d>[English] And you still call both of them.</d>
+
+Speaker lock: Only Claire, the woman in the cardigan, speaks S1. Only Ethan, the man in the grey sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ethan's lips stay completely closed while Claire speaks, and Claire's lips stay completely closed while Ethan speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet apartment evening ambience, faint fridge hum. No narrator or voice-over. Only Claire and Ethan speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Claire's silent stare and cuts hard.
+
+There are exactly two visible adult characters.
+
+CLAIRE is the same 28-year-old woman with dark hair loose at shoulder length, in the same plain cardigan, still SEATED in her armchair facing Ethan.
+
+ETHAN is the same 31-year-old man with short dark brown hair and light stubble, in the same plain grey sweater, still SEATED in the other armchair facing her.
+
+They are an engaged couple.
+
+Ethan's mother and sister are mentioned but are NOT visible. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Claire's and Ethan's first two lines in this clip are quick and clipped, almost overlapping in pace. Ethan's final line, "No. I'm choosing not to prove I love you by abandoning everyone else.", is the thesis of the whole script — it must be delivered unhurried, calm and fully clear, every word audible, with the word "No." standing alone first.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Claire and Ethan face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.2s] Continue mid-conversation with no pause or reset.
+
+[0.2-1.8s] Claire, flat ultimatum, speaks the VERY FIRST LINE (S1): <d>[English] If we get married, I want them gone.</d>
+
+[1.8-2.7s] Ethan, quiet, not cruel, just certain (S2): <d>[English] Then we're not getting married.</d>
+
+[2.7-3.0s] Claire freezes, caught completely off guard.
+
+[3.0-4.0s] Claire, voice tightening but not rising (S1): <d>[English] You're choosing them over me?</d>
+
+[4.0-7.6s] Ethan, calm and deliberate, landing every word, no edge in his voice (S2): <d>[English] No. I'm choosing not to prove I love you by abandoning everyone else.</d>
+
+[7.6-8.0s] Claire stares at him, saying nothing. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Claire answer, concede, or reply after Ethan's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show Ethan's mother, sister, or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Ethan smirk, gloat, or look triumphant — he is stating a boundary, not winning an argument.
+Do not have Claire cry or become theatrical.
+Do not fade out.
+
+Speaker lock: Only Claire, the woman in the cardigan, speaks S1. Only Ethan, the man in the grey sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Ethan's lips stay completely closed while Claire speaks, and Claire's lips stay completely closed while Ethan speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet apartment evening ambience, faint fridge hum, falling to near silence under Ethan's final line. No narrator or voice-over. Only Claire and Ethan speak.
+
+non_diegetic_music: None.

@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama at a car rental return counter under a covered airport garage in the daytime. Even fluorescent light under the canopy, concrete pillars, a parked rental car with a small scratch near the rear panel visible behind them, a tablet on the counter. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+GREGORY is a 50-year-old man with fair skin, short greying hair, impatient and irritated, wearing a business suit without the jacket, sleeves rolled, a rolling carry-on beside him. He genuinely believes he is right, not performing anger. He is STANDING at the counter.
+
+NADIA is a 26-year-old woman with medium skin, dark hair in a neat ponytail, wearing a plain company polo and a lanyard, holding a tablet. She is calm and professional throughout. She is STANDING behind the counter directly facing him.
+
+Do NOT show another character, and do not show any other customer or rental agent in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nadia's line is a genuine, unhurried question, not defensive — slow and even.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible text on the tablet screen, no readable signage, no legible license plate or company lettering.
+
+IMPORTANT EYELINE LOCK:
+Gregory and Nadia face each other directly across the counter and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Gregory and Nadia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Both are already at the counter, Nadia already holding the tablet, Gregory already irritated, gesturing once toward the car behind him. No one walking into frame.
+
+[0.4-3.2s] Gregory, blunt, accusatory, speaks the VERY FIRST LINE (S1): <d>[English] You people always try to pin damage on the customer.</d>
+
+[3.2-3.8s] Nadia looks up from the tablet, calm, unhurried, not offended.
+
+[3.8-8.0s] Nadia, calm, genuinely asking, even and unhurried (S2): <d>[English] Why do you think I'm lying?</d>
+
+Speaker lock: Only Gregory, the man in the business shirt, speaks S1. Only Nadia, the woman in the company polo, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Nadia's lips stay completely closed while Gregory speaks, and Gregory's lips stay completely closed while Nadia speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible across the counter. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet covered-garage ambience, a distant car engine idling, a faint intercom murmur too low to make out words, the tablet case tapping once against the counter. No narrator or voice-over. Only Gregory and Nadia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same covered rental return counter, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+GREGORY is the same 50-year-old man with short greying hair, in the same business shirt, still STANDING at the counter. He is not shouting, just certain he is right.
+
+NADIA is the same 26-year-old woman with dark hair in a neat ponytail, in the same company polo, still STANDING behind the counter, tablet in hand. She remains completely calm and professional.
+
+Do NOT show another character or any other customer or agent.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nadia's line in this clip is brief, procedural, and not defensive — she is stating a process, not arguing. Gregory's final line in this clip is a direct demand, flatter than his first line, not louder.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Gregory and Nadia face each other directly across the counter. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Gregory and Nadia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset.
+
+[0.3-3.1s] Gregory, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] This happens every time I rent from this counter.</d>
+
+[3.1-5.0s] Nadia, calm, procedural (S2): <d>[English] I understand. Give me one moment.</d>
+
+[5.0-5.4s] Gregory does not let up, shifting his weight, impatient.
+
+[5.4-8.0s] Gregory, flatter now, making a demand (S1): <d>[English] Get me someone who actually checks these cars properly.</d>
+
+Speaker lock: Only Gregory, the man in the business shirt, speaks S1. Only Nadia, the woman in the company polo, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Nadia's lips stay completely closed while Gregory speaks, and Gregory's lips stay completely closed while Nadia speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet covered-garage ambience, distant idling engine, faint intercom murmur. No narrator or voice-over. Only Gregory and Nadia speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same covered rental return counter, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Gregory's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+GREGORY is the same 50-year-old man with short greying hair, in the same business shirt, still STANDING at the counter.
+
+NADIA is the same 26-year-old woman with dark hair in a neat ponytail, in the same company polo, still STANDING behind the counter at the start of this shot, tablet in hand.
+
+Do NOT show another character or any other customer or agent, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nadia speaks all three lines in this clip, each flat and matter-of-fact, no triumph, no raised voice. The word "Timestamped" in her second line and the phrase "attached to your contract" in her third line must both be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — the tablet screen is angled toward Gregory and away from the camera, its content never legible.
+
+IMPORTANT EYELINE LOCK:
+Gregory and Nadia face each other directly across the counter. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Gregory and Nadia remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Nadia turns the tablet screen toward him, unhurried, her expression unchanged. This physical gesture happens before she speaks.
+
+[0.5-2.7s] Nadia, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] The scratch is on your intake photo.</d>
+
+[2.7-2.9s] A short beat. Gregory leans in slightly to look.
+
+[2.9-4.4s] Nadia, same calm register, no triumph (S2): <d>[English] Timestamped. Before you left the lot.</d>
+
+[4.4-4.6s] A short beat.
+
+[4.6-6.4s] Nadia, plain, without emphasis (S2): <d>[English] It's already attached to your contract.</d>
+
+[6.4-8.0s] Gregory says nothing, staring at the screen. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Gregory answer, apologise, or reply after Nadia's final line.
+Do not resolve it with a threat, a complaint escalation, or a refund demand — the fact is enough.
+Do not show any other customer, agent, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Nadia smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Gregory walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Nadia, the woman in the company polo, speaks S2 in this clip. Gregory does not speak; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet covered-garage ambience, distant idling engine, the tablet turning in her hand, falling to near silence under her final line. No narrator or voice-over. Only Nadia speaks.
+
+non_diegetic_music: None.

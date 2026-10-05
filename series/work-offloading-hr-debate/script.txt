@@ -1,0 +1,173 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office hallway beside their desks in the daytime. Soft overhead light, desks visible out of focus on either side, a window with blinds behind. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+HANNAH is a 30-year-old woman with fair-medium skin, dark blonde hair loose at shoulder length, wearing business casual attire, arms folded. She is entitled, defensive, and genuinely convinced she has been wronged. She is STANDING in the hallway facing Claire.
+
+CLAIRE is a 32-year-old woman with fair-medium skin, dark hair tied back, wearing a tailored blouse. She is competent, exhausted, finally setting boundaries. She is STANDING facing Hannah.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Hannah's final line in this clip, "You always helped me before.", is delivered slow and wounded, with emphasis on the word "always", not shouted.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The hallway is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and Claire face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Hannah and Claire remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already standing facing each other, Hannah's arms already folded. No greeting, no setup, no one entering the frame.
+
+[0.4-3.2s] Hannah, angry, matter-of-fact, speaks the VERY FIRST LINE (S1): <d>[English] I reported you to HR because you stopped doing my work.</d>
+
+[3.2-3.8s] Claire just stares at her, caught off guard.
+
+[3.8-5.0s] Claire, incredulous (S2): <d>[English] Your work?</d>
+
+[5.0-8.0s] Hannah, slow, wounded, emphasis on "always" (S1): <d>[English] You always helped me before.</d>
+
+Speaker lock: Only Hannah, the woman with arms folded, speaks S1. Only Claire, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Claire's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while Claire speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet office hallway room tone, a faint ventilation hum, a distant keyboard clicking somewhere else in the office. No narrator or voice-over. Only Hannah and Claire speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office hallway, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+HANNAH is the same 30-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING in the hallway facing Claire.
+
+CLAIRE is the same 32-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING facing Hannah.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Claire's final line in this clip, "You missed your deadline because I didn't remind you?", must land as a genuine, incredulous question, not rhetorical shouting.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The hallway is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and Claire face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Hannah and Claire remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset.
+
+[0.3-2.5s] Claire, even, pointed, speaks the VERY FIRST LINE (S2): <d>[English] I reminded you about deadlines. That doesn't make them mine.</d>
+
+[2.5-2.8s] Hannah scoffs, unbothered.
+
+[2.8-4.7s] Hannah, defensive (S1): <d>[English] Well, I missed one because you didn't remind me.</d>
+
+[4.7-5.0s] Claire blinks, genuinely taken aback.
+
+[5.0-6.9s] Claire, incredulous (S2): <d>[English] You missed your deadline because I didn't remind you?</d>
+
+[6.9-8.0s] Hannah, defensive, certain (S1): <d>[English] You knew I was busy.</d>
+
+Speaker lock: Only Hannah, the woman with arms folded, speaks S1. Only Claire, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Claire's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while Claire speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet office hallway room tone, faint ventilation hum. No narrator or voice-over. Only Hannah and Claire speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office hallway, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+HANNAH is the same 30-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING in the hallway facing Claire.
+
+CLAIRE is the same 32-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING facing Hannah.
+
+They are coworkers of equal rank.
+
+Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Hannah's final line, "Exactly. You changed the way you treat me without warning.", is delivered quickly but clearly, in one continuous, slightly offended breath, with every word still audible, and with complete sincerity — she does not realize how it sounds.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The hallway is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and Claire face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Hannah and Claire remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Claire gives a disbelieving laugh.
+
+[0.3-2.4s] Claire, speaks the VERY FIRST LINE (S2): <d>[English] So what exactly did you tell HR?</d>
+
+[2.4-2.5s] Hannah answers immediately, without hesitation.
+
+[2.5-4.7s] Hannah, certain she is in the right (S1): <d>[English] That you suddenly became hostile and stopped supporting me.</d>
+
+[4.7-6.0s] Claire, flat (S2): <d>[English] I stopped doing your job.</d>
+
+[6.0-6.3s] Hannah looks offended.
+
+[6.3-8.0s] Hannah, quickly but clearly, one continuous slightly offended breath, completely sincere (S1): <d>[English] Exactly. You changed the way you treat me without warning.</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Claire reply after Hannah's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show any other colleague, HR representative, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Hannah smirk, gloat, or look triumphant — she genuinely believes what she is saying.
+Do not have Claire raise her voice.
+Do not fade out.
+
+Speaker lock: Only Hannah, the woman with arms folded, speaks S1. Only Claire, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Claire's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while Claire speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet office hallway room tone, faint ventilation hum, falling to near silence under the final line. No narrator or voice-over. Only Hannah and Claire speak.
+
+non_diegetic_music: None.

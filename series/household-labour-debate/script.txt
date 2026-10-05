@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern living room at night. Warm lamplight, a couch, a laundry basket and a small stack of folded clothes on a side table. Grounded restrained acting, a married couple arguing after a long workday. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+EMILY is a 33-year-old woman with fair-medium skin, dark brown hair tied back, wearing a plain long-sleeve top and lounge trousers. She works full-time and is exhausted. She is standing near the side table, folding laundry.
+
+JASON is a 35-year-old man with fair-medium skin, short dark hair, light stubble, wearing a plain t-shirt and joggers. He works long hours and believes providing financially is already a major contribution. He is seated on the couch with a game controller in his hands.
+
+No one else is present. Do NOT show another character, child, or pet.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No game audio, music, or television sound is present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The number in Jason's line is "ten hours" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The television is switched off, dark, and angled away from camera — no game imagery, menus, scores, or legible text of any kind appear on any screen.
+
+IMPORTANT EYELINE LOCK:
+Emily and Jason look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Emily remains STANDING and Jason remains SEATED on the couch for the entire shot. Neither changes position. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-4.2s] Emily, tired and pointed but not shouting, speaks the VERY FIRST LINE (S1): <d>[English] You come home, sit down, and somehow the house becomes my job.</d>
+
+[4.2-5.4s] Jason looks over from the couch. He does not put the controller down.
+
+[5.4-7.6s] Jason, flat and matter-of-fact (S2): <d>[English] I worked ten hours today.</d>
+
+[7.6-8.0s] Emily holds his gaze without answering.
+
+Speaker lock: Only Emily, the woman folding laundry, speaks S1. Only Jason, the man on the couch with the controller, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jason's lips stay completely closed while Emily speaks, and Emily's lips stay completely closed while Jason speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, framed to keep the standing and seated figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet living room room tone at night, a faint clock, distant muffled street noise, soft fabric sounds as laundry is folded. No narrator or voice-over. Only Emily and Jason speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern living room at night, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+EMILY is the same 33-year-old woman with dark brown hair tied back, in the same plain long-sleeve top and lounge trousers, still standing by the side table.
+
+JASON is the same 35-year-old man with short dark hair and light stubble, in the same plain t-shirt and joggers, still seated on the couch with the controller in his hands.
+
+No one else is present. Do NOT show another character, child, or pet.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No game audio, music, or television sound is present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Emily's line begins with "So did I." followed by a short pause. Those words must be clearly audible and must not be run into what follows. The figure in Jason's line is "seventy percent" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The television is switched off, dark, and angled away from camera — no game imagery or legible text on any screen.
+
+IMPORTANT EYELINE LOCK:
+Emily and Jason look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Emily remains STANDING and Jason remains SEATED on the couch for the entire shot. Neither changes position.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.0s] Emily drops a folded shirt onto the couch beside him. The gesture is controlled, not thrown.
+
+[1.0-4.6s] Emily, level and precise (S1): <d>[English] So did I. And somehow I still cook, clean, and do the laundry.</d>
+
+[4.6-5.0s] Jason does not look away. He answers as if stating a simple fact.
+
+[5.0-7.8s] Jason, calm and matter-of-fact (S2): <d>[English] And I pay almost seventy percent of everything.</d>
+
+[7.8-8.0s] Emily takes that in without replying.
+
+Speaker lock: Only Emily, the woman folding laundry, speaks S1. Only Jason, the man on the couch with the controller, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jason's lips stay completely closed while Emily speaks, and Emily's lips stay completely closed while Jason speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, keeping the standing and seated figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet living room room tone, faint clock, distant muffled street noise, one soft fabric sound as the shirt lands on the couch. No narrator or voice-over. Only Emily and Jason speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern living room at night, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Emily going quiet and cuts hard.
+
+There are exactly two visible adult characters.
+
+EMILY is the same 33-year-old woman with dark brown hair tied back, in the same plain long-sleeve top and lounge trousers, still standing by the side table. She is furious but controlled.
+
+JASON is the same 35-year-old man with short dark hair and light stubble, in the same plain t-shirt and joggers, still seated on the couch with the controller in his hands.
+
+No one else is present. Do NOT show another character, child, or pet, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only. No game audio, music, or television sound is present.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Jason's final line contains "the same" twice and the figure "twenty more hours" — all of it must be clearly audible and delivered at an unhurried pace, not rushed.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself. The television is switched off, dark, and angled away from camera.
+
+IMPORTANT EYELINE LOCK:
+Emily and Jason look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Emily remains STANDING and Jason remains SEATED on the couch for the entire shot. Neither changes position.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.4s] Emily looks at him, furious but controlled, and speaks the VERY FIRST LINE (S1): <d>[English] Paying more doesn't buy you a wife who serves you.</d>
+
+[3.4-3.7s] Jason answers immediately, without pausing to think.
+
+[3.7-7.7s] Jason, flat and unhurried, not triumphant (S2): <d>[English] Earning the same doesn't mean I owe the same when I work twenty more hours.</d>
+
+[7.7-8.0s] Emily goes quiet. She looks at him, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Emily answer, concede, or reply after Jason's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not have Jason stand up, put down the controller, or start helping with the laundry.
+Do not show any other person, child, or pet at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Jason smirk, gloat, or look triumphant — he is stating a position, not winning.
+Do not fade out.
+
+Speaker lock: Only Emily, the woman folding laundry, speaks S1. Only Jason, the man on the couch with the controller, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Jason's lips stay completely closed while Emily speaks, and Emily's lips stay completely closed while Jason speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet living room room tone, faint clock, distant muffled street noise, falling to near silence under the final line. No narrator or voice-over. Only Emily and Jason speak.
+
+non_diegetic_music: None.

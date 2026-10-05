@@ -1,0 +1,183 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino family drama inside a modest but stylish family living room in Metro Manila in the evening. Natural restrained acting, realistic uncomfortable family tension, not exaggerated teleserye performance.
+
+There are exactly two visible adult characters.
+
+BEA is a 29-year-old Filipina working professional with warm medium skin, long dark brown hair, expressive brown eyes, wearing a fitted casual blouse and high-waisted pants. She is engaged and has been planning her wedding for months.
+
+MAMA LYN is a 55-year-old Filipina woman, visibly older than Bea, with warm medium skin, shoulder-length dark hair with visible strands of grey, fine lines around her eyes, a softer and more matronly build than Bea, wearing a simple house blouse and lounge pants. She is Bea's mother. She looks slightly nervous but genuinely believes she made the practical choice.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Bea and Mama Lyn must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Lyn must remain visibly older than Bea throughout — an older woman's face, grey-streaked hair, and an older woman's posture — and must NEVER be rendered as a young woman or resemble Bea. Bea must remain visibly younger than Mama Lyn throughout, with no grey hair and no older features. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Bea's older sister remains completely OFF-SCREEN.
+Do NOT show another character. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both Bea and Mama Lyn are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- kasál = ka-SAL, stress on SAL
+- buntís = bun-TIS, stress on TIS
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.5s] Start IMMEDIATELY with Mama Lyn facing Bea and delivering the bad news with uncomfortable calm.
+
+Mama Lyn (S2), speaking as the VERY FIRST LINE, says: <d>[Tagalog] Anak, kay Ate na muna yung wedding venue mo.</d>
+
+[2.5-4.3s] Bea freezes and stares at her mother.
+
+Bea (S1), incredulous, asks: <d>[Tagalog] Ha? Bakit?</d>
+
+[4.3-6.5s] Mama Lyn replies as if the reason settles everything (S2): <d>[Tagalog] Buntís siya. Kailangan nilang magpakasál agad.</d>
+
+[6.5-8.0s] Bea's expression turns from confusion to anger.
+
+Speaker lock: Only Bea, the visibly younger woman, speaks S1. Only Mama Lyn, the visibly older woman, speaks S2. Never swap dialogue, voices, or lip movements.
+
+Camera: Single continuous medium two-shot. No introductory pause. Conflict starts in the first spoken line.
+
+overall_soundscape: Quiet family-home ambience, faint electric fan, distant Metro Manila traffic, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same living room with the same characters, wardrobe, lighting, and positions. Bea now realizes her mother did not merely suggest changing dates. Mama Lyn has already acted without Bea's permission.
+
+There are exactly two visible adult characters.
+
+BEA is the same 29-year-old Filipina working professional, now angry and alarmed.
+
+MAMA LYN is the same 55-year-old Filipina mother, visibly older than Bea with grey-streaked hair and an older woman's face, defensive but convinced she did what was necessary.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Bea and Mama Lyn must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Lyn must remain visibly older than Bea throughout and must NEVER be rendered as a young woman or resemble Bea. Bea must remain visibly younger than Mama Lyn throughout. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Bea's sister remains completely OFF-SCREEN. Do NOT show another character. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- kasál = ka-SAL, stress on SAL
+- ákin = A-kin, stress on A
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.0s] Bea immediately fires back (S1): <d>[Tagalog] Ma, kasál ko 'yon. Bayad na yung venue!</d>
+
+[2.0-3.8s] Mama Lyn calmly replies (S2): <d>[Tagalog] Nilipat ko na sa pangalan ng Ate mo.</d>
+
+[3.8-5.2s] Bea stares at her in disbelief.
+
+Bea (S1), sharper now, asks: <d>[Tagalog] Pati deposit ko?</d>
+
+[5.2-8.0s] Mama Lyn replies matter-of-factly (S2): <d>[Tagalog] Nagamit na rin nila.</d>
+
+Bea's face drops.
+
+Speaker lock: Only Bea, the visibly younger woman, speaks S1. Only Mama Lyn, the visibly older woman, speaks S2. Never swap dialogue, voices, or lip movements.
+
+Camera: Single continuous medium close two-shot. No cuts. Prioritize Bea's reaction to "Nagamit na rin nila."
+
+overall_soundscape: Same quiet family-home ambience, faint electric fan, distant traffic, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same living room. Bea is furious because her mother gave away both her wedding reservation and the money she personally paid. Mama Lyn's final justification should be shameless, absurd-but-plausible, and rage-inducing.
+
+There are exactly two visible adult characters.
+
+BEA is the same 29-year-old Filipina working professional, now furious and deeply betrayed.
+
+MAMA LYN is the same 55-year-old Filipina mother, visibly older than Bea with grey-streaked hair and an older woman's face, defensive and sincerely convinced that Bea should be the one to adjust.
+
+CRITICAL CHARACTER IDENTITY LOCK:
+Bea and Mama Lyn must NEVER swap appearances, ages, faces, or body types at any point in this shot. Mama Lyn must remain visibly older than Bea throughout and must NEVER be rendered as a young woman or resemble Bea. Bea must remain visibly younger than Mama Lyn throughout. The two women must look like mother and daughter, not like sisters or peers, in every frame.
+
+Bea's sister remains completely OFF-SCREEN.
+Do NOT show another character. There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame.
+
+Both are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use a foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- buntís = bun-TIS, stress on TIS
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0-2.0s] Bea looks directly at Mama Lyn and says angrily (S1): <d>[Tagalog] Ma, two hundred thousand yung binayad ko!</d>
+
+[2.0-3.8s] Mama Lyn replies reassuringly, as though the issue is temporary (S2): <d>[Tagalog] Babalik naman pag may pera sila.</d>
+
+[3.8-5.0s] Bea stares at her mother and asks (S1): <d>[Tagalog] Eh kailan?</d>
+
+[5.0-8.0s] Mama Lyn answers with complete conviction (S2): <d>[Tagalog] Ikaw naman hindi buntís. Pwede ka maghintay.</d>
+
+Bea goes completely still in disbelief.
+
+CUT ABRUPTLY.
+
+Do not show Bea's sister.
+Do not make Mama Lyn apologize.
+Do not resolve whether Bea gets her money back.
+Do not resolve what happens to Bea's wedding.
+End on Mama Lyn sincerely believing Bea should surrender her wedding plans because her sister's pregnancy makes the sister's wedding more urgent.
+
+Speaker lock: Only Bea, the visibly younger woman, speaks S1. Only Mama Lyn, the visibly older woman, speaks S2. Never swap dialogue, voices, or lip movements.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the abrupt ending. Prioritize Bea's reaction to "Ikaw naman hindi buntís. Pwede ka maghintay."
+
+overall_soundscape: Same quiet family-home ambience, tense breathing, faint electric fan, distant traffic, natural restrained voices. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

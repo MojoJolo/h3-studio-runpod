@@ -1,0 +1,160 @@
+{
+  "title": "TBD — English version of the Isabel hotel episode",
+  "parent": "series/isabel-hotel/bible.json (Tagalog cut)",
+  "purpose": "International YouTube channel. Same story, staging, refs, framing and frame counts; dialogue in English.",
+  "language": "English, delivered in Filipino English (educated Manila accent) — chosen by the user to match the Filipino refs.",
+  "contractions": "Contracted throughout, by user decision. The uncontracted-spelling rule is TAGALOG-ONLY and does not transfer to English TTS; uncontracted English reads as stilted/dubbed.",
+  "reused_clips": "3 silent clips reused verbatim, not regenerated: clip 4 (angst beat), bridge 2.5 (manager), bridge 6.5 (executive).",
+  "clips_generated": 9,
+  "expected_total_frames": 1777,
+  "expected_duration_s": 74.0,
+  "final_assembly_order": [
+    1,
+    2,
+    "2.5",
+    3,
+    4,
+    5,
+    6,
+    "6.5",
+    7,
+    8,
+    9,
+    10
+  ],
+  "status": "clip 7 rename in flight (job 776) — re-merge after it lands",
+  "submit_script": "series/isabel-hotel/submit_english.py",
+  "clips": [
+    {
+      "n": 1,
+      "seed": 520101,
+      "job_id": 754,
+      "frames": 192,
+      "file": "outputs/gui-20260923-162343-seed520101.mp4",
+      "line": "Ma'am, I've already told you. This isn't the kind of place for someone like you. / I have a reservation.",
+      "source": "submit_english.py"
+    },
+    {
+      "n": 2,
+      "seed": 520122,
+      "job_id": 763,
+      "frames": 192,
+      "file": "outputs/gui-20260923-174831-seed520122.mp4",
+      "line": "We don't have any record of that. And we're fully booked. / Could you check again, please? / Ma'am. I know how to do my job.",
+      "source": "submit_english.py",
+      "note": "REDO. First take (520102, job 755) rendered the receptionist out from behind the counter and never looking at Isabel. Cause: the ported line \"same positions at the reception desk\" references a prior clip that does not exist in an independently-generated clip, so the staging was unspecified and the result was luck. Redo spells the counter staging out and also drops the \"barely glances at her computer screen\" direction, which pulled her eyeline off Isabel — she now never looks at the screen at all, which is a sharper insult."
+    },
+    {
+      "n": "2.5",
+      "seed": 510113,
+      "job_id": 745,
+      "frames": 107,
+      "file": "outputs/gui-20260923-072334-seed510113.mp4",
+      "line": "[silent — reused verbatim from the Tagalog cut]",
+      "source": "reused"
+    },
+    {
+      "n": 3,
+      "seed": 520103,
+      "job_id": 756,
+      "frames": 175,
+      "file": "outputs/gui-20260923-162344-seed520103.mp4",
+      "line": "Is there a problem here? Ma'am. Look at what you're wearing. Now leave, before I call security.",
+      "source": "submit_english.py"
+    },
+    {
+      "n": 4,
+      "seed": 510104,
+      "job_id": 734,
+      "frames": 107,
+      "file": "outputs/gui-20260922-222251-seed510104.mp4",
+      "line": "[silent — reused verbatim from the Tagalog cut]",
+      "source": "reused"
+    },
+    {
+      "n": 5,
+      "seed": 520105,
+      "job_id": 757,
+      "frames": 124,
+      "file": "outputs/gui-20260923-162344-seed520105.mp4",
+      "line": "I'm in the lobby. Get here now.",
+      "source": "submit_english.py"
+    },
+    {
+      "n": 6,
+      "seed": 520106,
+      "job_id": 758,
+      "frames": 141,
+      "file": "outputs/gui-20260923-162344-seed520106.mp4",
+      "line": "Why are you still here? You're not welcome in this hotel. GET OUT!",
+      "source": "submit_english.py"
+    },
+    {
+      "n": "6.5",
+      "seed": 510112,
+      "job_id": 744,
+      "frames": 107,
+      "file": "outputs/gui-20260923-072158-seed510112.mp4",
+      "line": "[silent — reused verbatim from the Tagalog cut]",
+      "source": "reused"
+    },
+    {
+      "n": 7,
+      "seed": 520127,
+      "job_id": 776,
+      "frames": 175,
+      "file": "outputs/gui-20260923-162345-seed520107.mp4",
+      "line": "Ms. Claire. My apologies, ma'am — we didn't know you were here.",
+      "source": "submit_english.py",
+      "note": "REDO — character renamed ISABEL -> CLAIRE for the English cut. The Filipino-English accent rendered \"Isabel\" poorly. \"Claire\" is one syllable with a hard /kl/ onset and no vowel cluster, the opposite shape to I-sa-bel. This is the ONLY clip in the English cut that speaks her name, so no other clip needed regenerating."
+    },
+    {
+      "n": 8,
+      "seed": 520108,
+      "job_id": 760,
+      "frames": 175,
+      "file": "outputs/gui-20260923-162345-seed520108.mp4",
+      "line": "Collect your things. / Sir, I didn't know— / No. You didn't. That's exactly the problem.",
+      "source": "submit_english.py"
+    },
+    {
+      "n": 9,
+      "seed": 520109,
+      "job_id": 761,
+      "frames": 141,
+      "file": "outputs/gui-20260923-162346-seed520109.mp4",
+      "line": "It's not only your job you're going to lose.",
+      "source": "submit_english.py"
+    },
+    {
+      "n": 10,
+      "seed": 520110,
+      "job_id": 762,
+      "frames": 141,
+      "file": "outputs/gui-20260923-162346-seed520110.mp4",
+      "line": "And now, it's your turn.",
+      "source": "submit_english.py"
+    }
+  ],
+  "translation_notes": {
+    "po_particle": "Filipino deference particles have no English equivalent. The register carries it instead — the receptionist's contempt lands through OVER-politeness (\"Ma'am. I know how to do my job.\"), which reads internationally.",
+    "punta_ka_dito": "\"Come here\" is limp in English and \"come down\" would contradict the bridge clip, where the executive arrives from the street rather than from upstairs. Used \"Get here now.\"",
+    "ikaw_naman": "\"At ngayon, ikaw naman\" literally IS \"and now, your turn\". The full phrase also avoids the very-short-line mush seen on the Tagalog \"Ikaw naman.\"",
+    "clip_6": "Needed the least work — the Tagalog cut was already 2/3 English after the Taglish fix."
+  },
+  "production_rules_learned_here": {
+    "no_relative_staging_references": {
+      "issue": "\"same positions\", \"as before\", \"still standing where she was\" and similar relative references are VACUOUS in this pipeline. Every clip is generated independently with no memory of the previous one, so the phrase specifies nothing and the staging becomes a coin flip. The Tagalog cut carried the same bug in clip 2 and simply won the flip; the English cut lost it.",
+      "fix": "State absolute staging in every clip, every time: who is behind/in front of what, who faces whom, and that both are ALREADY in position from the first frame. Never describe a position by reference to another clip.",
+      "how_to_apply": "Grep any new submit script for \"same position|as before|still|unchanged|same as\" inside the [Shot] block before submitting. Continuity between clips comes from refs and identical staging text, never from telling the model to match something it cannot see."
+    }
+  },
+  "final_file": "series/isabel-hotel/isabel_final_en.mp4",
+  "final_duration_s": 74.11,
+  "final_frames": 1777,
+  "superseded_files": [
+    "outputs/gui-20260923-162343-seed520102.mp4 (clip 2 first take — receptionist not behind counter)"
+  ],
+  "character_name_en": "CLAIRE (the Tagalog cut keeps ISABEL — a native Spanish/Filipino name that renders correctly in Tagalog; this was an English-accent problem only)",
+  "rename_note": "Only clip 7 speaks the name in either cut. The ~55 other occurrences live in subject_definitions and staging prose, which is never vocalised. submit_english.py is deliberately left saying ISABEL: it is the record of what produced the approved renders, and the name is inaudible in all of them."
+}

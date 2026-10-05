@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is ELI, using <Picture 1> for his identity: Filipino-Spanish man around 35, lean and tired, short messy dark hair, stubble, olive-green worn field jacket over a grey hoodie, dark jeans, black backpack, short metal baton, a thin plain silver bracelet on his right wrist.
+<Subject 2> is the INFECTED, using <Picture 2> ONLY as the style template: greyish pale skin with dark veins, bloodshot clouded eyes, torn dirty everyday clothes, hunched twitching movement. Every infected is a DIFFERENT person (different age, gender, build, hair and clothes: office worker, delivery rider, older woman in a cardigan, teenager in a hoodie, security guard). Never copy the same face onto several infected.
+<Picture 3> is the location: an empty downtown street at dusk. Location/composition anchor only, no characters come from this picture.
+
+summary:
+[reference generation] The bracelet expands into heavy rings; Eli punches the ground and a shockwave throws every infected away; car alarms wail and distant screams answer from all directions; Eli looks at his daughter's drawing and runs.
+
+retention_analysis:
+<Subject 1> fully_preserved: face, hair, skin tone, body and outfit from <Picture 1>, including the backpack and the silver bracelet.
+<Subject 2>: style only from <Picture 2>; each infected individual looks different.
+<Picture 3> is used only for the environment, layout and lighting; do not add any person from it.
+
+detailed_description:
+CRITICAL AUDIO RULE: There is NO narrator and NO voice-over. ONLY dialogue written inside <d>...</d> may be spoken aloud. Everything else is SILENT visual direction. Otherwise only breathing, grunts, infected snarls and screeches, never words.
+CRITICAL VISUAL RULE: No other survivors, no crowd of normal people. No on-screen text, subtitles, captions, logos, watermarks or readable signs.
+LOCATION LOCK (same street in every shot of every clip): one straight downtown road running away from camera, the same as <Picture 3>. Fixed layout: a dark alley entrance on the LEFT side; storefronts with half-open metal shutters on both sides; a silver sedan abandoned at an angle across the left lane; a white van stopped in the middle distance; a red hatchback parked at the RIGHT curb (the car Eli gets slammed into); flickering streetlights; an orange-purple dusk sky between the buildings; trash and glass bottles on the asphalt. Every camera angle shows THIS same street: only the camera moves. Do not add, remove or relocate cars, the alley, shutters or lights between shots. Same dusk light throughout, slowly darkening. Changes persist: a dent in the red hatchback stays dented in later shots.
+STYLE: Photorealistic live-action survival horror film, handheld documentary energy, shallow depth of field, desaturated teal-orange grade, natural dusk light, grounded and tense, no gore, no cartoon effects. Hard cuts, no dissolves.
+
+[Shot 1] Close-up: Eli clenches his fist; the small silver bracelet unfolds and expands into several heavy segmented metal rings locking around his forearm with a mechanical clank, glowing faintly white-blue at the seams.
+[Shot 2] At 00:01.500, cut to a wide overhead shot: Eli punches the asphalt, BOOM, a ring-shaped shockwave blasts outward and throws every infected away from him across the street; the abandoned cars rock and their windows rattle.
+[Shot 3] At 00:03.000, cut to a low angle: car alarms start screaming up and down the street, headlights flashing; Eli slowly gets to his feet, the rings around his arm. He freezes as dozens of distant inhuman SCREAMS answer from every direction.
+[Shot 4] At 00:05.000, cut to a close-up: Eli pulls the crayon drawing a little way out of his backpack pocket, looks at it, and whispers: <d>[English] I'm coming home, Mia.</d>
+[Shot 5] At 00:06.800, cut to a wide shot from behind: Eli sprints down the middle of the darkening street toward the far end. At 00:07.600 the frame cuts to pure black and holds black to the end.
+
+overall_soundscape:
+A mechanical clank and hum as the rings form, a huge concussive BOOM, bodies skidding, then a chorus of car alarms wailing, then dozens of distant screams echoing between buildings, Eli's whisper, running footsteps, then sudden silence on black.
+
+non_diegetic_music:
+Silence on the ring transformation, a deep sub-bass hit on the shockwave, an ominous rising choir-like drone under the distant screams, a single emotional piano note under the whisper, then nothing on black.

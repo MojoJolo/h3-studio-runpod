@@ -1,0 +1,171 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a living room at night. Warm lamp light, two armchairs facing each other across a small coffee table, soft shadows. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+LAUREN is a 30-year-old woman with fair-medium skin, dark hair tied back, visibly pregnant, one hand resting on her belly, wearing a loose maternity cardigan. She is controlled and firm, not emotional. She is SEATED in one armchair facing Matt.
+
+MATT is a 33-year-old man with fair-medium skin, short brown hair, light stubble, wearing a plain t-shirt and joggers. He is deeply attached to his dog, confused and defensive. He is SEATED in the other armchair directly facing her.
+
+They are an expecting couple.
+
+Bruno, their dog, is mentioned in dialogue but is NOT visible. Do NOT show a dog, another character, or any other person anywhere in the frame, including in the background, a doorway, or out of focus.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The name "Bruno" and the phrase "eight years" in Matt's line must both be clearly audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The living room is otherwise EMPTY of people, and no dog is visible. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Lauren and Matt face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already seated facing each other, still and serious. No greeting, no setup, no one entering the room.
+
+[0.4-4.0s] Lauren, calm, firm, no hesitation, speaks the VERY FIRST LINE (S1): <d>[English] Before the baby comes, I want Bruno out of this house.</d>
+
+[4.0-4.6s] Matt stares at her, caught off guard.
+
+[4.6-8.0s] Matt, quiet, defensive (S2): <d>[English] He's been my dog for eight years.</d>
+
+Speaker lock: Only Lauren, the pregnant woman in the cardigan, speaks S1. Only Matt, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Matt's lips stay completely closed while Lauren speaks, and Lauren's lips stay completely closed while Matt speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet living-room night ambience, a faint hum from another room, soft fabric shifting in the armchairs. No narrator or voice-over. Only Lauren and Matt speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+LAUREN is the same 30-year-old pregnant woman with dark hair tied back, in the same maternity cardigan, still SEATED in her armchair facing Matt. She does not back down.
+
+MATT is the same 33-year-old man with short brown hair and light stubble, in the same t-shirt, still SEATED in the other armchair facing her.
+
+They are an expecting couple.
+
+Bruno is mentioned but is NOT visible. Do NOT show a dog, another character, or any other person anywhere in the frame.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The word "newborn" in Lauren's first line and the word "can't" in her final line must both be clearly audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The living room is otherwise EMPTY of people, and no dog is visible. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Lauren and Matt face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Lauren does not back down.
+
+[0.3-3.7s] Lauren, steady, pressing the point, speaks the VERY FIRST LINE (S1): <d>[English] And in eight years, you've never had him around a newborn.</d>
+
+[3.7-4.9s] Matt, quick, defensive (S2): <d>[English] He's never hurt anyone.</d>
+
+[4.9-5.3s] Lauren does not look away.
+
+[5.3-8.0s] Lauren, quieter, final (S1): <d>[English] That doesn't mean he can't.</d>
+
+Speaker lock: Only Lauren, the pregnant woman in the cardigan, speaks S1. Only Matt, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Matt's lips stay completely closed while Lauren speaks, and Lauren's lips stay completely closed while Matt speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet living-room night ambience, faint hum from another room. No narrator or voice-over. Only Lauren and Matt speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same living room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Lauren having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+LAUREN is the same 30-year-old pregnant woman with dark hair tied back, in the same maternity cardigan, still SEATED in her armchair facing Matt.
+
+MATT is the same 33-year-old man with short brown hair and light stubble, in the same t-shirt, still SEATED in the other armchair facing her, frustrated.
+
+They are an expecting couple.
+
+Bruno and Lauren's sister are mentioned but are NOT visible. Do NOT show a dog, another character, or any other person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: In Lauren's line, the numbers "forty" and "three" must both be clearly audible and not changed or dropped. Matt's first line in this clip is a genuine, frustrated question, not shouted.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The living room is otherwise EMPTY of people, and no dog is visible. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Lauren and Matt face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.2s] Continue mid-conversation with no pause or reset. Matt looks at her, frustrated.
+
+[0.2-1.8s] Matt, frustrated, direct, speaks the VERY FIRST LINE (S2): <d>[English] So I'm supposed to abandon him because you're scared?</d>
+
+[1.8-2.0s] Lauren pauses before answering.
+
+[2.0-5.3s] Lauren, quiet, serious, not dramatic (S1): <d>[English] My sister needed forty stitches after our family dog bit her when she was three.</d>
+
+[5.3-5.5s] Matt absorbs that, his expression shifting.
+
+[5.5-7.9s] Matt, quiet, pointed (S2): <d>[English] And now Bruno gets punished for what somebody else's dog did?</d>
+
+[7.9-8.0s] Lauren has no immediate answer. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Lauren answer, concede, or reply after Matt's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show Bruno, Lauren's sister, or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Matt smirk, gloat, or look triumphant — he is asking a real question, not scoring a point.
+Do not have Matt raise his voice or stand up.
+Do not fade out.
+
+Speaker lock: Only Lauren, the pregnant woman in the cardigan, speaks S1. Only Matt, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Matt's lips stay completely closed while Lauren speaks, and Lauren's lips stay completely closed while Matt speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet living-room night ambience, faint hum from another room, falling to near silence under the final line. No narrator or voice-over. Only Lauren and Matt speak.
+
+non_diegetic_music: None.

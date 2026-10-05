@@ -1,0 +1,181 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino drama inside the dining area of a modest two-storey family home in the afternoon, a brown envelope of documents on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is LOLIT, a 62-year-old Filipina woman in a floral house dress, calm and maternal, hands folded on the table, speaking warmly throughout.
+
+CHARACTER B is CAMILLE, a 35-year-old Filipina woman in a travel jacket, a suitcase still standing by the doorway behind her, just arrived home.
+
+They are mother-in-law and daughter-in-law.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- pangalan = pa-NGA-lan, three syllables — the NG is a single Filipino sound, never "pan-ga-lan"
+- mag-alala = mag-a-LA-la, keep the hyphen break audible as a small glottal stop
+- inayos = i-NA-yos, three syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Lolit pats the brown envelope on the table, reassuring her, as if delivering good news.
+
+LOLIT (S1), warm, motherly, speaks the VERY FIRST LINE: <d>[Tagalog] Wag kang mag-alala sa bahay. Nasa pangalan ko na.</d>
+
+Camille stops with her hand still on her jacket zipper.
+
+CAMILLE (S2), quiet: <d>[Tagalog] Nasa pangalan mo?</d>
+
+Lolit smiles, pleased to have taken care of it.
+
+LOLIT (S1), helpful, warm: <d>[Tagalog] Inayos ko noong nasa abroad ka.</d>
+
+overall_soundscape: Quiet afternoon household ambience, a wall clock, distant tricycle noise from the street. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic contemporary Filipino drama inside the dining area of a modest two-storey family home in the afternoon, a brown envelope of documents on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is LOLIT, a 62-year-old Filipina woman in a floral house dress, calm and maternal, hands folded on the table, speaking warmly throughout.
+
+CHARACTER B is CAMILLE, a 35-year-old Filipina woman in a travel jacket, a suitcase still standing by the doorway behind her, just arrived home.
+
+They are mother-in-law and daughter-in-law.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- naghulog = nag-HU-log, three syllables, keep the final G clear and do NOT turn it into NG
+- maghiwalay = mag-hi-wa-LAY, four syllables, stress on LAY
+- bumili = bu-MI-li, three syllables
+- safe is English — say it naturally in English, then return to Filipino pronunciation
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Camille sets her bag down slowly and stays standing.
+
+CAMILLE (S2), quiet, steady, speaks the VERY FIRST LINE: <d>[Tagalog] Apat na taon kaming naghulog niyan.</d>
+
+Lolit nods sympathetically, agreeing with her, and explains the precaution.
+
+LOLIT (S1), gentle, reasonable: <d>[Tagalog] Mas safe. Baka kasi maghiwalay kayo.</d>
+
+Camille does not move.
+
+CAMILLE (S2), flat: <d>[Tagalog] Kami ang bumili.</d>
+
+overall_soundscape: Quiet afternoon household ambience, a wall clock, distant tricycle noise from the street. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Photorealistic contemporary Filipino drama inside the dining area of a modest two-storey family home in the afternoon, a brown envelope of documents on the table. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is LOLIT, a 62-year-old Filipina woman in a floral house dress, calm and maternal, hands folded on the table, speaking warmly throughout.
+
+CHARACTER B is CAMILLE, a 35-year-old Filipina woman in a travel jacket, a suitcase still standing by the doorway behind her, just arrived home.
+
+They are mother-in-law and daughter-in-law.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- asáwa = a-SA-wa, three syllables, stress on SA
+- kapal = ka-PAL, two syllables, stress on PAL
+- mukha = muk-HA, two syllables, stress on HA
+- magbabago = mag-ba-BA-go, four syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Lolit reaches over and pats Camille's hand on the table, still entirely warm.
+
+LOLIT (S1), affectionate, sincere, speaks the VERY FIRST LINE: <d>[Tagalog] Anak ko yung asáwa mo. Protektado lang siya.</d>
+
+Camille pulls her hand back.
+
+CAMILLE (S2), quiet, final: <d>[Tagalog] Kapal ng mukha mo.</d>
+
+Lolit looks briefly hurt, then recovers and says it kindly, as if nothing has changed.
+
+LOLIT (S1), gentle, practical: <d>[Tagalog] Tuloy mo lang yung hulog. Walang magbabago.</d>
+
+Hold on Camille's face. CUT ABRUPTLY.
+
+overall_soundscape: Quiet afternoon household ambience, a wall clock, distant tricycle noise from the street. Abrupt audio cut at the end. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A

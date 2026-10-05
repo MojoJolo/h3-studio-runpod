@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern kitchen at night. Warm under-cabinet lighting, a kitchen island between them, two mugs on the counter. Grounded restrained acting, a married couple discussing having their first child. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+SOPHIE is a 31-year-old woman with fair-medium skin, dark hair tied back, wearing a loose cardigan over a plain top. She is career-focused and strongly believes parenting should be equal. She stands on one side of the kitchen island facing Mark.
+
+MARK is a 34-year-old man with fair-medium skin, short brown hair, light stubble, wearing a plain shirt with the sleeves rolled. He is practical, earns significantly more than Sophie, and wants children but worries about finances. He stands on the other side of the island directly facing her.
+
+They are husband and wife.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The two instances of "six months" in Sophie's first line must both be clearly audible and not changed or dropped.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Sophie and Mark face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are standing at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other, and neither sits down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.4s] Sophie, direct, proposing rather than asking, speaks the VERY FIRST LINE (S1): <d>[English] If I take six months off for the baby, you take six months too.</d>
+
+[3.4-4.0s] Mark stares at her, caught off guard.
+
+[4.0-5.6s] Mark, surprised, almost incredulous (S2): <d>[English] You want both of us to stop working?</d>
+
+[5.6-8.0s] Sophie, calm, reframing it (S1): <d>[English] I want both of us to become parents.</d>
+
+Speaker lock: Only Sophie, the woman in the cardigan, speaks S1. Only Mark, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mark's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Mark speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet kitchen room tone at night, a soft refrigerator hum, a faint clock, distant muffled street noise. No narrator or voice-over. Only Sophie and Mark speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+SOPHIE is the same 31-year-old woman with dark hair tied back, in the same cardigan, standing on her side of the kitchen island facing Mark.
+
+MARK is the same 34-year-old man with short brown hair and light stubble, in the same rolled-sleeve shirt, standing on the other side facing her. He stays calm.
+
+They are husband and wife.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Mark's two lines in this clip are each delivered as a single, unbroken, slightly brisk sentence, calm throughout, not defensive. The word "mortgage" in his final line must be clearly audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Sophie and Mark face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Mark stays calm.
+
+[0.3-3.3s] Mark, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] I make almost twice what you do. My leave would cost us way more.</d>
+
+[3.3-5.8s] Sophie, pointed, not shouting (S1): <d>[English] So because you earn more, my career automatically takes the hit?</d>
+
+[5.8-8.0s] Mark, flat, factual (S2): <d>[English] No. Because we still have a mortgage.</d>
+
+Speaker lock: Only Sophie, the woman in the cardigan, speaks S1. Only Mark, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mark's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Mark speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock. No narrator or voice-over. Only Sophie and Mark speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Mark having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+SOPHIE is the same 31-year-old woman with dark hair tied back, in the same cardigan, standing on her side of the kitchen island facing Mark.
+
+MARK is the same 34-year-old man with short brown hair and light stubble, in the same rolled-sleeve shirt, standing on the other side facing her, softening slightly.
+
+They are husband and wife.
+
+Sophie's parents are mentioned but are NOT visible. Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: This clip has an unusually large amount of dialogue for 8 seconds. Sophie's first line and Mark's reply must each be spoken as one continuous, unbroken, noticeably brisk sentence — faster than normal conversational pace, like two people talking over each other's usual rhythm because the conversation has sped up — while every word stays audible and distinct, not slurred together. Sophie's final line is delivered immediately after Mark finishes, with no gap, sharp and quick.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Sophie and Mark face each other across the island. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.1s] Continue mid-conversation with no pause or reset.
+
+[0.1-3.5s] Sophie, looking directly at him, speaking quickly in one continuous breath, speaks the VERY FIRST LINE (S1): <d>[English] My mom stayed home. My dad kept working. Ten years later, he had a career and she had a gap she never recovered from.</d>
+
+[3.5-3.7s] Mark softens slightly.
+
+[3.7-6.1s] Mark, quick but gentle, one continuous breath (S2): <d>[English] I understand that. But why should we risk our finances to fix what happened to your mother?</d>
+
+[6.1-7.7s] Sophie, answering immediately, no gap, sharp and quick (S1): <d>[English] Why should I risk my future just because I'm the mother?</d>
+
+[7.7-8.0s] Mark has no immediate response. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Mark answer, concede, or reply after Sophie's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show Sophie's parents or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Sophie smirk, gloat, or look triumphant — she is making a real point, not scoring one.
+Do not have Mark raise his voice.
+Do not fade out.
+
+Speaker lock: Only Sophie, the woman in the cardigan, speaks S1. Only Mark, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Mark's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Mark speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock, falling to near silence under the final line. No narrator or voice-over. Only Sophie and Mark speak.
+
+non_diegetic_music: None.

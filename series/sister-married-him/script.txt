@@ -1,0 +1,186 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino family relationship drama inside a modest but stylish family living room in Metro Manila in the evening. Natural restrained acting, realistic uncomfortable family tension, not exaggerated teleserye performance.
+
+There are exactly two visible adult characters.
+
+NICA is a 26-year-old Filipina woman with warm medium skin, long dark brown hair, expressive brown eyes, wearing casual travel clothes after recently arriving home from working abroad. A suitcase is visible near the doorway. She is already holding a framed wedding photo showing her older sister and her boyfriend as bride and groom.
+
+TRINA is a 29-year-old Filipina woman with warm fair-medium skin, shoulder-length dark brown hair, attractive mature features, wearing a fitted sleeveless top and high-waisted pants. She is Nica's older sister. She looks defensive rather than ashamed.
+
+Marco remains completely OFF-SCREEN.
+Do NOT show another character.
+
+Both Nica and Trina are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns and verb forms exactly.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no names, no dates, no lettering on the photo frame, and no signage.
+
+CRITICAL PROP RULE:
+The framed wedding photo is a small handheld prop held by Nica. Any figures inside the photograph are small, soft-focus and indistinct. They are NOT characters in this scene: do not render them as visible adult characters, do not bring them into focus, and do not cut to the photograph. Exactly two real people are visible in the room and no one else.
+
+PRONUNCIATION LOCK:
+- inasáwa = i-na-SA-wa, stress on SA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–2.2s] Start IMMEDIATELY with Nica already holding up the wedding photo toward Trina.
+
+[2.2–3.8s] Nica angrily demands as the VERY FIRST LINE (S1): <d>[Tagalog] Bakit inasáwa mo yung boyfriend ko?</d>
+
+[3.8–5.6s] Trina replies defensively, as though Nica's absence explains everything (S2): <d>[Tagalog] Tatlong taon kang wala.</d>
+
+[5.6–6.8s] Nica stares at her in disbelief.
+
+[6.8–8.0s] Nica snaps (S1): <d>[Tagalog] So pinakasalan mo?</d>
+
+Trina's face hardens.
+
+Speaker lock: Only Nica speaks S1. Only Trina speaks S2. Never swap voices or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium two-shot. Start with the wedding photo already raised between them. No introductory pause.
+
+overall_soundscape: Quiet family-home ambience, faint electric fan, distant traffic, natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same living room. Nica is furious because Trina is treating her absence abroad as though it ended her relationship automatically. Keep the confrontation fast and emotionally sharp.
+
+There are exactly two visible adult characters.
+
+NICA is the same 26-year-old Filipina woman, furious and still holding the framed wedding photo.
+
+TRINA is the same 29-year-old Filipina older sister, defensive and disturbingly convinced her reasoning makes sense.
+
+Marco remains completely OFF-SCREEN.
+
+Both Nica and Trina are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns exactly.
+Never shorten standalone "ako" into "'ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+CRITICAL PROP RULE:
+The framed wedding photo remains a small handheld prop. Any figures inside the photograph stay small, soft-focus and indistinct, and are NOT characters in this scene. Exactly two real people are visible in the room and no one else.
+
+[0.0–1.8s] Nica immediately fires back (S1): <d>[Tagalog] Hindi naman kami break!</d>
+
+[1.8–3.6s] Trina calmly answers (S2): <d>[Tagalog] Hindi ka naman umuuwi.</d>
+
+[3.6–4.7s] Nica blurts out (S1): <d>[English] What the fuck?</d>
+
+[4.7–6.2s] Trina gives a tiny shrug.
+
+[6.2–8.0s] Trina adds with complete sincerity (S2): <d>[Tagalog] Eh nandito siya.</d>
+
+Nica stares at her in disgust.
+
+Speaker lock: Only Nica speaks S1. Only Trina speaks S2. Never swap voices or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous medium close two-shot. No dead air before dialogue.
+
+overall_soundscape: Same quiet family-home ambience and natural tense voices.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same living room. Trina's explanation becomes even more shameless. She does not apologize and genuinely believes the relationship developed naturally because Nica was away.
+
+There are exactly two visible adult characters.
+
+NICA is the same 26-year-old Filipina woman, furious and deeply betrayed.
+
+TRINA is the same 29-year-old Filipina older sister, calm and defensive.
+
+Marco remains completely OFF-SCREEN.
+
+Both Nica and Trina are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog/Taglish with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all pronouns exactly.
+Never shorten standalone "ako" into "'ko."
+Do NOT paraphrase or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+CRITICAL PROP RULE:
+The framed wedding photo remains a small handheld prop. Any figures inside the photograph stay small, soft-focus and indistinct, and are NOT characters in this scene. Exactly two real people are visible in the room and no one else.
+
+PRONUNCIATION LOCK:
+- alám = a-LAM, stress on LAM
+- inasáwa = i-na-SA-wa, stress on SA
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+[0.0–1.7s] Nica angrily says (S1): <d>[Tagalog] Alám mong boyfriend ko siya!</d>
+
+[1.7–2.7s] Trina replies plainly (S2): <d>[Tagalog] Alám ko.</d>
+
+[2.7–4.5s] Nica lifts the wedding photo toward her again and demands (S1): <d>[Tagalog] Tapos inasáwa mo?</d>
+
+[4.5–6.0s] Trina looks at her as though the answer should be obvious.
+
+[6.0–8.0s] Trina replies with complete sincerity (S2): <d>[Tagalog] Eh okay naman kami.</d>
+
+Nica goes completely still in disbelief.
+
+CUT ABRUPTLY.
+
+Do not show Marco.
+Do not make Trina apologize.
+Do not resolve whether Nica confronts Marco.
+End on Trina sincerely treating "okay naman kami" as justification for marrying her sister's boyfriend.
+
+Speaker lock: Only Nica speaks S1. Only Trina speaks S2. Never swap voices or lip movements. The listener keeps their mouth naturally closed while the other character is speaking.
+
+Camera: Single continuous intimate medium two-shot. No cuts until the ending.
+
+overall_soundscape: Same quiet family-home ambience, tense breathing, faint electric fan, distant traffic.
+
+non_diegetic_music: N/A

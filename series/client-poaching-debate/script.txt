@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office beside two adjacent desks in the daytime. Soft overhead light, two desks with closed laptops, a window with blinds out of focus behind. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+BRITTANY is a 27-year-old woman with fair-medium skin, dark blonde hair loose at shoulder length, wearing business casual attire. She is shameless, confident, and talks like she's obviously in the right. She is SEATED at her desk, closing her laptop.
+
+MELISSA is a 34-year-old woman with fair-medium skin, dark hair tied back, wearing a tailored blouse. She is experienced, furious but controlled. She is SEATED at the adjacent desk, turned toward Brittany.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Brittany's final line in this clip, "They replied faster to me.", is delivered casual and matter-of-fact, as if it fully settles the matter.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no readable text on either laptop screen or anything else.
+
+IMPORTANT EYELINE LOCK:
+Brittany and Melissa face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Brittany and Melissa remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Brittany is already closing her laptop, Melissa already seated at her own desk nearby. No greeting, no setup, no one entering the frame.
+
+[0.4-3.4s] Brittany, casual, speaks the VERY FIRST LINE (S1): <d>[English] I reassigned your client to myself because they like me more.</d>
+
+[3.4-4.0s] Melissa slowly turns toward her, caught off guard.
+
+[4.0-5.8s] Melissa, direct, not pleading (S2): <d>[English] You reassigned my client?</d>
+
+[5.8-8.0s] Brittany, casual, matter-of-fact (S1): <d>[English] They replied faster to me.</d>
+
+Speaker lock: Only Brittany, the woman at the first desk, speaks S1. Only Melissa, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Melissa's lips stay completely closed while Brittany speaks, and Brittany's lips stay completely closed while Melissa speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet office room tone, a faint keyboard clicking somewhere else, a laptop lid closing. No narrator or voice-over. Only Brittany and Melissa speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+BRITTANY is the same 27-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still SEATED at her desk.
+
+MELISSA is the same 34-year-old woman with dark hair tied back, in the same tailored blouse, still SEATED at the adjacent desk, turned toward Brittany.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Brittany's final line in this clip, "They didn't know that.", is delivered with complete sincerity, no guilt, as if it is a minor technicality.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Brittany and Melissa face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Brittany and Melissa remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset.
+
+[0.3-2.3s] Melissa, pointed, speaks the VERY FIRST LINE (S2): <d>[English] You were copied on one email.</d>
+
+[2.3-2.7s] Brittany shrugs, unbothered.
+
+[2.7-4.1s] Brittany, casual (S1): <d>[English] And they thanked me.</d>
+
+[4.1-5.9s] Melissa, sharper (S2): <d>[English] For sending the attachment I made.</d>
+
+[5.9-7.1s] Brittany, sincere, no guilt (S1): <d>[English] They didn't know that.</d>
+
+[7.1-8.0s] Melissa just stares at her, saying nothing.
+
+Speaker lock: Only Brittany, the woman at the first desk, speaks S1. Only Melissa, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Melissa's lips stay completely closed while Brittany speaks, and Brittany's lips stay completely closed while Melissa speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint keyboard clicking. No narrator or voice-over. Only Brittany and Melissa speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+BRITTANY is the same 27-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still SEATED at her desk.
+
+MELISSA is the same 34-year-old woman with dark hair tied back, in the same tailored blouse, still SEATED at the adjacent desk, turned toward Brittany.
+
+They are coworkers of equal rank.
+
+Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: This clip has an unusually large amount of dialogue for 8 seconds. Melissa's two lines and Brittany's first two lines are rapid-fire, each spoken quickly and clipped as the argument escalates — every word still audible, not slurred together. Brittany's final line, "This territorial attitude is exactly why nobody wants to collaborate with you.", is the clinching thesis of the whole script and must slow down noticeably compared to everything before it, delivered unhurried and with complete sincerity, as if she has just made an unanswerable point.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Brittany and Melissa face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Brittany and Melissa remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.1s] Continue mid-scene with no pause or reset.
+
+[0.1-1.4s] Melissa, firm, speaks the VERY FIRST LINE (S2), quick and clipped: <d>[English] I've managed that account for two years.</d>
+
+[1.4-1.6s] Brittany leans back in her chair.
+
+[1.6-3.1s] Brittany, quick and clipped (S1): <d>[English] Then maybe it's healthy to let someone else grow.</d>
+
+[3.1-3.7s] Melissa, quick, sharp (S2): <d>[English] You stole my commission.</d>
+
+[3.7-3.9s] Brittany looks offended.
+
+[3.9-5.0s] Brittany, quick and clipped, indignant (S1): <d>[English] Wow. So now clients are property?</d>
+
+[5.0-5.2s] Melissa says nothing, staring at her.
+
+[5.2-8.0s] Brittany, slowing down, unhurried, completely sincere, as if landing an unanswerable point (S1): <d>[English] This territorial attitude is exactly why nobody wants to collaborate with you.</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Melissa reply after Brittany's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show any other colleague or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Brittany smirk, gloat, or look triumphant — she genuinely believes what she is saying.
+Do not have Melissa raise her voice.
+Do not fade out.
+
+Speaker lock: Only Brittany, the woman at the first desk, speaks S1. Only Melissa, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Melissa's lips stay completely closed while Brittany speaks, and Brittany's lips stay completely closed while Melissa speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint keyboard clicking, falling to near silence under the final line. No narrator or voice-over. Only Brittany and Melissa speak.
+
+non_diegetic_music: None.

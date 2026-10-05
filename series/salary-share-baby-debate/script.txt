@@ -1,0 +1,168 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern apartment kitchen at night. Warm under-cabinet lighting, a kitchen island between them, two mugs on the counter. Grounded restrained acting, a married couple discussing having their first child. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+NINA is a 31-year-old woman with fair-medium skin, dark hair tied back, wearing a loose cardigan over a plain top. She is ambitious, practical, completely serious. She stands on one side of the kitchen island facing Eric.
+
+ERIC is a 34-year-old man with fair-medium skin, short brown hair, light stubble, wearing a plain shirt with the sleeves rolled. He wants children, is financially stable, and is stunned by her proposal. He stands on the other side of the island directly facing her.
+
+They are husband and wife.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase "thirty percent" in Nina's first line must be clearly audible. Nina's final line in this clip is the single word "Yes.", delivered flat and completely calm, one full beat of silence before and after it, no hesitation.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Nina and Eric face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are standing at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other, and neither sits down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.6s] Nina, calm, completely serious, speaks the VERY FIRST LINE (S1): <d>[English] If we have a baby, I want thirty percent of your salary transferred to me.</d>
+
+[3.6-4.2s] Eric stares at her, caught completely off guard.
+
+[4.2-6.6s] Eric, stunned, direct (S2): <d>[English] You want me to pay you to have our child?</d>
+
+[6.6-8.0s] Nina, flat, completely calm, one full beat of silence before and after (S1): <d>[English] Yes.</d>
+
+Speaker lock: Only Nina, the woman in the cardigan, speaks S1. Only Eric, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Eric's lips stay completely closed while Nina speaks, and Nina's lips stay completely closed while Eric speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet kitchen room tone at night, a soft refrigerator hum, a faint clock, distant muffled street noise. No narrator or voice-over. Only Nina and Eric speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+NINA is the same 31-year-old woman with dark hair tied back, in the same cardigan, standing on her side of the kitchen island facing Eric.
+
+ERIC is the same 34-year-old man with short brown hair and light stubble, in the same rolled-sleeve shirt, standing on the other side facing her, genuinely baffled.
+
+They are husband and wife.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nina's final line in this clip, "Who else does?", is a genuine, pointed question, not rhetorical shouting.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Nina and Eric face each other across the island and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Eric looks genuinely baffled.
+
+[0.3-2.7s] Eric, baffled, reasonable, speaks the VERY FIRST LINE (S2): <d>[English] We're married. My money already supports the family.</d>
+
+[2.7-4.5s] Nina, even, certain (S1): <d>[English] Your career keeps growing while mine pauses.</d>
+
+[4.5-6.9s] Eric, genuinely asking (S2): <d>[English] And I'm supposed to compensate you for that?</d>
+
+[6.9-8.0s] Nina, pointed, genuine (S1): <d>[English] Who else does?</d>
+
+Speaker lock: Only Nina, the woman in the cardigan, speaks S1. Only Eric, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Eric's lips stay completely closed while Nina speaks, and Nina's lips stay completely closed while Eric speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock. No narrator or voice-over. Only Nina and Eric speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern apartment kitchen at night, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Nina having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+NINA is the same 31-year-old woman with dark hair tied back, in the same cardigan, standing on her side of the kitchen island facing Eric.
+
+ERIC is the same 34-year-old man with short brown hair and light stubble, in the same rolled-sleeve shirt, standing on the other side facing her, trying to understand her.
+
+They are husband and wife.
+
+Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Eric's final line, "Then why does independence require taking my salary?", is delivered unhurried and genuinely curious, not triumphant — he is asking a real question, not scoring a point.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The kitchen is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Nina and Eric face each other across the island. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Eric leans back slightly, trying to understand her.
+
+[0.3-2.5s] Eric, genuinely trying to follow her logic, speaks the VERY FIRST LINE (S2): <d>[English] So pregnancy becomes a financial transaction between us?</d>
+
+[2.5-2.7s] Nina stays completely calm.
+
+[2.7-5.5s] Nina, even, certain (S1): <d>[English] No. I'm making sure motherhood doesn't make me financially dependent on you.</d>
+
+[5.5-5.7s] Eric pauses.
+
+[5.7-7.7s] Eric, unhurried, genuinely curious, not triumphant (S2): <d>[English] Then why does independence require taking my salary?</d>
+
+[7.7-8.0s] Nina has no immediate answer. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Nina answer, concede, or reply after Eric's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Eric smirk, gloat, or look triumphant — he is asking a real question, not scoring a point.
+Do not have Nina raise her voice or cry.
+Do not fade out.
+
+Speaker lock: Only Nina, the woman in the cardigan, speaks S1. Only Eric, the man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Eric's lips stay completely closed while Nina speaks, and Nina's lips stay completely closed while Eric speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet kitchen room tone, soft refrigerator hum, faint clock, falling to near silence under the final line. No narrator or voice-over. Only Nina and Eric speak.
+
+non_diegetic_music: None.

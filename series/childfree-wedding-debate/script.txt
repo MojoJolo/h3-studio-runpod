@@ -1,0 +1,167 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary family drama inside a small quiet café in the daytime. Soft window light, a small round table between them with two coffee cups, warm wood and pale walls. Grounded restrained acting, a controlled conversation between two sisters. Neither character shouts at any point.
+
+There are exactly two visible adult characters in the foreground.
+
+OLIVIA is a 29-year-old woman with fair-medium skin, dark blonde hair neatly tied back, wearing a crisp neutral blouse. She is the bride and wants a child-free wedding. She is seated at the café table facing her sister.
+
+HANNAH is a 34-year-old woman with fair-medium skin, dark brown hair tied back more casually, wearing a soft casual top. She is the older sister and has a five-year-old daughter. She is seated at the same table directly across from Olivia. The two clearly resemble each other as sisters.
+
+Hannah's five-year-old daughter Lily is named in dialogue but is NOT visible. There are NO children anywhere in this scene at any point. Do NOT show a child, a pram, or a high chair.
+
+Any other café customers may appear ONLY as distant, blurred, out-of-focus figures far behind the two women. They never come near the table, never speak, and are never in focus. No café staff appear in frame.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible sisters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The child's name is "Lily" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no menus, no chalkboards, no price boards, no signage, no logos or lettering on the cups, napkins, or packaging. All surfaces are plain and unlettered.
+
+IMPORTANT EYELINE LOCK:
+Olivia and Hannah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, nobody arriving at the table.
+
+[0.4-3.6s] Olivia, calm and matter-of-fact, not unkind, speaks the VERY FIRST LINE (S1): <d>[English] No kids at the wedding. That includes Lily.</d>
+
+[3.6-5.0s] Hannah sets her cup down slowly. She does not raise her voice.
+
+[5.0-6.8s] Hannah, quiet and flat (S2): <d>[English] She's your niece.</d>
+
+[6.8-8.0s] Olivia holds her gaze without answering.
+
+Speaker lock: Only Olivia, the bride with dark blonde hair in the crisp blouse, speaks S1. Only Hannah, the older sister with dark brown hair in the casual top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Hannah's lips stay completely closed while Olivia speaks, and Olivia's lips stay completely closed while Hannah speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet café room tone, a low unintelligible murmur far in the background, a cup set down on a saucer, a distant espresso machine hiss once. No narrator or voice-over. Only Olivia and Hannah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same quiet café, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters in the foreground.
+
+OLIVIA is the same 29-year-old bride with dark blonde hair tied back, in the same crisp neutral blouse, seated at the café table facing Hannah. She stays calm.
+
+HANNAH is the same 34-year-old older sister with dark brown hair tied back casually, in the same soft casual top, seated directly across from her.
+
+Lily is NOT visible. There are NO children anywhere in this scene. Do NOT show a child.
+
+Any other café customers appear ONLY as distant, blurred, out-of-focus figures far behind them. No café staff appear in frame.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible sisters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no menus, chalkboards, price boards, signage, or lettering on cups or napkins. All surfaces are plain and unlettered.
+
+IMPORTANT EYELINE LOCK:
+Olivia and Hannah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.8s] Olivia, reasonable and explaining rather than arguing, speaks the VERY FIRST LINE (S1): <d>[English] And if I make one exception, everyone asks for one.</d>
+
+[3.8-4.5s] Hannah does not look away. She takes the point, and it does not move her.
+
+[4.5-7.6s] Hannah, quiet and level, no cruelty in it (S2): <d>[English] Then don't call it a family wedding.</d>
+
+[7.6-8.0s] Olivia takes that in without replying.
+
+Speaker lock: Only Olivia, the bride in the crisp blouse, speaks S1. Only Hannah, the older sister in the casual top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Hannah's lips stay completely closed while Olivia speaks, and Olivia's lips stay completely closed while Hannah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet café room tone, low unintelligible background murmur, faint distant cutlery. No narrator or voice-over. Only Olivia and Hannah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same quiet café, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. This shot ends on Olivia having no answer and cuts on it.
+
+There are exactly two visible adult characters in the foreground.
+
+OLIVIA is the same 29-year-old bride with dark blonde hair tied back, in the same crisp neutral blouse, seated facing Hannah. She looks frustrated but stays controlled.
+
+HANNAH is the same 34-year-old older sister with dark brown hair tied back casually, in the same soft casual top, seated directly across from her.
+
+Lily and the babysitter are named or implied in dialogue but are NOT visible. There are NO children anywhere in this scene. Do NOT show a child, and do not cut away to anyone else.
+
+Any other café customers appear ONLY as distant, blurred, out-of-focus figures far behind them. No café staff appear in frame.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible sisters.
+Everything outside <d>...</d> is SILENT visual direction only. No background chatter is intelligible as words.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Hannah's final line begins with the two words "I can." followed by a short pause, then the rest of the sentence. Those words must be clearly audible and must not be dropped or run into what follows. The line ends on "and stay home too" — every word of that must be audible, because it is the point of the line.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no menus, chalkboards, price boards, signage, or lettering on cups or napkins. All surfaces are plain and unlettered.
+
+IMPORTANT EYELINE LOCK:
+Olivia and Hannah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.4s] Olivia, frustrated but controlled, speaks the VERY FIRST LINE (S1): <d>[English] It's one night. Can't you get a babysitter?</d>
+
+[3.4-4.2s] Hannah does not react with anger. She answers evenly, as though she has already thought it through.
+
+[4.2-7.7s] Hannah, calm, flat, not triumphant (S2): <d>[English] I can. I just might use her and stay home too.</d>
+
+[7.7-8.0s] Olivia says nothing. She looks at her sister, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Olivia answer, concede, or reply after Hannah's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show Lily, any child, any babysitter, or any other family member at any point.
+Do not add applause, laughter, or a reaction from off screen, and do not let background customers react.
+Do not let Hannah smirk, gloat, or look triumphant — she is stating a decision, not scoring a point.
+Do not fade out.
+
+Speaker lock: Only Olivia, the bride in the crisp blouse, speaks S1. Only Hannah, the older sister in the casual top, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Hannah's lips stay completely closed while Olivia speaks, and Olivia's lips stay completely closed while Hannah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet café room tone, low unintelligible background murmur, falling to near silence under the final line. No narrator or voice-over. Only Olivia and Hannah speak.
+
+non_diegetic_music: None.

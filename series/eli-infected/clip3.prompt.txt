@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is ELI, using <Picture 1> for his identity: Filipino-Spanish man around 35, lean and tired, short messy dark hair, stubble, olive-green worn field jacket over a grey hoodie, dark jeans, black backpack, short metal baton, a thin plain silver bracelet on his right wrist.
+<Subject 2> is the INFECTED, using <Picture 2> ONLY as the style template: greyish pale skin with dark veins, bloodshot clouded eyes, torn dirty everyday clothes, hunched twitching movement. Every infected is a DIFFERENT person (different age, gender, build, hair and clothes: office worker, delivery rider, older woman in a cardigan, teenager in a hoodie, security guard). Never copy the same face onto several infected.
+<Picture 3> is the location: an empty downtown street at dusk. Location/composition anchor only, no characters come from this picture.
+
+summary:
+[reference generation] Eli fights back with his baton but is overwhelmed and dragged to the ground; with hands grabbing him from everywhere, he pulls a small silver bracelet from his jacket.
+
+retention_analysis:
+<Subject 1> fully_preserved: face, hair, skin tone, body and outfit from <Picture 1>, including the backpack and the silver bracelet.
+<Subject 2>: style only from <Picture 2>; each infected individual looks different.
+<Picture 3> is used only for the environment, layout and lighting; do not add any person from it.
+
+detailed_description:
+CRITICAL AUDIO RULE: There is NO narrator and NO voice-over. ONLY dialogue written inside <d>...</d> may be spoken aloud. Everything else is SILENT visual direction. Otherwise only breathing, grunts, infected snarls and screeches, never words.
+CRITICAL VISUAL RULE: No other survivors, no crowd of normal people. No on-screen text, subtitles, captions, logos, watermarks or readable signs.
+LOCATION LOCK (same street in every shot of every clip): one straight downtown road running away from camera, the same as <Picture 3>. Fixed layout: a dark alley entrance on the LEFT side; storefronts with half-open metal shutters on both sides; a silver sedan abandoned at an angle across the left lane; a white van stopped in the middle distance; a red hatchback parked at the RIGHT curb (the car Eli gets slammed into); flickering streetlights; an orange-purple dusk sky between the buildings; trash and glass bottles on the asphalt. Every camera angle shows THIS same street: only the camera moves. Do not add, remove or relocate cars, the alley, shutters or lights between shots. Same dusk light throughout, slowly darkening. Changes persist: a dent in the red hatchback stays dented in later shots.
+STYLE: Photorealistic live-action survival horror film, handheld documentary energy, shallow depth of field, desaturated teal-orange grade, natural dusk light, grounded and tense, no gore, no cartoon effects. Hard cuts, no dissolves.
+
+[Shot 1] Medium shot: the first infected charges; Eli swings the metal baton, CRACK, across its head and it drops onto the asphalt.
+[Shot 2] At 00:01.600, cut to a side angle: the delivery-rider infected leaps onto Eli's back; Eli drives himself backward and slams it against the red hatchback's door.
+[Shot 3] At 00:03.300, cut to a wide shot: the rest rush him all at once and drag him down to the street.
+[Shot 4] At 00:04.800, cut to a chaotic low close-up on the ground: grey hands grabbing at his jacket, hood and arms from every side; Eli, pinned, desperately forces one hand inside his jacket.
+[Shot 5] At 00:06.400, cut to an extreme close-up: his hand pulls out a small plain silver metal bracelet, its surface catching the dying dusk light.
+
+overall_soundscape:
+A sharp CRACK of the baton, a body hitting asphalt, a car door slam, a wave of overlapping snarls, fabric tearing, Eli's strained grunts, then a faint metallic chime as the bracelet comes out.
+
+non_diegetic_music:
+Percussive, frantic strings rising to a peak, cutting to a single held high note on the bracelet.

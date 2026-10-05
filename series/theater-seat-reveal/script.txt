@@ -1,0 +1,159 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside a theater aisle just before a performance in the evening. Dim warm house lighting not yet fully down, red velvet seats, this one row section in frame with the rest of the house softly out of focus. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+PATRICIA is a 52-year-old woman with fair skin, silver-blonde hair styled up, wearing an elegant dark evening dress, a small clutch in one hand. She genuinely believes she is being realistic, not cruel. She is STANDING in the aisle beside the row.
+
+LEON is a 38-year-old man with medium skin, short dark hair, light stubble, wearing a plain button-down shirt. He is calm and completely unbothered. He is SEATED in the row, looking up at her.
+
+Do NOT show another character, and do not show any other theatergoer in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Leon's line is a genuine, unhurried question, not defensive — slow, with a real pause after "Can I".
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The row and aisle are otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no legible text on any ticket, programme, or signage.
+
+IMPORTANT EYELINE LOCK:
+Patricia and Leon face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Patricia remains STANDING and Leon remains SEATED for the entire shot. Leon does not stand up and Patricia does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Start immediately mid-scene. Patricia is already standing in the aisle beside the row, Leon already seated looking up at her. No one walking into frame.
+
+[0.4-3.4s] Patricia, blunt, certain, speaks the VERY FIRST LINE (S1): <d>[English] This is my row. I need you to move.</d>
+
+[3.4-4.2s] Leon looks at her, calm, unhurried, not intimidated.
+
+[4.2-8.0s] Leon, calm, genuinely asking, a real pause after "Can I" (S2): <d>[English] Can I see your ticket?</d>
+
+Speaker lock: Only Patricia, the standing woman in the evening dress, speaks S1. Only Leon, the seated man in the button-down shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Leon's lips stay completely closed while Patricia speaks, and Patricia's lips stay completely closed while Leon speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, framed to keep the standing and seated figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet pre-show theater ambience, a distant murmur of the crowd settling, a faint string tuning somewhere far off. No narrator or voice-over. Only Patricia and Leon speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same theater aisle, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+PATRICIA is the same 52-year-old woman with silver-blonde hair styled up, in the same evening dress, still STANDING in the aisle beside the row. She is not angry, just certain she is right.
+
+LEON is the same 38-year-old man with short dark hair and light stubble, in the same button-down shirt, still SEATED in the row, looking up at her. He remains completely calm and does not defend himself.
+
+Do NOT show another character or any other theatergoer.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Only Patricia speaks in this clip. Leon does not reply verbally at any point — his only response is staying calm and waiting her out. Do not invent a line for him.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The row and aisle are otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Patricia and Leon face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Patricia remains STANDING and Leon remains SEATED for the entire shot. Leon does not stand up and Patricia does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Leon remains calm, waiting.
+
+[0.3-3.1s] Patricia, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] I don't need to prove anything to you.</d>
+
+[3.1-3.5s] Leon does not react. He waits, saying nothing, holding her gaze.
+
+[3.5-8.0s] Patricia, flatter now, making a demand (S1): <d>[English] Just get up before the lights go down.</d>
+
+Speaker lock: Only Patricia, the standing woman in the evening dress, speaks S1. Leon does not speak in this clip; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet pre-show theater ambience, distant crowd murmur, faint string tuning. No narrator or voice-over. Only Patricia speaks.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same theater aisle, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Patricia's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+PATRICIA is the same 52-year-old woman with silver-blonde hair styled up, in the same evening dress, still STANDING in the aisle beside the row.
+
+LEON is the same 38-year-old man with short dark hair and light stubble, in the same button-down shirt, still SEATED in the row at the start of this shot.
+
+Do NOT show another character or any other theatergoer, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Leon speaks both lines in this clip, flat and matter-of-fact, no triumph, no raised voice. The words "three rows back" in his first line must be clearly audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The row and aisle are otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — the ticket Patricia hands over is never legible on camera.
+
+IMPORTANT EYELINE LOCK:
+Patricia and Leon face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Patricia remains STANDING and Leon remains SEATED for the entire shot. Leon does not stand up and Patricia does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Leon holds out his hand for the ticket. Patricia hands it over sharply, annoyed but certain she will be proven right. This physical gesture happens before Leon speaks.
+
+[0.5-2.9s] Leon, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] Your seat's three rows back.</d>
+
+[2.9-3.1s] A short beat.
+
+[3.1-4.4s] Leon, same calm register, no triumph (S2): <d>[English] Not this one.</d>
+
+[4.4-8.0s] Patricia says nothing, stunned, staring at the ticket in his hand. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Patricia answer, apologise, or reply after Leon's final line.
+Do not resolve it with an usher, a manager, or any third party stepping in — the ticket is enough.
+Do not show any other theatergoer or staff member at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Leon smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Patricia walk away or sit down.
+Do not fade out.
+
+Speaker lock: Only Leon, the seated man in the button-down shirt, speaks S2 in this clip. Patricia does not speak; her lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet pre-show theater ambience, the ticket paper rustling as it changes hands, falling to near silence under his final line. No narrator or voice-over. Only Leon speaks.
+
+non_diegetic_music: None.

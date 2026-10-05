@@ -9,3 +9,22 @@ benchmarks.md
 gui/history.jsonl
 gui/server.log
 .DS_Store
+
+# --- per-machine state and secrets (never commit) ---
+.env
+gui/history.jsonl*
+gui/runpod_config.json
+gui/runpod_sessions.jsonl
+gui/auto_used_topics.json
+gui/*.bak*
+outputs/
+inputs/
+# media inside series folders (keep the scripts and build files)
+series/**/*.mp4
+series/**/*.jpg
+series/**/*.jpeg
+series/**/*.png
+series/**/runpod/
+standalone_quotecards/**/*.jpg
+standalone_quotecards/**/*.png
+__pycache__/

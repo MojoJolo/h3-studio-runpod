@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern manager's office in the daytime. Soft overhead light, a desk with a closed laptop, window blinds behind, a tall bookshelf out of focus. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+KAREN is a 44-year-old woman with fair-medium skin, dark hair in a neat bun, wearing a tailored blazer. She is the manager: calm, authoritative, completely convinced her decision is reasonable. She is STANDING near her desk.
+
+MAYA is a 30-year-old woman with fair-medium skin, dark hair loose at shoulder length, wearing business casual attire, a bag already slung over one shoulder. She is shocked but trying to stay composed. She is STANDING facing Karen.
+
+They are manager and employee.
+
+Jenna is mentioned in dialogue but is NOT visible. Do NOT show Jenna, another character, or any other person anywhere in the frame, including in the background, a doorway, or out of focus.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The name "Jenna" in Karen's first line must be clearly audible. Karen's final line in this clip, "Things change.", is flat and cold, one deliberate beat between the two words.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no readable text on the laptop screen, documents, or shelves.
+
+IMPORTANT EYELINE LOCK:
+Karen and Maya face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Karen and Maya remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already standing facing each other, Maya's bag already on her shoulder. No greeting, no setup, no one entering the room.
+
+[0.4-3.6s] Karen, matter-of-fact, speaks the VERY FIRST LINE (S1): <d>[English] I canceled your vacation because Jenna has kids and you don't.</d>
+
+[3.6-4.2s] Maya stares at her, caught off guard.
+
+[4.2-6.4s] Maya, direct, not pleading (S2): <d>[English] My leave was approved six months ago.</d>
+
+[6.4-8.0s] Karen, flat, cold, one deliberate beat between the words (S1): <d>[English] Things change.</d>
+
+Speaker lock: Only Karen, the manager in the blazer, speaks S1. Only Maya, the employee with the bag, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Maya's lips stay completely closed while Karen speaks, and Karen's lips stay completely closed while Maya speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet office room tone, a faint ventilation hum, a distant muffled phone ringing once outside the door. No narrator or voice-over. Only Karen and Maya speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same manager's office, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+KAREN is the same 44-year-old manager with dark hair in a neat bun, in the same tailored blazer, still STANDING near her desk. She barely reacts to anything Maya says.
+
+MAYA is the same 30-year-old employee with dark hair loose at shoulder length, bag still on her shoulder, still STANDING facing Karen.
+
+They are manager and employee.
+
+Jenna is mentioned but is NOT visible. Do NOT show Jenna, another character, or any other person anywhere in the frame.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The word "unfortunately" in Karen's final line must be clearly audible and delivered without any real sympathy, almost scripted-sounding.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Karen and Maya face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Karen and Maya remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset.
+
+[0.3-2.6s] Maya, direct, speaks the VERY FIRST LINE (S2): <d>[English] My flights and hotel are already paid.</d>
+
+[2.6-3.0s] Karen barely reacts, unbothered.
+
+[3.0-5.2s] Karen, matter-of-fact (S1): <d>[English] Then see if you can get a refund.</d>
+
+[5.2-6.0s] Maya, quick, anxious (S2): <d>[English] And if I can't?</d>
+
+[6.0-8.0s] Karen, cold, almost scripted-sounding (S1): <d>[English] That's unfortunately not the company's responsibility.</d>
+
+Speaker lock: Only Karen, the manager in the blazer, speaks S1. Only Maya, the employee with the bag, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Maya's lips stay completely closed while Karen speaks, and Karen's lips stay completely closed while Maya speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint ventilation hum. No narrator or voice-over. Only Karen and Maya speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same manager's office, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Maya's silent stare and cuts hard.
+
+There are exactly two visible adult characters.
+
+KAREN is the same 44-year-old manager with dark hair in a neat bun, in the same tailored blazer, still STANDING near her desk.
+
+MAYA is the same 30-year-old employee with dark hair loose at shoulder length, bag still on her shoulder, still STANDING facing Karen, expression hardening.
+
+They are manager and employee.
+
+Jenna is mentioned but is NOT visible. Do NOT show Jenna, another character, or any other person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Karen's final line, "Then I'll have to mark it as an unapproved absence.", must be delivered flat and immediate, with no hesitation and no raised voice — it is a threat stated as a fact, not an outburst.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Karen and Maya face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Karen and Maya remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.2s] Continue mid-conversation with no pause or reset. Maya's expression hardens.
+
+[0.2-2.2s] Maya, pointed, speaks the VERY FIRST LINE (S2): <d>[English] So her family matters more because she has children?</d>
+
+[2.2-3.9s] Karen, even, unbothered (S1): <d>[English] No. She just has less flexibility than you.</d>
+
+[3.9-4.2s] Maya picks up her bag fully onto her shoulder, resolved.
+
+[4.2-5.1s] Maya, firm, final (S2): <d>[English] I'm still going.</d>
+
+[5.1-5.2s] Karen responds immediately, without missing a beat.
+
+[5.2-7.6s] Karen, flat, immediate, a fact rather than a threat shouted (S1): <d>[English] Then I'll have to mark it as an unapproved absence.</d>
+
+[7.6-8.0s] Maya stops, saying nothing. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Maya answer, concede, or reply after Karen's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show Jenna or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Karen smirk, gloat, or look triumphant — she genuinely believes her decision is reasonable.
+Do not have Maya cry or become theatrical.
+Do not fade out.
+
+Speaker lock: Only Karen, the manager in the blazer, speaks S1. Only Maya, the employee with the bag, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Maya's lips stay completely closed while Karen speaks, and Karen's lips stay completely closed while Maya speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint ventilation hum, falling to near silence under the final line. No narrator or voice-over. Only Karen and Maya speak.
+
+non_diegetic_music: None.

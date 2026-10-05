@@ -1,0 +1,87 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic spontaneous handheld smartphone footage in the outdoor hallway of a mid-range apartment building, early evening. Vertical, casual, imperfect framing, natural camera movement — this feels captured in the moment, not professionally filmed.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is MARCUS, a man in his mid-thirties, short fade haircut, light grey zip-up hoodie over a plain black t-shirt, car keys already in his hand, impatient and businesslike, like he is trying to get a small errand over with.
+
+CHARACTER B is NIKKI, a woman in her late twenties, hair tied back, oversized cream sweater, standing in her half-open doorway, arms loose at her sides, calm and listening more than talking.
+
+They have been seeing each other for months.
+
+Both speak natural conversational English.
+
+CRITICAL AUDIO RULE:
+There is NO narrator and NO disembodied voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters (S1, S2). No other voice speaks — not the person filming, not anyone off-screen.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns (e.g. do not change "you" to "I" or vice versa). Do NOT alter verb tense. Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+The camera holds a handheld medium shot from a few steps down the hallway, natural small movement, slightly imperfect framing, both characters visible in profile. Neither visible character looks at the camera.
+
+MARCUS holds out an open palm toward NIKKI, not unkindly, checking his phone screen with the other hand as he asks.
+
+MARCUS (S1), flat and hurried, speaks the VERY FIRST LINE: <d>[English] Can you just give me the key back? She notices if it's gone by Sunday.</d>
+
+NIKKI stops with her hand still on the door frame, her head tilting slightly, and repeats the one word.
+
+NIKKI (S2), quiet, one word only: <d>[English] She?</d>
+
+MARCUS pockets his phone and answers without lowering his palm, like it is an obvious detail she should already have.
+
+MARCUS (S1), matter-of-fact, almost mildly annoyed at the question: <d>[English] My wife. She's been on the lease the whole time.</d>
+
+Speaker lock: Only MARCUS, the man in the grey hoodie (S1), speaks S1. Only NIKKI, the woman in the cream sweater (S2), speaks S2. Never swap dialogue, voices, or lip movements between them.
+
+IMPORTANT: The exact word is "wife," not "girlfriend."
+
+overall_soundscape: Low outdoor evening ambience in a concrete apartment hallway, distant traffic and a faint television through a neighbouring wall. Car keys clink in his hand, fabric shifts as she leans on the door frame, and her breath catches once.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic spontaneous handheld smartphone footage continuing immediately in the exact same outdoor hallway of the mid-range apartment building, early evening, same light, same wardrobe and positions. Vertical, casual, imperfect framing, natural camera movement.
+
+There are exactly two visible adult characters.
+
+MARCUS is the same man in his mid-thirties, short fade haircut, light grey zip-up hoodie over a plain black t-shirt, car keys still in his hand, impatient, wanting to leave.
+
+NIKKI is the same woman in her late twenties, hair tied back, oversized cream sweater, still standing in her half-open doorway, arms loose at her sides.
+
+They have been seeing each other for months.
+
+Both speak natural conversational English.
+
+CRITICAL AUDIO RULE:
+There is NO narrator and NO disembodied voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters (S1, S2). No other voice speaks — not the person filming, not anyone off-screen.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+The camera holds a handheld medium two-shot with natural small movement and slightly loose framing. Neither visible character looks at the camera at any point.
+
+Marcus glances down the hallway, impatient, and adds it like a small clarifying detail she should already have worked out.
+
+MARCUS (S1), businesslike, wanting to wrap this up: <d>[English] She's the one who approved your application.</d>
+
+Nikki's hand stops on the edge of the door.
+
+NIKKI (S2), quiet, steady, not raising her voice: <d>[English] Fuck you.</d>
+
+Marcus looks genuinely wounded by that, and answers as if reminding her of a favour.
+
+MARCUS (S1), offended, completely sincere: <d>[English] Don't be like that. I got you two months off the deposit.</d>
+
+Nikki does not answer. Hold on her face in the doorway. CUT ABRUPTLY.
+
+Speaker lock: Only MARCUS, the man in the grey hoodie (S1), speaks S1. Only NIKKI, the woman in the cream sweater (S2), speaks S2. Never swap dialogue, voices, or lip movements between them.
+
+overall_soundscape: Outdoor apartment hallway ambience, distant street traffic, a neighbour's TV faint through a wall, small handheld movement and fabric rustle. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

@@ -1,0 +1,167 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office meeting room in the morning. Bright cool morning light through glass walls, a small conference table between them, two closed notepads, a water carafe out of focus in the background. Grounded restrained acting, a calm but pointed professional disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+RACHEL is a 42-year-old woman with fair-medium skin, dark hair in a neat low bun, wearing a tailored blazer over a plain blouse. She is the team manager: calm, practical, genuinely thinks availability is part of being professional. She is SEATED at the conference table facing Noah.
+
+NOAH is a 30-year-old man with fair-medium skin, short dark hair, visibly tired, faint shadows under his eyes, wearing a plain crew-neck sweater. He is an employee, composed but frustrated. He is SEATED across the table directly facing her.
+
+They are manager and employee.
+
+Do NOT show another character, and do not show any other colleague through the glass walls.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The contrast between "text that you're sick" and "answer emails" in Rachel's line must both be clearly audible and not softened.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no readable notepads, no legible signage on the glass walls, no legible lettering on badges.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already seated across the table from each other. No greeting, no setup, no one entering the room.
+
+[0.4-4.0s] Rachel, matter-of-fact, not unkind, speaks the VERY FIRST LINE (S1): <d>[English] If you're well enough to text that you're sick, you're well enough to answer emails.</d>
+
+[4.0-4.6s] Noah stares at her, saying nothing for a beat.
+
+[4.6-8.0s] Noah, dry, incredulous (S2): <d>[English] You called me in to tell me that?</d>
+
+Speaker lock: Only Rachel, the woman in the blazer, speaks S1. Only Noah, the man in the sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet morning meeting-room tone, a soft ventilation hum, a faint muffled voice passing outside the glass wall. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office meeting room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+RACHEL is the same 42-year-old team manager with dark hair in a neat low bun, in the same tailored blazer, still SEATED at the conference table facing Noah. She remains completely calm.
+
+NOAH is the same 30-year-old employee, visibly tired, in the same plain crew-neck sweater, still SEATED across the table facing her.
+
+They are manager and employee.
+
+Do NOT show another character or anyone through the glass walls.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The word "reachable" must be clearly audible in both Rachel's and Noah's lines, spoken identically each time — Noah is echoing her own word back at her.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Rachel remains completely calm.
+
+[0.3-3.2s] Rachel, reasonable, unhurried, speaks the VERY FIRST LINE (S1): <d>[English] I'm not asking you to work. Just stay reachable.</d>
+
+[3.2-4.4s] Noah, flat, incredulous (S2): <d>[English] Reachable for work?</d>
+
+[4.4-5.2s] A beat. Noah waits. Rachel stays unbothered.
+
+[5.2-8.0s] Rachel, calm, matter-of-fact (S1): <d>[English] Only if something comes up.</d>
+
+Speaker lock: Only Rachel, the woman in the blazer, speaks S1. Only Noah, the man in the sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet morning meeting-room tone, soft ventilation hum. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office meeting room, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Noah's silent stare and cuts hard.
+
+There are exactly two visible adult characters.
+
+RACHEL is the same 42-year-old team manager with dark hair in a neat low bun, in the same tailored blazer, still SEATED at the conference table facing Noah.
+
+NOAH is the same 30-year-old employee, visibly tired, in the same plain crew-neck sweater, still SEATED across the table facing her.
+
+They are manager and employee.
+
+Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Noah's line contains a real spoken pause where the ellipsis appears ("I don't work... unless you need me to work") — that pause must be audible, not rushed together. Rachel's line "part of a team" must be clearly audible and delivered with no defensiveness.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset. Noah leans back slightly in his chair.
+
+[0.4-4.4s] Noah, dry, quietly frustrated, speaks the VERY FIRST LINE (S2): <d>[English] So sick leave means I don't work... unless you need me to work.</d>
+
+[4.4-4.8s] Rachel gives a small shrug, unbothered.
+
+[4.8-7.6s] Rachel, calm, matter-of-fact, not defensive (S1): <d>[English] That's what being part of a team means.</d>
+
+[7.6-8.0s] Noah just looks at her, saying nothing. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Noah answer, concede, or reply after Rachel's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show any other colleague at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Rachel smirk, gloat, or look triumphant — she genuinely believes what she is saying.
+Do not have Noah stand up or walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Rachel, the woman in the blazer, speaks S1. Only Noah, the man in the sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet morning meeting-room tone, soft ventilation hum, falling to near silence under the final line. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.

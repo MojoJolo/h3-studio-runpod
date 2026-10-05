@@ -1,0 +1,168 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary family drama inside a quiet apartment dining area in the evening. Warm lamplight, a small dining table with two cups of tea on it, a sideboard out of focus behind them. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+MARGARET is a 61-year-old woman with fair skin, short grey-blonde hair neatly set, wearing a soft cardigan over a plain blouse. She is retired and proud, and genuinely believes family takes care of family. She is seated at the dining table facing her son.
+
+ADAM is a 33-year-old man with fair-medium skin, short dark brown hair, clean-shaven, wearing a plain crew-neck sweater. He is married, financially responsible, and already helping her regularly. He is seated at the same dining table directly across from her.
+
+They are mother and adult son.
+
+Adam's wife and Margaret's other relatives are mentioned or implied but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The amount in Adam's line is "eight hundred dollars" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no readable documents, letters, bills, or legible lettering on anything.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Adam face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.4s] Margaret, calm and direct, not pleading, speaks the VERY FIRST LINE (S1): <d>[English] I need you to increase what you send me every month.</d>
+
+[3.4-4.2s] Adam sets his cup down. He does not look annoyed, only tired.
+
+[4.2-7.2s] Adam, level and matter-of-fact (S2): <d>[English] I already send you eight hundred dollars.</d>
+
+[7.2-8.0s] Margaret holds his gaze without answering.
+
+Speaker lock: Only Margaret, the older woman in the cardigan, speaks S1. Only Adam, the younger man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Margaret speaks, and Margaret's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet apartment room tone, a clock ticking faintly, a cup set down lightly on wood, distant muffled street noise. No narrator or voice-over. Only Margaret and Adam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+MARGARET is the same 61-year-old woman with short grey-blonde hair neatly set, in the same soft cardigan over a plain blouse, seated at the dining table. She stays calm throughout.
+
+ADAM is the same 33-year-old man with short dark brown hair, clean-shaven, in the same plain crew-neck sweater, seated directly across from her.
+
+They are mother and adult son.
+
+Adam's wife is referred to indirectly but is NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Adam face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.6s] Margaret, quiet and wounded but composed, not raising her voice, speaks the VERY FIRST LINE (S1): <d>[English] I spent years raising you. I never counted what you cost me.</d>
+
+[4.6-5.0s] Adam does not look away. He takes the point seriously and does not get defensive.
+
+[5.0-7.9s] Adam, gentle but firm (S2): <d>[English] I'm not paying you back for being my parent.</d>
+
+[7.9-8.0s] Margaret takes that in without replying.
+
+Speaker lock: Only Margaret, the older woman in the cardigan, speaks S1. Only Adam, the younger man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Margaret speaks, and Margaret's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock tick, distant muffled street noise. No narrator or voice-over. Only Margaret and Adam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same apartment dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. This shot ends on Margaret having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+MARGARET is the same 61-year-old woman with short grey-blonde hair neatly set, in the same soft cardigan over a plain blouse, seated at the dining table. She looks hurt but stays controlled — no tears, no theatrics.
+
+ADAM is the same 33-year-old man with short dark brown hair, clean-shaven, in the same plain crew-neck sweater, seated directly across from her.
+
+They are mother and adult son.
+
+Adam's wife and future children are referred to indirectly but are NOT visible. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Adam's final line begins with the single word "No." followed by a short pause, then the rest of the sentence. The word "No." must be clearly audible and must not be dropped or run into the next word.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Margaret and Adam face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.2s] Margaret, hurt but controlled, speaks the VERY FIRST LINE (S1): <d>[English] So when I need help, I'm just on my own?</d>
+
+[3.2-4.0s] Adam pauses. He is not preparing a defence — he is choosing his words because he does not want to hurt her.
+
+[4.0-7.7s] Adam, quiet, warm but firm, no edge and no triumph (S2): <d>[English] No. But helping you can't mean delaying my own family's future.</d>
+
+[7.7-8.0s] Margaret has no immediate response. She looks at him, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Margaret answer, concede, or reply after Adam's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not have Margaret cry or become theatrical — restrained hurt reads better.
+Do not show Adam's wife, any other family member, child, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Adam smirk, gloat, or look triumphant — he loves her and is holding a boundary, not winning.
+Do not fade out.
+
+Speaker lock: Only Margaret, the older woman in the cardigan, speaks S1. Only Adam, the younger man in the crew-neck sweater, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Margaret speaks, and Margaret's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet apartment room tone, faint clock tick, distant muffled street noise, falling to near silence under the final line. No narrator or voice-over. Only Margaret and Adam speak.
+
+non_diegetic_music: None.

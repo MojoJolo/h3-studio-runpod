@@ -1,0 +1,175 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern office beside a shared desk in the daytime. Soft overhead light, a desk with a closed laptop, a printed presentation folder held between them, a window with blinds out of focus. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+NINA is a 31-year-old woman with fair-medium skin, dark hair tied back, wearing a tailored blouse. She is competent, visibly annoyed but controlled. She is STANDING beside the shared desk, holding a printed presentation folder.
+
+SOPHIE is a 29-year-old woman with fair-medium skin, dark blonde hair loose at shoulder length, wearing business casual attire. She is confident, casual, and genuinely sees nothing wrong with what she did. She is STANDING facing Nina.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Sophie's final line in this clip, "I fixed the font.", is delivered casual and dismissive, almost bored, not defensive.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no readable text on the presentation folder, the laptop screen, or anything else.
+
+IMPORTANT EYELINE LOCK:
+Nina and Sophie face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Nina and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already standing beside the desk, Nina already holding the printed presentation folder. No greeting, no setup, no one entering the room.
+
+[0.4-3.2s] Sophie, casual, speaks the VERY FIRST LINE (S1): <d>[English] I put my name on your presentation because I'm the one presenting it.</d>
+
+[3.2-3.8s] Nina looks at her, caught off guard.
+
+[3.8-5.6s] Nina, direct, not pleading (S2): <d>[English] You didn't make any of this.</d>
+
+[5.6-8.0s] Sophie, casual, dismissive, almost bored (S1): <d>[English] I fixed the font.</d>
+
+Speaker lock: Only Sophie, the woman in business casual, speaks S1. Only Nina, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Nina's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Nina speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet office room tone, a faint ventilation hum, a distant keyboard clicking somewhere else in the office. No narrator or voice-over. Only Nina and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office beside the shared desk, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+NINA is the same 31-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING beside the desk, presentation folder in hand.
+
+SOPHIE is the same 29-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING facing Nina.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Sophie's final line in this clip, "You weren't available.", is flat and matter-of-fact, not apologetic.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Nina and Sophie face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Nina and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset.
+
+[0.3-2.3s] Nina, pointed, speaks the VERY FIRST LINE (S2): <d>[English] I spent three weeks building that report.</d>
+
+[2.3-2.7s] Sophie shrugs, unbothered.
+
+[2.7-4.8s] Sophie, casual (S1): <d>[English] And I'm the one explaining it to management.</d>
+
+[4.8-7.2s] Nina, pointed, building the case (S2): <d>[English] Because you scheduled the meeting while I was on leave.</d>
+
+[7.2-8.0s] Sophie, flat, matter-of-fact (S1): <d>[English] You weren't available.</d>
+
+Speaker lock: Only Sophie, the woman in business casual, speaks S1. Only Nina, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Nina's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Nina speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint ventilation hum. No narrator or voice-over. Only Nina and Sophie speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same office beside the shared desk, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+NINA is the same 31-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING beside the desk, presentation folder in hand.
+
+SOPHIE is the same 29-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING facing Nina.
+
+They are coworkers of equal rank.
+
+Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Nina's line "How?" is a single word, delivered slow and pointed, not rushed — it must land as a real, cutting question. Sophie's final line is delivered casually, completely sincere, with no sense that anything she is saying sounds self-serving.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Nina and Sophie face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Nina and Sophie remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. Nina pulls the presentation folder back toward herself.
+
+[0.3-2.1s] Nina, firm, speaks the VERY FIRST LINE (S2): <d>[English] Then take my name off the work too.</d>
+
+[2.1-2.4s] Sophie immediately grabs the other side of the folder.
+
+[2.4-3.6s] Sophie, clipped, not backing down (S1): <d>[English] Don't be difficult. We're a team.</d>
+
+[3.6-3.9s] Nina stares at her, saying nothing.
+
+[3.9-5.5s] Sophie, annoyed (S1): <d>[English] And if this gets approved, we both benefit.</d>
+
+[5.5-6.3s] Nina, slow, pointed (S2): <d>[English] How?</d>
+
+[6.3-6.6s] Sophie pauses.
+
+[6.6-8.0s] Sophie, casual, completely sincere (S1): <d>[English] I get promoted, and you get more experience.</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Nina reply after Sophie's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them shake hands or soften.
+Do not show any other colleague or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Sophie smirk, gloat, or look triumphant — she genuinely believes what she is saying is fair.
+Do not have Nina let go of the folder.
+Do not fade out.
+
+Speaker lock: Only Sophie, the woman in business casual, speaks S1. Only Nina, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Nina's lips stay completely closed while Sophie speaks, and Sophie's lips stay completely closed while Nina speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet office room tone, faint ventilation hum, paper rustling as both hands grip the folder, falling to near silence under the final line. No narrator or voice-over. Only Nina and Sophie speak.
+
+non_diegetic_music: None.

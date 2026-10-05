@@ -1,0 +1,177 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern open-plan office in the daytime. Soft overhead light, a shared desk with a laptop between them, other desks out of focus. Grounded restrained acting, a controlled but pointed disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+KELLY is a 29-year-old woman with fair-medium skin, dark blonde hair loose at shoulder length, wearing business casual attire. She is shameless, defensive, and convinced she made the fair choice. She is STANDING beside the shared desk, closing the laptop.
+
+ERIN is a 31-year-old woman with fair-medium skin, dark hair tied back, wearing a tailored blouse. She is stunned, trying to stay composed. She is STANDING facing Kelly.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Kelly's final line in this clip, "I covered your desk twice.", is delivered casual and defensive, as if it fully justifies her claim.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — no readable text on the laptop screen or anything else.
+
+IMPORTANT EYELINE LOCK:
+Kelly and Erin face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Kelly and Erin remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Kelly is already closing the shared laptop, both already standing near the desk. No greeting, no setup, no one entering the frame.
+
+[0.4-3.6s] Kelly, casual, speaks the VERY FIRST LINE (S1): <d>[English] I split your bonus with myself because we both worked on the project.</d>
+
+[3.6-4.2s] Erin slowly turns toward her, caught off guard.
+
+[4.2-6.0s] Erin, direct, not pleading (S2): <d>[English] You weren't even on the project.</d>
+
+[6.0-8.0s] Kelly, casual, defensive (S1): <d>[English] I covered your desk twice.</d>
+
+Speaker lock: Only Kelly, the woman closing the laptop, speaks S1. Only Erin, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Erin's lips stay completely closed while Kelly speaks, and Kelly's lips stay completely closed while Erin speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet open-plan office room tone, a faint keyboard clicking somewhere else, a distant muffled phone ringing once. No narrator or voice-over. Only Kelly and Erin speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same open-plan office, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+KELLY is the same 29-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING beside the shared desk.
+
+ERIN is the same 31-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING facing Kelly, just staring at her.
+
+They are coworkers of equal rank.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Kelly's final line in this clip, "And I supported you emotionally.", is delivered with complete sincerity, as if it is an equally valid form of contribution.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Kelly and Erin face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Kelly and Erin remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Erin just stares.
+
+[0.3-2.1s] Erin, flat, speaks the VERY FIRST LINE (S2): <d>[English] You answered two phone calls.</d>
+
+[2.1-2.5s] Kelly shrugs, unbothered.
+
+[2.5-4.5s] Kelly, casual (S1): <d>[English] Exactly. While you were getting all the credit.</d>
+
+[4.5-6.1s] Erin, pointed (S2): <d>[English] I worked nights for three weeks.</d>
+
+[6.1-8.0s] Kelly, sincere, certain this counts (S1): <d>[English] And I supported you emotionally.</d>
+
+Speaker lock: Only Kelly, the woman closing the laptop, speaks S1. Only Erin, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Erin's lips stay completely closed while Kelly speaks, and Kelly's lips stay completely closed while Erin speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet open-plan office room tone, faint keyboard clicking. No narrator or voice-over. Only Kelly and Erin speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same open-plan office, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on the reveal and cuts hard.
+
+There are exactly two visible adult characters.
+
+KELLY is the same 29-year-old woman with dark blonde hair loose at shoulder length, in the same business casual attire, still STANDING beside the shared desk.
+
+ERIN is the same 31-year-old woman with dark hair tied back, in the same tailored blouse, still STANDING facing Kelly.
+
+They are coworkers of equal rank.
+
+Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: This clip has an unusually large amount of dialogue for 8 seconds. Erin's two lines and Kelly's first two lines in this clip are rapid-fire, each spoken quickly and clipped as the argument escalates — every word still audible, not slurred together. Kelly's final line, "This is exactly why women don't support each other at work.", is the clinching thesis of the whole script and must slow down noticeably compared to everything before it, delivered unhurried and with complete sincerity, as if she has just made an unanswerable point.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The office is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Kelly and Erin face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Kelly and Erin remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.1s] Continue mid-scene with no pause or reset. Erin pulls the laptop toward herself.
+
+[0.1-1.7s] Erin, firm, speaks the VERY FIRST LINE (S2), quick and clipped: <d>[English] You cannot just decide half my bonus belongs to you.</d>
+
+[1.7-1.8s] Kelly's face hardens.
+
+[1.8-2.7s] Kelly, quick and clipped (S1): <d>[English] I already told payroll we agreed.</d>
+
+[2.7-2.8s] Erin freezes.
+
+[2.8-3.5s] Erin, quick, sharp (S2): <d>[English] You lied to payroll?</d>
+
+[3.5-3.6s] Kelly looks offended.
+
+[3.6-5.4s] Kelly, quick and clipped, indignant (S1): <d>[English] Wow. So after everything I did for you, now I'm a liar?</d>
+
+[5.4-5.5s] Erin stares at her, saying nothing.
+
+[5.5-8.0s] Kelly, slowing down, unhurried, completely sincere, as if landing an unanswerable point (S1): <d>[English] This is exactly why women don't support each other at work.</d>
+
+HARD CUT immediately at 8.0 seconds.
+
+Do not let Erin reply after Kelly's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them soften or laugh it off.
+Do not show any other colleague, payroll representative, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Kelly smirk, gloat, or look triumphant — she genuinely believes what she is saying.
+Do not have Erin raise her voice.
+Do not fade out.
+
+Speaker lock: Only Kelly, the woman closing the laptop, speaks S1. Only Erin, the woman in the tailored blouse, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Erin's lips stay completely closed while Kelly speaks, and Kelly's lips stay completely closed while Erin speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet open-plan office room tone, faint keyboard clicking, falling to near silence under the final line. No narrator or voice-over. Only Kelly and Erin speak.
+
+non_diegetic_music: None.

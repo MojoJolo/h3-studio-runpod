@@ -1,0 +1,179 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino drama inside a small modern condominium kitchen in the early evening, laundry folded in a basket on the counter. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is REY, a 34-year-old Filipino man in a fresh polo shirt, relaxed, scrolling his phone at the counter, completely at ease.
+
+CHARACTER B is JHEN, a 33-year-old Filipina woman in a loose house shirt, sleeves pushed up, mid-way through folding laundry, tired.
+
+They are husband and wife.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- gamit = GA-mit, two syllables, stress on GA
+- maglilinis = mag-li-LI-nis, four syllables
+- nagbabayad = nag-ba-BA-yad, four syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Rey says it casually, without looking up from his phone, as if it were already settled.
+
+REY (S1), casual, pleased with himself, speaks the VERY FIRST LINE: <d>[Tagalog] Sabi ko kay Ate, sa gamit ko lang siya maglilinis.</d>
+
+Jhen stops folding.
+
+JHEN (S2), flat: <d>[Tagalog] Sa gamit mo lang?</d>
+
+Rey shrugs, as if the answer is obvious and slightly generous of him.
+
+REY (S1), reasonable: <d>[Tagalog] Ako naman nagbabayad sa kanya.</d>
+
+overall_soundscape: Quiet condominium kitchen ambience, a refrigerator hum, faint traffic from outside. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic contemporary Filipino drama inside a small modern condominium kitchen in the early evening, laundry folded in a basket on the counter. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is REY, a 34-year-old Filipino man in a fresh polo shirt, relaxed, scrolling his phone at the counter, completely at ease.
+
+CHARACTER B is JHEN, a 33-year-old Filipina woman in a loose house shirt, sleeves pushed up, mid-way through folding laundry, tired.
+
+They are husband and wife.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- sahod = SA-hod, two syllables, stress on SA
+- galing = GA-ling, two syllables, keep the final NG clear
+- joint account is English — say it naturally in English, then return to Filipino pronunciation
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Jhen sets the shirt down on the pile and finally turns to face him.
+
+JHEN (S2), quiet, precise, speaks the VERY FIRST LINE: <d>[Tagalog] Sa joint account galing yung sahod niya.</d>
+
+Rey does not flinch, does not deny it.
+
+REY (S1), mild, unbothered: <d>[Tagalog] Pareho naman tayong may pera doon.</d>
+
+Jhen looks at the laundry basket, then back at him.
+
+JHEN (S2), quiet: <d>[Tagalog] Tapos akin pa rin lahat ng iba?</d>
+
+overall_soundscape: Quiet condominium kitchen ambience, a refrigerator hum, faint traffic from outside. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Photorealistic contemporary Filipino drama inside a small modern condominium kitchen in the early evening, laundry folded in a basket on the counter. Natural restrained acting, realistic emotional tension, believable Filipino behavior. Handheld-steady continuous medium two-shot.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is REY, a 34-year-old Filipino man in a fresh polo shirt, relaxed, scrolling his phone at the counter, completely at ease.
+
+CHARACTER B is JHEN, a 33-year-old Filipina woman in a loose house shirt, sleeves pushed up, mid-way through folding laundry, tired.
+
+They are husband and wife.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Normal grammatical "ko" remains "ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- mag-ambag = mag-am-BAG, stress on BAG, keep the hyphen break audible as a small glottal stop
+- gago = GA-go, two syllables, stress on GA
+- buong = BU-ong, two syllables
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both characters are already in position from the very first frame — nobody walks into frame. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Rey sets the phone face down, finally giving her his full attention, and explains it patiently.
+
+REY (S1), patient, completely sincere, speaks the VERY FIRST LINE: <d>[Tagalog] Eh nasa bahay ka naman buong araw.</d>
+
+Jhen does not raise her voice at all.
+
+JHEN (S2), flat, final: <d>[Tagalog] Gago ka.</d>
+
+Rey spreads his hands, genuinely offended, as if she is refusing a fair arrangement.
+
+REY (S1), reasonable, almost kind: <d>[Tagalog] Mag-ambag ka kung gusto mo rin ng tulong.</d>
+
+Hold on Jhen's face. CUT ABRUPTLY.
+
+overall_soundscape: Quiet condominium kitchen ambience, a refrigerator hum, faint traffic from outside. Abrupt audio cut at the end. No narrator or voice-over. Only CHARACTER A and CHARACTER B speak.
+
+non_diegetic_music: N/A

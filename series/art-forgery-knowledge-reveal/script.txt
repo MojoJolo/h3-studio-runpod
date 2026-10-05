@@ -1,0 +1,159 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside a private art gallery back room in the daytime. Soft gallery lighting, a framed painting on an easel between them, a loupe and white cotton gloves on a side table. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+HOWARD is a 60-year-old man with fair skin, silver hair combed back, polished, wearing a tailored navy blazer. He genuinely believes he is being realistic, not cruel. He is STANDING beside the easel.
+
+SIMONE is a 32-year-old woman with brown skin, dark hair in a low bun, wearing a plain blouse, a loupe around her neck. She is calm and completely unbothered. She is STANDING facing Howard.
+
+Do NOT show another character, and do not show any other gallery staff or visitor in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Simone's line is a genuine, unhurried question, not defensive — slow and even.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The back room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind — the painting itself must show an indistinct, non-legible abstract or impressionistic image, no readable signature or text anywhere in frame.
+
+IMPORTANT EYELINE LOCK:
+Howard and Simone face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Howard and Simone remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Both are already standing beside the easel, Simone already wearing the loupe around her neck. No one walking into frame.
+
+[0.4-3.6s] Howard, blunt, dismissive, speaks the VERY FIRST LINE (S1): <d>[English] Just log it as authentic. I don't need art school opinions.</d>
+
+[3.6-4.2s] Simone looks at him, calm, unhurried, not offended.
+
+[4.2-8.0s] Simone, calm, genuinely asking, even and unhurried (S2): <d>[English] Why do you think I haven't already checked?</d>
+
+Speaker lock: Only Howard, the man in the navy blazer, speaks S1. Only Simone, the woman with the loupe, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Simone's lips stay completely closed while Howard speaks, and Howard's lips stay completely closed while Simone speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, both figures fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet gallery back-room ambience, a soft air-handling hum, a faint murmur of the main gallery through the door. No narrator or voice-over. Only Howard and Simone speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same gallery back room, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+HOWARD is the same 60-year-old man with silver hair combed back, in the same navy blazer, still STANDING beside the easel. He is not angry, just certain he is right.
+
+SIMONE is the same 32-year-old woman with dark hair in a low bun, loupe still around her neck, still STANDING facing him. She remains completely calm and does not defend herself.
+
+Do NOT show another character or any other gallery staff.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Only Howard speaks in this clip. Simone does not reply verbally at any point — her only response is staying calm and waiting him out. Do not invent a line for her.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The back room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Howard and Simone face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Howard and Simone remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Simone stays calm, unbothered.
+
+[0.3-3.1s] Howard, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] I paid two hundred thousand for this piece.</d>
+
+[3.1-3.5s] Simone does not react. She waits, saying nothing, holding his gaze.
+
+[3.5-8.0s] Howard, flatter now, making a demand (S1): <d>[English] Just stamp the certificate and move on.</d>
+
+Speaker lock: Only Howard, the man in the navy blazer, speaks S1. Simone does not speak in this clip; her lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet gallery back-room ambience, soft air-handling hum. No narrator or voice-over. Only Howard speaks.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same gallery back room, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Howard's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+HOWARD is the same 60-year-old man with silver hair combed back, in the same navy blazer, still STANDING beside the easel.
+
+SIMONE is the same 32-year-old woman with dark hair in a low bun, still STANDING facing him at the start of this shot.
+
+Do NOT show another character or any other gallery staff, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Simone speaks both lines in this clip, flat and matter-of-fact, no triumph, no raised voice. The word "London" in her first line and the word "museum" in her second line must both be clearly audible.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The back room is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Howard and Simone face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Howard and Simone remain STANDING at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Simone takes the loupe off, sets it down, and meets his eyes directly. This physical gesture happens before she speaks.
+
+[0.5-2.9s] Simone, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] I catalogued the real one in London.</d>
+
+[2.9-3.1s] A short beat. Howard says nothing yet.
+
+[3.1-5.5s] Simone, same calm register, no triumph (S2): <d>[English] It's hanging in a museum right now.</d>
+
+[5.5-8.0s] Howard says nothing, stunned, staring at her. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Howard answer, apologise, or reply after Simone's final line.
+Do not resolve it with a threat, a lawsuit, or a demand for a refund — the fact is enough.
+Do not show any other gallery staff or visitor at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Simone smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Howard walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Simone, the woman with the loupe, speaks S2 in this clip. Howard does not speak; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet gallery back-room ambience, soft air-handling hum, falling to near silence under her final line. No narrator or voice-over. Only Simone speaks.
+
+non_diegetic_music: None.

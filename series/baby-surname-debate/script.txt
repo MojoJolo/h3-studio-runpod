@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a bedroom at night. Warm bedside lamp light, soft shadows, a made bed behind them. Grounded restrained acting, a serious but controlled conversation. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+HANNAH is a 31-year-old woman with fair-medium skin, dark hair loose over one shoulder, visibly pregnant, wearing a loose sleep shirt. She is independent, calm but firm. She is SEATED on the edge of the bed facing David.
+
+DAVID is a 34-year-old man with fair-medium skin, short brown hair, light stubble, wearing a plain t-shirt and sleep shorts. He is traditional, family-oriented, genuinely surprised. He is SEATED on the edge of the bed directly facing her.
+
+They are a married couple.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Hannah's final line in this clip, "I'm the one carrying her.", is delivered calm and firm, each word landing deliberately, not rushed.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The bedroom is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and David face each other directly and speak to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. Both are already seated on the edge of the bed facing each other, still and serious. No greeting, no setup, no one entering the room.
+
+[0.4-2.4s] Hannah, calm, firm, no hesitation, speaks the VERY FIRST LINE (S1): <d>[English] The baby's getting my last name.</d>
+
+[2.4-3.0s] David looks at her, caught off guard.
+
+[3.0-4.4s] David, surprised, almost repeating it back (S2): <d>[English] Your last name?</d>
+
+[4.4-8.0s] Hannah, calm and firm, each word landing deliberately (S1): <d>[English] I'm the one carrying her.</d>
+
+Speaker lock: Only Hannah, the pregnant woman, speaks S1. Only David, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. David's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while David speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet bedroom night ambience, a faint hum from another room, soft fabric shifting on the bed. No narrator or voice-over. Only Hannah and David speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+HANNAH is the same 31-year-old pregnant woman with dark hair loose over one shoulder, in the same sleep shirt, still SEATED on the edge of the bed facing David.
+
+DAVID is the same 34-year-old man with short brown hair and light stubble, in the same t-shirt, still SEATED on the edge of the bed facing her. He stays controlled.
+
+They are a married couple.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Hannah's final line in this clip, "That's not an answer.", is flat and even, not raised.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The bedroom is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and David face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-conversation with no pause or reset. David stays controlled.
+
+[0.3-1.7s] David, quiet, reasonable, speaks the VERY FIRST LINE (S2): <d>[English] She's my daughter too.</d>
+
+[1.7-4.3s] Hannah, pointed, not shouting (S1): <d>[English] Exactly. So why was your name automatically the default?</d>
+
+[4.3-6.3s] David, genuinely explaining, not defensive (S2): <d>[English] Because that's how families have always done it.</d>
+
+[6.3-8.0s] Hannah, flat, even, final (S1): <d>[English] That's not an answer.</d>
+
+Speaker lock: Only Hannah, the pregnant woman, speaks S1. Only David, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. David's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while David speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet bedroom night ambience, faint hum from another room. No narrator or voice-over. Only Hannah and David speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on David having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+HANNAH is the same 31-year-old pregnant woman with dark hair loose over one shoulder, in the same sleep shirt, still SEATED on the edge of the bed facing David.
+
+DAVID is the same 34-year-old man with short brown hair and light stubble, in the same t-shirt, still SEATED on the edge of the bed facing her, more hurt than angry.
+
+They are a married couple.
+
+David's father is mentioned but is NOT visible. Do NOT show another person anywhere in the frame, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: David's full line must be spoken in one continuous breath, faster than his usual speech, like something he is finally saying out loud for the first time — every word still audible, not mumbled. Hannah's line is quiet and genuinely asking, not cruel.
+
+CRITICAL VISUAL RULE:
+There are EXACTLY TWO people in this scene and no one else. Do NOT render any other person, silhouette, figure, reflection, or shadow of a third person anywhere in the frame. The bedroom is otherwise EMPTY of people. Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind.
+
+IMPORTANT EYELINE LOCK:
+Hannah and David face each other directly. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain SEATED at the same height for the entire shot, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.2s] Continue mid-conversation with no pause or reset. David looks more hurt than angry.
+
+[0.2-5.4s] David, quiet, faster than usual, like he's finally saying this out loud for the first time, speaks the VERY FIRST LINE (S2): <d>[English] My dad left when I was six. Keeping his name meant nothing to me until I built a family of my own.</d>
+
+[5.4-5.7s] Hannah pauses before answering.
+
+[5.7-7.6s] Hannah, quiet, not cruel, genuinely asking (S1): <d>[English] And you think building your family means mine disappears?</d>
+
+[7.6-8.0s] David has no immediate answer. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let David answer, concede, or reply after Hannah's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show David's father or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Hannah smirk, gloat, or look triumphant — she is asking a real question, not scoring a point.
+Do not have David raise his voice or stand up.
+Do not fade out.
+
+Speaker lock: Only Hannah, the pregnant woman, speaks S1. Only David, the man in the t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. David's lips stay completely closed while Hannah speaks, and Hannah's lips stay completely closed while David speaks.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet bedroom night ambience, faint hum from another room, falling to near silence under the final line. No narrator or voice-over. Only Hannah and David speak.
+
+non_diegetic_music: None.

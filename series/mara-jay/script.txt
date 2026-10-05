@@ -1,0 +1,137 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino marriage drama-comedy inside a small modern condominium bedroom in Metro Manila late at night. Natural restrained acting, realistic husband-wife tension, but with increasingly absurd dry humor.
+
+There are exactly two visible adult characters.
+
+MARA is a 32-year-old obese Filipina woman with warm medium skin, shoulder-length dark brown hair, expressive brown eyes, a visibly heavy full-bodied figure, wearing a loose oversized sleep shirt and lounge shorts. She is sharp-tongued, confident, suspicious, and already irritated when her husband arrives home unusually late.
+
+JAY is a 35-year-old Filipino man with warm tan skin, short black hair, clean-shaven, wearing office trousers and a slightly wrinkled button-down shirt. He has just arrived home late. He looks defensive and nervous but has very poor judgment when trying to explain himself.
+
+They are husband and wife.
+
+Both speak natural conversational Tagalog.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase or rewrite the dialogue.
+
+Jay has just entered the bedroom. Mara steps closer and immediately reacts to a strong unfamiliar body odor clinging to his shirt.
+
+Mara (S1), speaking as the VERY FIRST LINE, recoils and says sharply: <d>[Tagalog] Ang baho mo!</d>
+
+Jay instinctively smells his shirt.
+
+Mara (S1), disgusted and sarcastic, immediately adds: <d>[Tagalog] May kabit ka na nga, yung may putok pa?</d>
+
+Jay freezes.
+
+Jay (S2), defensive, replies: <d>[Tagalog] Anong kabit?</d>
+
+Mara points at his shirt.
+
+Mara (S1), coldly says: <d>[Tagalog] Huwag mo 'kong gawing tanga. Amoy babae damit mo.</d>
+
+Jay avoids her eyes.
+
+overall_soundscape: Quiet condominium bedroom ambience, faint air-conditioning, distant traffic, subtle clothing movement. No narrator or voice-over. Only Mara and Jay speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Continue immediately in the exact same condominium bedroom with the same characters, wardrobe, lighting, and positions. Jay is clearly cornered. Instead of giving a sensible explanation, he finally admits enough to make Mara furious and then makes the situation dramatically worse with an absurd defense.
+
+There are exactly two visible adult characters.
+
+MARA is the same 32-year-old obese Filipina wife, visibly furious and disgusted.
+
+JAY is the same 35-year-old Filipino husband, defensive and increasingly careless with his words.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase or rewrite the dialogue.
+
+Mara (S1), staring directly at Jay, asks sharply: <d>[Tagalog] So may nangyari nga sa inyo?</d>
+
+Jay exhales and finally gives up denying it.
+
+Jay (S2), reluctantly replies: <d>[Tagalog] Sige na nga. Oo.</d>
+
+Mara looks disgusted.
+
+Mara (S1), says: <d>[Tagalog] Tapos ganyan pa amoy niya?</d>
+
+Jay becomes irritated at the insult.
+
+Jay (S2), replies with complete sincerity: <d>[Tagalog] Mabaho siya, pero mas masarap naman.</d>
+
+Mara goes completely still.
+
+Mara (S1), explodes with conviction: <d>[Tagalog] GAGO KA!</d>
+
+overall_soundscape: Same quiet bedroom ambience, tense breathing, faint distant traffic. No narrator or voice-over. Only Mara and Jay speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Continue immediately in the exact same condominium bedroom. The confrontation becomes intentionally absurd. Jay has already been caught cheating and insulted both women, yet somehow believes attacking Mara's weight is a valid comeback. Keep his delivery serious rather than comedic so the absurdity comes entirely from what he says.
+
+There are exactly two visible adult characters.
+
+MARA is the same 32-year-old obese Filipina wife, now absolutely furious.
+
+JAY is the same 35-year-old Filipino husband, cornered and offended that Mara called him an idiot.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+Jay looks directly at Mara, offended.
+
+Jay (S2), replies defensively: <d>[Tagalog] Oo, gago na. Pero mataba ka!</d>
+
+Mara's face changes from anger to complete disbelief.
+
+Mara (S1), stunned, asks: <d>[Tagalog] Anong kinalaman ng pagiging mataba ko sa pambababae mo?</d>
+
+Jay pauses.
+
+Jay (S2), matter-of-factly replies: <d>[Tagalog] Wala. Sinasabi ko lang.</d>
+
+Mara stares at him for a long beat, unable to believe what she is hearing.
+
+Mara (S1), coldly says: <d>[Tagalog] Lumayas ka.</d>
+
+Jay's expression finally changes.
+
+CUT ABRUPTLY.
+
+Do not show the other woman.
+Do not make Jay apologize.
+Do not resolve whether Jay actually leaves.
+End on the absurdity of Jay insulting Mara's weight after being caught cheating.
+
+overall_soundscape: Same quiet condominium ambience, tense silence, faint air-conditioning and distant traffic. No narrator or voice-over. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

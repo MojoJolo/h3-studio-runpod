@@ -1,0 +1,165 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary family drama inside a home dining area in the evening. Warm overhead light, a dining table with a closed folder and two pens pushed to one side, a half-finished cup of tea. Grounded restrained acting, a married couple reviewing estate documents. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+LAURA is a 38-year-old woman with fair-medium skin, dark brown hair tied back, wearing a plain long-sleeve top. She is practical and protective of their shared daughter. She is seated at the dining table facing Michael.
+
+MICHAEL is a 41-year-old man with fair-medium skin, short greying hair, light stubble, wearing a plain button-down shirt with the sleeves rolled. He has a teenage son from a previous marriage. He is seated at the same table directly across from her.
+
+They are husband and wife.
+
+Michael's teenage son, their daughter, and Michael's ex-wife are all mentioned in dialogue but are NOT visible. There are NO children anywhere in this scene. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The number in Michael's line is "twelve years" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — the estate documents stay in a closed folder, and no papers, wills, letters or legible writing are ever visible.
+
+IMPORTANT EYELINE LOCK:
+Laura and Michael face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are seated at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.4s] Laura, calm and matter-of-fact, not cruel, speaks the VERY FIRST LINE (S1): <d>[English] I'm not leaving half our house to your son.</d>
+
+[3.4-4.4s] Michael looks up from the folder. He does not react with anger.
+
+[4.4-7.6s] Michael, quiet and level (S2): <d>[English] He's been your stepson for twelve years.</d>
+
+[7.6-8.0s] Laura holds his gaze without answering.
+
+Speaker lock: Only Laura, the woman in the long-sleeve top, speaks S1. Only Michael, the man in the button-down shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Michael's lips stay completely closed while Laura speaks, and Laura's lips stay completely closed while Michael speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet home dining area room tone, a faint clock, a distant refrigerator hum, a folder shifting on the table. No narrator or voice-over. Only Laura and Michael speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same home dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+LAURA is the same 38-year-old woman with dark brown hair tied back, in the same plain long-sleeve top, seated at the dining table facing Michael. She stays calm.
+
+MICHAEL is the same 41-year-old man with short greying hair and light stubble, in the same plain button-down shirt with rolled sleeves, seated directly across from her.
+
+Michael's son, their daughter, and Michael's ex-wife are mentioned but are NOT visible. There are NO children anywhere in this scene. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: In Laura's line the words are "his mother" and "our daughter" — these must stay exactly as written and must never be swapped or changed to "her mother" or "your daughter."
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — the estate documents stay in a closed folder and no legible writing is ever visible.
+
+IMPORTANT EYELINE LOCK:
+Laura and Michael face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.4s] Laura, reasonable and explaining rather than arguing, speaks the VERY FIRST LINE (S1): <d>[English] He'll inherit from his mother too. Our daughter only has us.</d>
+
+[4.4-4.9s] Michael does not look away. He takes the point seriously and it does not move him.
+
+[4.9-7.8s] Michael, quiet and precise, no edge in his voice (S2): <d>[English] So he gets less from me because his parents divorced?</d>
+
+[7.8-8.0s] Laura takes that in without replying.
+
+Speaker lock: Only Laura, the woman in the long-sleeve top, speaks S1. Only Michael, the man in the button-down shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Michael's lips stay completely closed while Laura speaks, and Laura's lips stay completely closed while Michael speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet home dining area room tone, faint clock, distant refrigerator hum. No narrator or voice-over. Only Laura and Michael speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same home dining area, identical lighting, identical framing, identical wardrobe and identical seated positions. Photorealistic contemporary family drama. Grounded restrained acting. This shot ends on Laura having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+LAURA is the same 38-year-old woman with dark brown hair tied back, in the same plain long-sleeve top, seated at the dining table facing Michael.
+
+MICHAEL is the same 41-year-old man with short greying hair and light stubble, in the same plain button-down shirt with rolled sleeves, seated directly across from her.
+
+Michael's son, their daughter, and Michael's ex-wife are mentioned but are NOT visible. There are NO children anywhere in this scene. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Michael's final line contrasts "equal outcome" with "treat them equally" — both phrases must be clearly audible and must not be made identical, simplified, or swapped.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — the estate documents stay in a closed folder and no legible writing is ever visible.
+
+IMPORTANT EYELINE LOCK:
+Laura and Michael face each other across the table and speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain seated at the same height with equal weight in the shot. Neither is positioned above or below the other.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.2s] Laura looks directly at him and speaks the VERY FIRST LINE (S1), steady and sincere: <d>[English] I'm trying to make sure both kids end up equally provided for.</d>
+
+[4.2-4.9s] Michael pauses. He is not building an attack — he is naming the flaw in what she just said.
+
+[4.9-7.7s] Michael, quiet, flat, not triumphant (S2): <d>[English] Equal outcome doesn't mean you treat them equally.</d>
+
+[7.7-8.0s] Laura has no immediate response. She looks at him, silent. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Laura answer, concede, or reply after Michael's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show either child, the ex-wife, a lawyer, or any other person at any point.
+Do not open the folder or show any document, will, or paper with legible writing.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Michael smirk, gloat, or look triumphant — he is naming something true, not winning.
+Do not fade out.
+
+Speaker lock: Only Laura, the woman in the long-sleeve top, speaks S1. Only Michael, the man in the button-down shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Michael's lips stay completely closed while Laura speaks, and Laura's lips stay completely closed while Michael speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet home dining area room tone, faint clock, distant refrigerator hum, falling to near silence under the final line. No narrator or voice-over. Only Laura and Michael speak.
+
+non_diegetic_music: None.

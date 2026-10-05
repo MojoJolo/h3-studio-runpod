@@ -1,0 +1,168 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary relationship drama inside a modern bedroom in the daytime. Soft window light, an open suitcase on the bed with folded clothes half packed. Grounded restrained acting, a married couple disagreeing while she packs for a weekend trip. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+MIA is a 31-year-old woman with fair-medium skin, dark brown hair loose to her shoulders, wearing a plain casual top and jeans. She is independent and social, and frustrated by what she sees as controlling behaviour. She is standing at the side of the bed, packing the suitcase.
+
+ADAM is a 34-year-old man with fair-medium skin, short dark hair, light stubble, wearing a plain t-shirt. He is calm and distrustful of the situation rather than of his wife. He is standing a couple of steps away, facing her across the corner of the bed.
+
+They are husband and wife.
+
+Mia's friend and her friend's husband are mentioned in dialogue but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase in Adam's line is "girls' trip" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no luggage tags, tickets, labels, phone screens, or legible writing on anything.
+
+IMPORTANT EYELINE LOCK:
+Mia and Adam look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters are standing at the same height and framed with equal weight in the shot. Neither is positioned above, behind, or below the other, and neither sits down. This is a disagreement between two people who both believe they are being reasonable.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, no one entering the room.
+
+[0.4-3.2s] Adam, calm and direct, not accusing her, speaks the VERY FIRST LINE (S2): <d>[English] I don't want you going on that girls' trip.</d>
+
+[3.2-4.4s] Mia stops packing. Her hands go still on the suitcase. She does not raise her voice.
+
+[4.4-7.6s] Mia, level and firm (S1): <d>[English] You don't get to decide where I go.</d>
+
+[7.6-8.0s] Adam holds her gaze without answering.
+
+Speaker lock: Only Mia, the woman packing the suitcase, speaks S1. Only Adam, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Mia speaks, and Mia's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet bedroom room tone, faint distant street noise through a window, soft fabric sounds from packing. No narrator or voice-over. Only Mia and Adam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+MIA is the same 31-year-old woman with loose dark brown hair, in the same plain casual top and jeans, standing at the side of the bed by the open suitcase.
+
+ADAM is the same 34-year-old man with short dark hair and light stubble, in the same plain t-shirt, standing a couple of steps away facing her. He stays controlled throughout.
+
+Mia's friend and her friend's husband are mentioned but are NOT visible. Do NOT show another character.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: In Adam's line the words are "your friend" and "her husband" — these must stay exactly as written and must never be changed to "my friend" or "your husband."
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no luggage tags, tickets, labels, or phone screens with legible text.
+
+IMPORTANT EYELINE LOCK:
+Mia and Adam look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-4.8s] Adam, controlled and factual, not sneering, speaks the VERY FIRST LINE (S2): <d>[English] Last time, your friend cheated on her husband and all of you covered for her.</d>
+
+[4.8-5.3s] Mia does not look away. She answers without hesitating.
+
+[5.3-7.8s] Mia, firm and clear (S1): <d>[English] She made that choice. Not me.</d>
+
+[7.8-8.0s] Adam takes that in without replying.
+
+Speaker lock: Only Mia, the woman by the suitcase, speaks S1. Only Adam, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Mia speaks, and Mia's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet bedroom room tone, faint distant street noise. No narrator or voice-over. Only Mia and Adam speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same bedroom, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary relationship drama. Grounded restrained acting. This shot ends on Mia having no answer and cuts hard.
+
+There are exactly two visible adult characters.
+
+MIA is the same 31-year-old woman with loose dark brown hair, in the same plain casual top and jeans, standing at the side of the bed by the open suitcase.
+
+ADAM is the same 34-year-old man with short dark hair and light stubble, in the same plain t-shirt, standing a couple of steps away facing her.
+
+Mia's friend and her friend's husband are mentioned but are NOT visible and do NOT appear. Do NOT show another character, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Mia says "my husband" and Adam then says "her husband" — this mirror is the point of the scene. Both phrases must be clearly audible and must never be swapped or made identical.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Mia and Adam look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both characters remain standing at the same height with equal weight in the shot. Neither is positioned above or below the other, and neither sits down.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.7s] Adam looks directly at her and speaks the VERY FIRST LINE (S2), quiet and factual: <d>[English] You helped her lie.</d>
+
+[1.7-2.1s] Mia pauses, then answers firmly rather than defensively.
+
+[2.1-5.9s] Mia, firm and clear (S1): <d>[English] I protected my friend. That doesn't mean I'd betray my husband.</d>
+
+[5.9-6.2s] Adam does not raise his voice. He answers quietly, without any satisfaction in it.
+
+[6.2-8.0s] Adam, quiet, flat, not triumphant (S2): <d>[English] That's exactly what her husband thought too.</d>
+
+[7.9-8.0s] Mia has no immediate answer. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Mia answer, concede, or reply after Adam's final line.
+Do not resolve the argument, do not have either character apologise, and do not have them embrace or reconcile.
+Do not show the friend, the friend's husband, or any other person at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Adam smirk, gloat, or look triumphant — he is not enjoying this.
+Do not fade out.
+
+Speaker lock: Only Mia, the woman by the suitcase, speaks S1. Only Adam, the man in the plain t-shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Adam's lips stay completely closed while Mia speaks, and Mia's lips stay completely closed while Adam speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet bedroom room tone, faint distant street noise, falling to near silence under the final line. No narrator or voice-over. Only Mia and Adam speak.
+
+non_diegetic_music: None.

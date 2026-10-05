@@ -1,0 +1,4 @@
+file '/Users/jolobalbin/H3-Studio/outputs/gui-20261005-155611200-seed670001.mp4'
+file '/Users/jolobalbin/H3-Studio/outputs/gui-20261005-155612307-seed670002.mp4'
+file '/Users/jolobalbin/H3-Studio/outputs/gui-20261005-155613416-seed670003.mp4'
+file '/Users/jolobalbin/H3-Studio/outputs/gui-20261005-155614528-seed670004.mp4'

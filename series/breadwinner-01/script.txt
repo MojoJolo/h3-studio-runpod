@@ -1,0 +1,184 @@
+8 | integrated_multimodal_description: [Shot 1] Photorealistic contemporary Filipino drama inside the living room of a modest Filipino family home in the evening, a small sofa, an electric fan, a closed bedroom door at the back of the room. Natural restrained acting, realistic Filipino family tension, believable behavior — nobody shouts.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is JUN, a 29-year-old Filipino man in a plain faded t-shirt and shorts, slippers, completely relaxed, sitting sideways on the arm of the sofa with his phone in one hand, asking for something he expects to get.
+
+CHARACTER B is ANNA, a 32-year-old Filipina woman still in her office blouse with her work ID lanyard on and a bag over one shoulder, just arrived home, standing, tired.
+
+They are brother and older sister — Anna supports the household.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Accented vowels (á, í, ú, é, ó) mark WHICH SYLLABLE IS STRESSED. They are pronunciation guides only — never spell them out, never mention them, never read them aloud as separate sounds.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- magpadalá = mag-pa-da-LA, four syllables, stress on the final LA
+- úlit = U-lit, two syllables, stress on U
+- natálo = na-TA-lo, three syllables, stress on the middle TA — never "na-ta-LO"
+- kasí = ka-SI, two syllables, stress on SI
+- sábong = SA-bong, two syllables, stress on SA, keep the final NG as one clear Filipino sound
+- maliít = ma-li-IT, three syllables — the two i vowels are separate, never collapsed into one long English "ee"
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both are already in position from the very first frame — nobody walks into frame. Exactly two people are visible and no one else; do not duplicate or clone either character. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Jun does not look up from his phone. He says it casually, the way you would mention a small errand, and the second sentence slips out as an afterthought.
+
+JUN (S1), casual, unbothered, speaks the VERY FIRST LINE: <d>[Tagalog] Magpadalá ka na lang úlit. Natálo ko na kasí.</d>
+
+Anna stops with the bag still on her shoulder. She does not put it down.
+
+ANNA (S2), quiet, flat: <d>[Tagalog] Natálo?</d>
+
+Jun finally glances up, mildly surprised she is making something of it.
+
+JUN (S1), matter-of-fact, minimizing: <d>[Tagalog] Sa sábong. Maliít lang naman.</d>
+
+overall_soundscape: Quiet family-home ambience in the evening, an electric fan, faint street noise and a distant tricycle. No narrator or voice-over. Only JUN and ANNA speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 2] Photorealistic contemporary Filipino drama inside the living room of a modest Filipino family home in the evening, a small sofa, an electric fan, a closed bedroom door at the back of the room. Natural restrained acting, realistic Filipino family tension, believable behavior — nobody shouts.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is JUN, a 29-year-old Filipino man in a plain faded t-shirt and shorts, slippers, completely relaxed, sitting sideways on the arm of the sofa with his phone in one hand, asking for something he expects to get.
+
+CHARACTER B is ANNA, a 32-year-old Filipina woman still in her office blouse with her work ID lanyard on and a bag over one shoulder, just arrived home, standing, tired.
+
+They are brother and older sister — Anna supports the household.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Accented vowels (á, í, ú, é, ó) mark WHICH SYLLABLE IS STRESSED. They are pronunciation guides only — never spell them out, never mention them, never read them aloud as separate sounds.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- pang-ópera = pang-O-pe-ra, stress on the O; keep the hyphen as a small break, not a smooth glide
+- Tátay = TA-tay, two syllables, stress on TA
+- babáwi = ba-BA-wi, three syllables, stress on the middle BA
+- malápit = ma-LA-pit, three syllables, stress on LA
+- Keep all Filipino vowels pure and short. Do NOT anglicize them.
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both are already in position from the very first frame — nobody walks into frame. Exactly two people are visible and no one else; do not duplicate or clone either character. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Anna sets the bag down on the sofa without taking her eyes off him.
+
+ANNA (S2), quiet, precise, speaks the VERY FIRST LINE: <d>[Tagalog] Pang-ópera 'yon ni Tátay.</d>
+
+Jun does not flinch and does not deny it. He shifts to reassurance, as if the problem is her worrying.
+
+JUN (S1), confident, reassuring: <d>[Tagalog] Babáwi ako. Malápit na.</d>
+
+Anna looks at the closed bedroom door at the back of the room, then back at him.
+
+ANNA (S2), flat: <d>[Tagalog] Malápit na?</d>
+
+overall_soundscape: Quiet family-home ambience in the evening, an electric fan, faint street noise and a distant tricycle. No narrator or voice-over. Only JUN and ANNA speak.
+
+non_diegetic_music: N/A
+
+=====
+
+8 | integrated_multimodal_description: [Shot 3] Photorealistic contemporary Filipino drama inside the living room of a modest Filipino family home in the evening, a small sofa, an electric fan, a closed bedroom door at the back of the room. Natural restrained acting, realistic Filipino family tension, believable behavior — nobody shouts.
+
+There are exactly two visible adult characters.
+
+CHARACTER A is JUN, a 29-year-old Filipino man in a plain faded t-shirt and shorts, slippers, completely relaxed, sitting sideways on the arm of the sofa with his phone in one hand, asking for something he expects to get.
+
+CHARACTER B is ANNA, a 32-year-old Filipina woman still in her office blouse with her work ID lanyard on and a bag over one shoulder, just arrived home, standing, tired.
+
+They are brother and older sister — Anna supports the household.
+
+Both characters are native Metro Manila Filipino speakers.
+They speak natural contemporary Tagalog with authentic Metro Manila Filipino pronunciation.
+Use clear Filipino vowels and natural Filipino rhythm.
+Do NOT use an American, English, Spanish, or other foreign accent when speaking Tagalog.
+Do NOT anglicize Filipino vowels.
+Accented vowels (á, í, ú, é, ó) mark WHICH SYLLABLE IS STRESSED. They are pronunciation guides only — never spell them out, never mention them, never read them aloud as separate sounds.
+Do NOT speak any pronunciation instructions aloud.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Preserve all Tagalog pronouns and verb forms exactly.
+Do NOT replace "mo" with "ko" or "ko" with "mo."
+Do NOT alter verb aspect.
+Never shorten standalone "ako" into "'ko."
+Natural vernacular contractions such as "'to," "'yan," and "'yon" are allowed.
+Do NOT paraphrase, normalize, or rewrite the dialogue.
+
+PRONUNCIATION LOCK:
+- ikáw = i-KAW, two syllables, stress on KAW
+- trabáho = tra-BA-ho, three syllables, stress on BA
+- kayá = ka-YA, two syllables, stress on YA
+- gágo = GA-go, two syllables, stress on GA — never "ga-GO"
+- maíngay = ma-I-ngay, three syllables, stress on the I; NG is one Filipino sound
+- alám = a-LAM, two syllables, stress on LAM
+- These pronunciation instructions are SILENT and must never be spoken aloud.
+
+The camera holds one continuous medium two-shot. Both are already in position from the very first frame — nobody walks into frame. Exactly two people are visible and no one else; do not duplicate or clone either character. Do NOT render any on-screen subtitles, captions, or burned-in text of any kind.
+
+Jun puts the phone down and explains it patiently, genuinely believing he is being reasonable.
+
+JUN (S1), patient, entitled, speaks the VERY FIRST LINE: <d>[Tagalog] Ikáw naman ang may trabáho. Kayá mo naman.</d>
+
+Anna does not raise her voice at all.
+
+ANNA (S2), quiet, final: <d>[Tagalog] Gágo ka.</d>
+
+Jun glances at the closed bedroom door, then lowers his voice — not ashamed, just practical, asking her to help him keep it quiet.
+
+JUN (S1), low, matter-of-fact: <d>[Tagalog] Wag kang maíngay. Hindi pa niya alám.</d>
+
+Hold on Anna's face. CUT ABRUPTLY.
+
+overall_soundscape: Quiet family-home ambience in the evening, an electric fan, faint street noise and a distant tricycle. No narrator or voice-over. Only JUN and ANNA speak. Abrupt audio cut at the end.
+
+non_diegetic_music: N/A

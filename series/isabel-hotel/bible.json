@@ -1,0 +1,387 @@
+{
+  "title": "TBD (working name: Isabel / Hotel Lobby)",
+  "format": "standalone single episode, ~74 seconds, 12 clips",
+  "logline": "A plainly-dressed woman is publicly humiliated by hotel staff who judge her by appearance. She makes one phone call. Within minutes the manager is fired in front of everyone, and she turns to the receptionist who started it.",
+  "independent": true,
+  "independence_note": "Completely unrelated to the Haggard Wife series - different character, different story, no shared plot. Protagonist deliberately renamed from Teresa to Isabel and given her own face reference so the two stories don't read as connected.",
+  "reference": "Structured after the opening hotel-lobby scene of Crazy Rich Asians: quiet classist humiliation, then total reversal once real status surfaces.",
+  "character_arc": "Restrained -> unleashed (NOT weak -> strong). Isabel stays polite while being publicly shamed; she never begs or gets flustered. The mask slips exactly once, privately, in the silent angst beat. Then it is gone and she is cold.",
+  "engine_settings": {
+    "engine": "h3",
+    "mode": "refs",
+    "width": 576,
+    "height": 1024,
+    "steps": 20,
+    "reuse": 2,
+    "layers": 50,
+    "note": "refs mode required for face consistency across 10 clips with 4 recurring characters; vpipe cannot do reference images."
+  },
+  "locations": {
+    "lobby": {
+      "reference_image": "inputs/hotel-lobby-ref.jpeg",
+      "seed": 510001,
+      "job_id": 725,
+      "description": "Upscale luxury hotel lobby at evening: polished marble floors, long reception desk with brass accents, warm ambient lighting, tall floral arrangement, high ceilings."
+    }
+  },
+  "characters": {
+    "Isabel": {
+      "role": "protagonist",
+      "age": 42,
+      "reference_image": "inputs/isabel-ref.jpeg",
+      "seed": 510002,
+      "job_id": 726,
+      "description": "Filipina woman in her early 40s, plain and completely unremarkable, no makeup, hair simply tied back, simple beige blouse and dark slacks, modest handbag. Deliberately ordinary-looking, NOT poor - the snobbery should read as 'you're ordinary', which is more relatable than 'you're destitute'.",
+      "quote_card_color": [
+        255,
+        138,
+        157,
+        255
+      ]
+    },
+    "Receptionist": {
+      "role": "first antagonist",
+      "age": 25,
+      "reference_image": "inputs/receptionist-ref.jpeg",
+      "seed": 510003,
+      "job_id": 727,
+      "description": "Filipina hotel receptionist, mid-20s, sleek dark hair in a tight bun, flawless makeup, crisp dark navy hotel uniform blazer with gold name tag, cool disdainful expression.",
+      "quote_card_color": [
+        200,
+        200,
+        210,
+        255
+      ]
+    },
+    "Manager": {
+      "role": "second antagonist",
+      "age": 38,
+      "reference_image": "inputs/hotel-manager-ref.jpeg",
+      "seed": 510004,
+      "job_id": 728,
+      "description": "Filipino hotel manager, late 30s, slicked-back dark hair, clean-shaven, expensive charcoal suit with hotel lapel pin, smug condescending expression.",
+      "quote_card_color": [
+        110,
+        180,
+        255,
+        255
+      ]
+    },
+    "Executive": {
+      "role": "the reversal - senior to the manager, deferential to Isabel",
+      "age": 55,
+      "reference_image": "inputs/hotel-executive-ref.jpeg",
+      "seed": 510005,
+      "job_id": 729,
+      "description": "Distinguished Filipino hotel executive, 50s, grey-streaked hair neatly combed, impeccable dark navy three-piece suit, serious authoritative expression.",
+      "quote_card_color": [
+        180,
+        200,
+        180,
+        255
+      ]
+    }
+  },
+  "script": [
+    {
+      "n": 1,
+      "beat": "Hook - public humiliation, already mid-conflict",
+      "frames": 192,
+      "dialogue": [
+        [
+          "Receptionist",
+          "Ma'am, sabi ko na po sa inyo — hindi po ito lugar para sa katulad niyo."
+        ],
+        [
+          "Isabel",
+          "May reservation po ako."
+        ]
+      ],
+      "staging_note": "Receptionist looks her up and down, loud enough that nearby guests turn. Public shame, not private rudeness."
+    },
+    {
+      "n": 2,
+      "beat": "Receptionist doubles down",
+      "frames": 192,
+      "dialogue": [
+        [
+          "Receptionist",
+          "Wala po kaming record. Puno na rin po kami."
+        ],
+        [
+          "Isabel",
+          "Pwede mo bang i-check ulit?"
+        ],
+        [
+          "Receptionist",
+          "Ma'am, alam ko po ang trabaho ko."
+        ]
+      ]
+    },
+    {
+      "n": 3,
+      "beat": "Manager arrives, openly contemptuous",
+      "frames": 175,
+      "dialogue": [
+        [
+          "Manager",
+          "May problema ba? Ma'am, tingnan mo nga ang suot mo. Umalis ka na bago ko tawagin ang security."
+        ]
+      ],
+      "staging_note": "Uses 'Ma'am' but informal 'mo/ka' - address without respect. He never says 'po' to Isabel, though he does to his boss in clip 8."
+    },
+    {
+      "n": 4,
+      "beat": "Angst beat - silent",
+      "frames": 107,
+      "dialogue": [],
+      "staging_note": "Isabel alone, no dialogue. The mask slips for one moment - she grips her bag, a flicker of real hurt - then she steadies and takes out her phone. This is the ONLY time she is vulnerable, and nobody sees it."
+    },
+    {
+      "n": 5,
+      "beat": "The call",
+      "frames": 124,
+      "dialogue": [
+        [
+          "Isabel",
+          "Nasa lobby ako. Punta ka dito."
+        ]
+      ],
+      "staging_note": "Quiet, commanding. No explanation, no threat, just an instruction."
+    },
+    {
+      "n": 6,
+      "beat": "Manager mocks the call - dramatic irony peak",
+      "frames": 141,
+      "dialogue": [
+        [
+          "Manager",
+          "Sino ba naman ang tatawagan mo? Walang makakatulong sa iyo dito."
+        ]
+      ],
+      "staging_note": "He mocks her for calling someone, seconds before that someone ends his career."
+    },
+    {
+      "n": 7,
+      "beat": "The turn",
+      "frames": 175,
+      "dialogue": [
+        [
+          "Executive",
+          "Ma'am Isabel! Pasensya na po, hindi namin alam na nandito na kayo."
+        ]
+      ],
+      "staging_note": "Shot 1: Executive rushes in, deferential to Isabel. Shot 2 (cut at 00:04.000): the manager's frozen face."
+    },
+    {
+      "n": 8,
+      "beat": "The payback",
+      "frames": 175,
+      "dialogue": [
+        [
+          "Executive",
+          "Kolektahin mo na ang gamit mo."
+        ],
+        [
+          "Manager",
+          "Sir, hindi ko po alam—"
+        ],
+        [
+          "Executive",
+          "Hindi mo nga alam. 'Yun ang problema."
+        ]
+      ],
+      "staging_note": "Executive + Manager only (Isabel out of frame) to respect the 2-visible-characters rule."
+    },
+    {
+      "n": 9,
+      "beat": "Vicious",
+      "frames": 141,
+      "dialogue": [
+        [
+          "Isabel",
+          "Hindi lang trabaho mo ang mawawala sa iyo."
+        ]
+      ],
+      "staging_note": "The manager grovels toward her; she finally looks at him."
+    },
+    {
+      "n": 10,
+      "beat": "Cliffhanger",
+      "frames": 124,
+      "dialogue": [
+        [
+          "Isabel",
+          "Ikaw naman."
+        ]
+      ],
+      "staging_note": "She turns to the receptionist, who thought she had been forgotten. Hard cut on the receptionist's face."
+    }
+  ],
+  "production_rules_inherited": [
+    "All dialogue written uncontracted ('sa iyo' not 'sa'yo') per the H3 Tagalog TTS contraction/pronunciation issue.",
+    "Max 2 visible characters per clip - staging already accounts for this.",
+    "Opening shot must stage characters already in position, no walking-in (retention lesson from Haggard Wife Ep1).",
+    "Every clip's prompt must include the anti-caption visual rule (no burned-in subtitles).",
+    "Explicit anti-duplication language in retention_analysis (phantom clone lesson).",
+    "Ownership/status never stated outright - the deference and the firing imply it."
+  ],
+  "status": "complete",
+  "clips": [
+    {
+      "n": 1,
+      "seed": 510122,
+      "job_id": 747,
+      "frames": 192,
+      "file": "outputs/gui-20260923-095430-seed510122.mp4",
+      "note": "2nd redo. First redo (510121) fixed the nameplate, the behind-counter staging and the tight framing, but rendered Isabel in a dark charcoal/black blouse instead of beige - a full garment change, not subtle drift. Colour now triple-locked: stated in subject_definitions with explicit negatives (NOT white/grey/charcoal/black/navy), restated in retention_analysis, and restated again in the shot description with a contrast cue against the receptionist navy uniform."
+    },
+    {
+      "n": 2,
+      "seed": 510102,
+      "job_id": 732,
+      "frames": 192,
+      "file": "outputs/gui-20260922-222250-seed510102.mp4"
+    },
+    {
+      "n": 3,
+      "seed": 510103,
+      "job_id": 733,
+      "frames": 175,
+      "file": "outputs/gui-20260922-222250-seed510103.mp4"
+    },
+    {
+      "n": 4,
+      "seed": 510104,
+      "job_id": 734,
+      "frames": 107,
+      "file": "outputs/gui-20260922-222251-seed510104.mp4"
+    },
+    {
+      "n": 5,
+      "seed": 510131,
+      "job_id": 748,
+      "frames": 124,
+      "file": "outputs/gui-20260923-110326-seed510131.mp4",
+      "note": "Redo of 510105. 'Nasa lobby ako' was slightly incomprehensible. Same line, new seed, plus the clear-articulation instruction and the no-food/no-dining-table rule."
+    },
+    {
+      "n": 6,
+      "seed": 510135,
+      "job_id": 753,
+      "frames": 141,
+      "file": "outputs/gui-20260923-132118-seed510135.mp4",
+      "note": "5th and final attempt. Line: \"Why are you still here? Hindi ka nga pwede dito. GET OUT!\" Taglish - English sentences spoken with a Tagalog accent for class contempt, tagged [Tagalog] so the English renders as Filipino English. v4 (same seed, same prompt except one word) mispronounced \"puwede\"; v5 changed ONLY that word to the contracted \"pwede\" and it rendered correctly. Single-variable test: seed held at 510135, distinguished by filename timestamp."
+    },
+    {
+      "n": 7,
+      "seed": 510107,
+      "job_id": 737,
+      "frames": 175,
+      "file": "outputs/gui-20260922-222252-seed510107.mp4"
+    },
+    {
+      "n": 8,
+      "seed": 510108,
+      "job_id": 738,
+      "frames": 175,
+      "file": "outputs/gui-20260922-222252-seed510108.mp4"
+    },
+    {
+      "n": 9,
+      "seed": 510109,
+      "job_id": 739,
+      "frames": 141,
+      "file": "outputs/gui-20260922-222253-seed510109.mp4"
+    },
+    {
+      "n": 10,
+      "seed": 510133,
+      "job_id": 750,
+      "frames": 141,
+      "file": "outputs/gui-20260923-110327-seed510133.mp4",
+      "note": "Redo of 510110. 'Ikaw naman.' was incomprehensible - too short for the TTS to carry. Line extended to 'At ngayon, ikaw naman.' at user request. Frames raised 124 -> 141 for the longer line."
+    },
+    {
+      "n": "2.5",
+      "seed": 510113,
+      "job_id": 745,
+      "frames": 107,
+      "file": "outputs/gui-20260923-072334-seed510113.mp4",
+      "note": "NEW arrival bridge v2 - manager emerges from the already-open back-office doorway behind the reception counter and moves toward camera to take his place at the desk. Restaged from a lobby-floor walk per user note that a manager would realistically come from the back office. Door specified as already open (nobody opens it) to avoid the door-operator phantom-duplicate failure mode seen on the Episode 1 gate clips. Counter specified as empty so the receptionist is not generated as a second character."
+    },
+    {
+      "n": "6.5",
+      "seed": 510112,
+      "job_id": 744,
+      "frames": 107,
+      "file": "outputs/gui-20260923-072158-seed510112.mp4",
+      "note": "NEW arrival bridge - executive strides in from the main entrance toward camera, grim and purposeful. Plays between clips 6 and 7 so the savior does not appear out of the blue."
+    }
+  ],
+  "script_file": "series/isabel-hotel/submit.py",
+  "audit_note": "Full audit against all 27 Haggard Wife production rules before submitting. Five fixes applied: (1) 'Yun -> Iyon (TTS contraction lesson), (2) added manager walking off at end of clip 3 to bridge into the solo angst beat in clip 4 (clip-to-clip bridging lesson), (3) removed \"hurries across the lobby\" from clip 7 summary to match the no-walking staging, (4) added no-artifacts + no-colour-drift language since the manager (charcoal) and executive (navy) wear similar dark suits, (5) added first-frame location lock to all ten clips, not just the three that had it.",
+  "final_assembly_order": [
+    1,
+    2,
+    "2.5",
+    3,
+    4,
+    5,
+    6,
+    "6.5",
+    7,
+    8,
+    9,
+    10
+  ],
+  "bridge_staging_note": "Both bridges use the only walking staging that has worked reliably in this project: camera already inside the destination space facing the direction the subject comes from, subject walking TOWARD camera and growing larger in frame. Sideways/away-from-camera motion is what caused the exiting-instead-of-entering failures on the Episode 1 gate and porch clips. Both solo (zero duplication risk), both silent, staged differently from each other (back-office vs main entrance, irritated vs grim) so they do not read as the same shot twice.",
+  "production_rules_learned_here": {
+    "in_world_text_props": {
+      "issue": "The standing anti-caption rule suppresses subtitle/overlay text but does NOT stop the model from generating readable text as a physical prop inside the scene - a desk nameplate reading \"ISABEL\" appeared in the hook clip, labelling the receptionist desk with the protagonist name and confusing who was who.",
+      "fix": "Extend the visual rule to forbid in-scene readable text explicitly: no desk nameplates, name signs, placards, printed signage, or legible lettering on badges and documents. State what the surface should hold instead (e.g. \"the counter is clear and bare apart from a computer monitor\").",
+      "how_to_apply": "Add this to the standard prompt template for any scene set somewhere signage would plausibly exist - hotel desks, offices, shopfronts, receptions. Higher risk wherever a character name could plausibly be printed on something."
+    },
+    "garment_colour_needs_triple_lock": {
+      "issue": "Stating a garment colour once in subject_definitions is not enough - a redo rendered the protagonist in a completely different colour (beige -> charcoal/black) even though the prompt said beige.",
+      "fix": "Lock the colour in three places: (1) subject_definitions with explicit NEGATIVES listing the colours it must not be, (2) retention_analysis restating it as a hard requirement, (3) the shot description itself, ideally with a contrast cue against another character garment in frame.",
+      "how_to_apply": "Use for any garment colour that actually matters to continuity, especially on redos."
+    },
+    "phantom_restaurant_props": {
+      "issue": "A lobby clip generated a table with a plated meal on it - the model drifted the upscale-hotel setting toward a hotel restaurant, because 'hotel' plus 'elegant seating' reads as dining.",
+      "fix": "Explicitly negate the dining set in any hotel/lobby/office clip: no food, no plates, no dishes, no trays, no cutlery, no dining table, and name what the space actually is ('a hotel reception lobby, not a restaurant').",
+      "how_to_apply": "Add to the standard visual rule for any hospitality location."
+    },
+    "two_word_lines_render_badly": {
+      "issue": "The closing line 'Ikaw naman.' (two short words alone in a clip) came out incomprehensible. The TTS has almost no context to work with on a very short isolated line, so prosody and vowels collapse.",
+      "fix": "Give a punch line at least four or five syllables of runway - e.g. 'At ngayon, ikaw naman.' Keep the punch word last; the lead-in carries the prosody.",
+      "how_to_apply": "Never ship a clip whose only dialogue is one or two short words. Extend with a natural lead-in phrase."
+    },
+    "articulation_note_plus_reroll": {
+      "issue": "Individual Tagalog words render slurred on some seeds ('tatawagan', 'nasa lobby ako'). Related to the contraction lesson but distinct - these words are already written uncontracted.",
+      "fix": "Two levers: (1) add an explicit clear-articulation instruction to the dialogue-preservation rule ('unhurried and distinctly enunciated, never mumbled, slurred or rushed'), and (2) reroll the seed. Where a different verb form is equally or more correct, switching it also changes the word shape and can clear the problem.",
+      "how_to_apply": "Standing addition to CRITICAL DIALOGUE PRESERVATION for all Tagalog clips.",
+      "superseded_note": "Partly wrong. The clear-articulation instruction is still worth keeping, but the 'reroll the seed / change the verb form' advice failed on this beat - see intervocalic_g_phantom_ng. Changing verb form made it worse."
+    },
+    "intervocalic_g_phantom_ng": {
+      "issue": "H3's Tagalog TTS inserts a phantom /ng/ into any word with a g between two vowels. 'tatawagan' rendered slurred; the 'fix' of switching to 'tinatawagan' rendered as 'tinatawaNGan' - worse, because the longer word gave it another medial syllable to fumble.",
+      "fix": "Systematic bias, not seed variance - rerolling does not help. Rewrite the line with no intervocalic g. A written 'ng' digraph (walang, nga, tutulong) is safe; only a bare g between vowels is the hazard. Known traps: ginagawa, tatawagan, tinatawagan, nababagay.",
+      "how_to_apply": "Regex-scan every Tagalog line for [aeiou]g[aeiou] before submitting and substitute a synonym.",
+      "DISPROVEN": "Wrong. The manager clip-3 line contains bago AND tawagin and renders correctly, and Umalis renders correctly there too. Do not treat observed mispronunciations as word-level rules."
+    },
+    "tts_failures_are_largely_random": {
+      "issue": "Two successive word-level theories (intervocalic g, then weak prosodic boundaries) were both built from 2-3 samples and both disproven by lines that had already rendered fine. Speech rate did not explain it either - the failing clip was slower than the working one.",
+      "fix": "Treat a bad render as bad luck first. Reroll before re-theorising. Keep verbatim any string that has rendered correctly. Where a beat keeps failing, switch that sentence to English.",
+      "how_to_apply": "Before writing any phonetic rule down, grep the ALREADY-GOOD lines for the same pattern. If they contain it, the theory is dead."
+    },
+    "taglish_for_elite_characters": {
+      "issue": "Repeated Tagalog TTS failures on one beat, plus a want for more class contempt from the manager.",
+      "fix": "Code-switch to English for the risky sentences. Authentic for upper-class Manila characters and it sidesteps the Tagalog TTS. Tag the line [Tagalog] rather than [Taglish] - the proven tag, and a Tagalog-voiced reading of English words yields Filipino-accented English, which is what is wanted.",
+      "how_to_apply": "State the accent explicitly in the delivery note: Filipino English, educated Manila professional, NOT American or neutral international."
+    }
+  },
+  "final_file": "series/isabel-hotel/isabel_final.mp4",
+  "final_duration_s": 74.11,
+  "final_assembly_note": "Rebuilt 2026-09-23 13:47. Five redos total: row 1 (510122), row 6 call (510131), row 7 mock v5 Taglish (510135 @132118), row 12 closer (510133). NOTE: two files carry seed 510135 - the GOOD take is the 132118 timestamp, the 125204 one mispronounced puwede and is discarded.",
+  "final_frames": 1777
+}

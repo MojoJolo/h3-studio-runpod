@@ -1,0 +1,152 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary social drama outside the covered entrance of an upscale luxury hotel in a major international city during the evening. Elegant glass entrance, polished stone driveway, luxury vehicles parked nearby, warm architectural lighting. Natural restrained acting, believable class tension, no exaggerated comedy.
+
+There are exactly two visible adult characters.
+
+DANIEL is a 42-year-old Black man with dark brown skin, short neatly trimmed black hair, clean-shaven, wearing a simple dark polo shirt, fitted chinos, clean sneakers, and a modest watch. He is casually dressed, calm, and self-assured.
+
+VICTORIA is a 55-year-old wealthy white woman with fair skin, carefully styled blonde hair, elegant mature features, wearing an expensive cream blazer, silk blouse, tailored trousers, designer heels, gold jewelry, and carrying a luxury handbag. She is impatient, entitled, and accustomed to being served.
+
+A dark luxury sedan belonging to Victoria is parked nearby. A much more expensive luxury sports car is also visible several meters away.
+
+Both speak natural conversational English.
+
+CRITICAL POSITION LOCK:
+DANIEL is STANDING near the hotel entrance, waiting calmly.
+
+VICTORIA walks directly toward Daniel.
+
+Daniel is NOT wearing a valet uniform.
+Daniel has NO employee badge.
+Daniel is clearly dressed as an ordinary hotel guest.
+
+Neither character enters a vehicle during this clip.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT paraphrase, soften, or rewrite the dialogue.
+
+IMPORTANT EYELINE LOCK:
+Victoria and Daniel look directly at each other's faces while speaking.
+Neither character looks into the camera.
+
+[0.0–0.3s] Start immediately with Victoria walking up to Daniel and holding out her car keys toward him without greeting him.
+
+[0.3–2.1s] Victoria says impatiently (S2): <d>[English] Park it up front. And don't scratch it.</d>
+
+[2.1–3.3s] Daniel looks at the keys, then at Victoria, confused.
+
+[3.3–4.8s] Daniel replies calmly (S1): <d>[English] I'm not the valet.</d>
+
+[4.8–6.2s] Victoria looks him up and down.
+
+[6.2–8.0s] Victoria replies dismissively (S2): <d>[English] Then why are you standing out here?</d>
+
+Speaker lock: Only Daniel speaks S1. Only Victoria speaks S2. Never swap dialogue, voices, lip movements, positions, or eyelines.
+
+Camera: Single continuous medium two-shot from a slight side angle. Keep both characters standing face-to-face with the luxury hotel entrance and vehicles visible behind them. No cuts.
+
+overall_soundscape: Upscale hotel entrance ambience, distant traffic, occasional vehicle engines, faint lobby activity, natural English dialogue.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately outside the exact same luxury hotel entrance with the same characters, lighting, wardrobe, and vehicles. Victoria becomes more condescending instead of admitting her mistake. Daniel remains calm.
+
+There are exactly two visible adult characters.
+
+DANIEL is the same 42-year-old casually dressed Black man.
+
+VICTORIA is the same 55-year-old wealthy woman wearing the same cream blazer, silk blouse, jewelry, heels, and luxury handbag.
+
+CRITICAL POSITION CONTINUITY:
+Daniel remains standing near the hotel entrance.
+Victoria remains directly in front of him.
+Neither enters a vehicle yet.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT paraphrase, soften, or rewrite the dialogue.
+
+[0.0–1.8s] Daniel calmly answers (S1): <d>[English] I'm waiting for my car.</d>
+
+[1.8–3.0s] Victoria gives a skeptical little laugh.
+
+[3.0–5.1s] Victoria replies (S2): <d>[English] At a hotel like this?</d>
+
+[5.1–6.3s] Daniel looks at her, understanding exactly what she means.
+
+[6.3–8.0s] Victoria adds (S2): <d>[English] Sure you are.</d>
+
+Speaker lock: Only Daniel speaks S1. Only Victoria speaks S2. Never swap dialogue, voices, lip movements, positions, or eyelines.
+
+Camera: Single continuous medium close two-shot. Keep both characters face-to-face. No cuts.
+
+overall_soundscape: Same hotel entrance ambience, distant traffic and vehicle noise, natural English dialogue.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately outside the same luxury hotel entrance. Daniel quietly proves Victoria's assumption wrong without becoming smug or theatrical.
+
+There are exactly two visible adult characters.
+
+DANIEL is the same 42-year-old casually dressed Black man.
+
+VICTORIA is the same 55-year-old wealthy woman.
+
+A high-end luxury sports car remains visible several meters behind Victoria.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT paraphrase, soften, or rewrite the dialogue.
+
+[0.0–1.3s] Daniel quietly takes a luxury key fob from his pocket.
+
+[1.3–2.7s] He presses the unlock button.
+
+[2.7–3.8s] The expensive sports car behind Victoria flashes its headlights and unlocks with a subtle electronic chirp.
+
+[3.8–5.1s] Victoria slowly turns toward the sports car, then back toward Daniel.
+
+[5.1–6.5s] Daniel says calmly (S1): <d>[English] That's mine.</d>
+
+[6.5–7.4s] Victoria's confident expression collapses.
+
+[7.4–8.0s] Daniel adds matter-of-factly (S1): <d>[English] You should find the valet.</d>
+
+CUT IMMEDIATELY.
+
+Do not add applause.
+Do not add another valet.
+Do not make Daniel smug or boastful.
+Do not make Victoria excessively shocked or comedic.
+The quiet visual reversal is the payoff.
+End immediately after "You should find the valet."
+
+Speaker lock: Only Daniel speaks S1. Victoria does not speak in the final clip. Never swap lip movements or eyelines.
+
+Camera: Single continuous medium-wide two-shot. Keep Daniel, Victoria, and the luxury sports car visible enough for the unlock reaction to be clear. No cuts until the abrupt ending.
+
+overall_soundscape: Same hotel entrance ambience, subtle electronic car-unlock chirp, distant traffic, natural English dialogue. Abrupt audio cut after Daniel's final line.
+
+non_diegetic_music: None.

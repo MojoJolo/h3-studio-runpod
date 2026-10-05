@@ -1,0 +1,163 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary drama inside an independent auto repair shop in the daytime. Natural light through the open garage bay door, a car with its hood raised on a lift behind them, a rolling tool chest out of focus, light grease staining the concrete floor. Grounded realistic acting, no theatricality.
+
+There are exactly two visible adult characters.
+
+RICHARD is a 54-year-old man with fair skin, grey-flecked dark hair, polished and composed, wearing a quarter-zip navy pullover over a collared shirt and pressed trousers, an expensive watch on his wrist. He genuinely believes he is being realistic, not cruel. He is STANDING just inside the garage bay.
+
+TAYLOR is a 31-year-old woman with medium skin, dark hair tied back in a low bun, wearing navy mechanic coveralls unzipped over a plain t-shirt, a faint grease smudge on one forearm, a shop rag in her hand. She is calm and completely unbothered. She is STANDING beside the car's raised hood.
+
+Do NOT show another character, and do not show any other mechanic or customer in the background.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Taylor's line must be delivered as a genuine, unhurried question, not a defensive one — slow, one beat between "Why do you think" and "I'm not qualified."
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible tool labels, no readable signage, no legible lettering on the tool chest or the car.
+
+IMPORTANT EYELINE LOCK:
+Richard and Taylor face each other at a natural three-quarter angle. They speak directly to each other's faces. Neither character looks toward or acknowledges the camera. The camera sits at a 30-40 degree side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Richard and Taylor remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.4s] Start immediately mid-scene. Taylor is already standing beside the raised hood, already wiping her hands with the shop rag, mid-task. Richard is already standing just inside the bay, watching her with open skepticism.
+
+[0.4-3.2s] Richard, blunt, dismissive, as if stating the obvious, speaks the VERY FIRST LINE (S1): <d>[English] Can you get me a man who actually knows cars?</d>
+
+[3.2-3.8s] Taylor stops wiping her hands and looks at him, calm, unhurried, not offended.
+
+[3.8-8.0s] Taylor, calm, genuinely asking, one deliberate beat mid-line (S2): <d>[English] Why do you think I'm not qualified?</d>
+
+Speaker lock: Only Richard, the man in the navy pullover, speaks S1. Only Taylor, the woman in the mechanic coveralls, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Taylor's lips stay completely closed while Richard speaks, and Richard's lips stay completely closed while Taylor speaks.
+
+Camera: Single continuous medium two-shot from a 30-40 degree side angle, both figures fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet daytime garage ambience, a distant air compressor cycling once, a faint radio murmur too low to make out words, fabric rustle as the rag moves across her hands. No narrator or voice-over. Only Richard and Taylor speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same auto repair shop, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting.
+
+There are exactly two visible adult characters.
+
+RICHARD is the same 54-year-old man with grey-flecked dark hair, in the same navy pullover, still STANDING just inside the garage bay. He is not angry, just certain he is right.
+
+TAYLOR is the same 31-year-old woman with dark hair in a low bun, in the same mechanic coveralls, still STANDING beside the raised hood, rag in hand. She remains completely calm and does not defend herself.
+
+Do NOT show another character or any other mechanic or customer.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Only Richard speaks in this clip. Taylor does not reply verbally at any point — her only response is staying calm and waiting him out. Do not invent a line for her.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself.
+
+IMPORTANT EYELINE LOCK:
+Richard and Taylor face each other at a natural three-quarter angle. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Richard and Taylor remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.3s] Continue mid-scene with no pause or reset. Taylor stays calm, rag still in hand, unbothered.
+
+[0.3-3.5s] Richard, doubling down, speaks the VERY FIRST LINE (S1): <d>[English] I've owned cars like this longer than you've worked here.</d>
+
+[3.5-4.3s] Taylor does not react. She waits, saying nothing, holding his gaze.
+
+[4.3-8.0s] Richard, flatter now, making a demand (S1): <d>[English] Just get me someone who's actually certified.</d>
+
+Speaker lock: Only Richard, the man in the navy pullover, speaks S1. Taylor does not speak in this clip; her lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet daytime garage ambience, distant air compressor, faint radio murmur. No narrator or voice-over. Only Richard speaks.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same auto repair shop, identical lighting, identical framing, identical wardrobe and identical standing positions. Photorealistic contemporary drama. Grounded realistic acting. This shot ends on Richard's silence and cuts on it.
+
+There are exactly two visible adult characters.
+
+RICHARD is the same 54-year-old man with grey-flecked dark hair, in the same navy pullover, still STANDING just inside the garage bay.
+
+TAYLOR is the same 31-year-old woman with dark hair in a low bun, in the same mechanic coveralls, still STANDING beside the raised hood at the start of this shot.
+
+Do NOT show another character or any other mechanic or customer, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: Taylor speaks all three lines in this clip, each one flat and matter-of-fact, with no triumph, no smile, and no raised voice. A short, genuine silent beat separates each of her three lines — they are not rushed together.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible certificates, no readable signage, no legible lettering anywhere.
+
+IMPORTANT EYELINE LOCK:
+Richard and Taylor face each other at a natural three-quarter angle. Neither character looks toward or acknowledges the camera. The camera stays at the same side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Both Richard and Taylor remain STANDING for the entire shot, at the same height, framed with equal weight. Neither is positioned above or below the other.
+
+[0.0-0.5s] Continue mid-scene with no pause or reset. Taylor sets the rag down on the car's fender, wipes her hand once more, and steps fully toward him, unhurried and completely calm. This physical gesture happens before she speaks.
+
+[0.5-2.9s] Taylor, flat, matter-of-fact, speaks the VERY FIRST LINE (S2): <d>[English] I rebuilt this engine last year.</d>
+
+[2.9-3.1s] A short beat. Richard says nothing yet.
+
+[3.1-4.9s] Taylor, same calm register, no triumph (S2): <d>[English] I'm the master technician.</d>
+
+[4.9-5.1s] A short beat.
+
+[5.1-7.4s] Taylor, plain, without emphasis (S2): <d>[English] And I own this shop.</d>
+
+[7.4-8.0s] Richard says nothing, stunned, staring at her. HARD CUT on his silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Richard answer, apologise, or reply after Taylor's final line.
+Do not resolve it with a threat, a firing, or a demand for a refund — the fact is enough.
+Do not show any other mechanic, customer, or bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Taylor smirk, gloat, or look triumphant — calm and matter-of-fact only.
+Do not have Richard walk out of frame.
+Do not fade out.
+
+Speaker lock: Only Taylor, the woman in the mechanic coveralls, speaks S2 in this clip. Richard does not speak; his lips stay completely closed throughout. Never swap dialogue, voices, lip movements, or eyelines.
+
+Camera: Single continuous medium two-shot from the same side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet daytime garage ambience, distant air compressor, the rag set down on metal, footsteps on concrete as she steps toward him, falling to near silence under her final line. No narrator or voice-over. Only Taylor speaks.
+
+non_diegetic_music: None.

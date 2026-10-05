@@ -1,0 +1,171 @@
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Photorealistic contemporary workplace drama inside a modern open-plan office near the end of the workday. Low warm late-afternoon light through blinds, most surrounding desks empty and unoccupied, a laptop open on the desk. Grounded restrained acting, a serious but controlled professional disagreement. Neither character shouts at any point.
+
+There are exactly two visible adult characters.
+
+RACHEL is a 38-year-old woman with fair-medium skin, dark hair in a neat low ponytail, wearing a tailored blazer over a plain blouse. She is the team manager: calm, demanding, but not cruel. She is STANDING beside Noah's desk, a phone held in one hand at her side.
+
+NOAH is a 29-year-old man with fair-medium skin, short dark brown hair, light stubble, wearing a plain shirt with the sleeves rolled. He is a high-performing employee, firm about his boundaries and not defensive. He is SEATED at his desk, turned in his chair to face her.
+
+They are manager and employee.
+
+The client is mentioned but is NOT visible. Do NOT show another character, and do not show any other colleague at a nearby desk.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The time in Noah's line is "nine-thirty" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible text on the laptop screen, no readable documents, no signage, no legible lettering on badges, mugs, or whiteboards. Screens are dim, angled away, or out of focus.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera sits at a slight side angle, not directly in front of either character. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Rachel remains STANDING and Noah remains SEATED for the entire shot. Noah does not stand up and Rachel does not sit down or crouch. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Start immediately mid-conversation. No greeting, no setup, nobody walking into frame.
+
+[0.4-2.8s] Rachel, calm and matter-of-fact, speaks the VERY FIRST LINE (S1): <d>[English] You ignored my message last night.</d>
+
+[2.8-4.0s] Noah turns away from his screen to face her properly, unhurried. He does not look guilty.
+
+[4.0-7.0s] Noah, level and polite, not defensive (S2): <d>[English] It came in at nine-thirty. I was off work.</d>
+
+[7.0-8.0s] Rachel holds his gaze without answering.
+
+Speaker lock: Only Rachel, the standing woman in the blazer, speaks S1. Only Noah, the seated man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from a slight side angle, framed to keep the standing and seated figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Quiet end-of-day office room tone, a distant air-conditioning hum, a far-off printer cycling once, a chair creaking as he turns. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern open-plan office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. Neither character shouts.
+
+There are exactly two visible adult characters.
+
+RACHEL is the same 38-year-old team manager with dark hair in a neat low ponytail, in the same tailored blazer over a plain blouse, still STANDING beside Noah's desk. She stays composed throughout.
+
+NOAH is the same 29-year-old employee with short dark brown hair and light stubble, in the same plain rolled-sleeve shirt, still SEATED at his desk facing her.
+
+They are manager and employee.
+
+The client is mentioned but is NOT visible. Do NOT show another character or any other colleague.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The time in Noah's line is "nine-thirty" and must be clearly audible.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible text on the laptop screen, no readable documents, no signage. Screens are dim, angled away, or out of focus.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Rachel remains STANDING and Noah remains SEATED for the entire shot. Noah does not stand up and Rachel does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-3.6s] Rachel, reasonable and unhurried, not accusing him, speaks the VERY FIRST LINE (S1): <d>[English] It was urgent. The client needed an answer.</d>
+
+[3.6-4.2s] Noah does not look away. He takes the point seriously.
+
+[4.2-7.8s] Noah, quiet and precise, no edge in his voice (S2): <d>[English] Then the company needs someone scheduled to work at nine-thirty.</d>
+
+[7.8-8.0s] Rachel takes that in without replying.
+
+Speaker lock: Only Rachel, the standing woman in the blazer, speaks S1. Only Noah, the seated man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, keeping the standing and seated figures both fully visible. Static with very subtle handheld realism. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.
+
+=====
+
+8 | integrated_multimodal_description: [Single continuous 8-second shot] Continue immediately in the exact same modern open-plan office, identical lighting, identical framing, identical wardrobe and identical positions. Photorealistic contemporary workplace drama. Grounded restrained acting. This shot ends on Rachel having no answer and cuts on it.
+
+There are exactly two visible adult characters.
+
+RACHEL is the same 38-year-old team manager with dark hair in a neat low ponytail, in the same tailored blazer over a plain blouse, still STANDING beside Noah's desk.
+
+NOAH is the same 29-year-old employee with short dark brown hair and light stubble, in the same plain rolled-sleeve shirt, still SEATED at his desk facing her.
+
+They are manager and employee.
+
+Do NOT show another character, the client, or any other colleague, and do not cut away to anyone else.
+
+Both speak natural conversational English in a neutral international accent, clearly articulated and easy to understand for a global audience.
+
+CRITICAL AUDIO RULE:
+There is NO narrator.
+There is NO voice-over.
+ONLY dialogue written inside <d>...</d> may be spoken aloud, by the two visible characters.
+Everything outside <d>...</d> is SILENT visual direction only.
+
+CRITICAL DIALOGUE PRESERVATION:
+Speak every <d> line EXACTLY as written.
+Do NOT swap pronouns. Do NOT alter verb tense. Do NOT paraphrase, soften, or rewrite the dialogue.
+IMPORTANT: The phrase in Noah's final line is "twenty-four-hour shift" and every word of it must be clearly audible. The contrast between "senior role" and "senior salary" must be preserved exactly and not swapped.
+
+CRITICAL VISUAL RULE:
+Do NOT render any on-screen subtitles, captions, text overlays, watermarks, or burned-in text of any kind anywhere in the frame. Do NOT render any readable text inside the scene itself — no legible text on the laptop screen, no readable documents, no signage. Screens are dim, angled away, or out of focus.
+
+IMPORTANT EYELINE LOCK:
+Rachel and Noah look directly at each other's faces while speaking. Neither character looks toward or acknowledges the camera. The camera stays at the same slight side angle. No fourth-wall breaking.
+
+IMPORTANT FRAMING RULE:
+Rachel remains STANDING and Noah remains SEATED for the entire shot. Noah does not stand up and Rachel does not sit down. Both faces stay clearly visible in frame throughout.
+
+[0.0-0.4s] Continue mid-conversation with no pause or reset.
+
+[0.4-1.2s] Rachel pauses, then answers evenly rather than escalating.
+
+[1.2-3.4s] Rachel, calm and even (S1): <d>[English] You also want the senior role.</d>
+
+[3.4-4.2s] Noah looks at her steadily. He does not raise his voice.
+
+[4.2-7.4s] Noah, quiet, flat, not triumphant (S2): <d>[English] I want the senior salary. Not a twenty-four-hour shift.</d>
+
+[7.4-8.0s] Rachel says nothing. She has no answer. HARD CUT on her silence.
+
+CUT IMMEDIATELY at 8.0 seconds.
+
+Do not let Rachel answer, concede, or reply after Noah's final line.
+Do not resolve the disagreement, do not have either character apologise, and do not have them shake hands or soften.
+Do not show the client, any other colleague, or any bystander at any point.
+Do not add applause, laughter, or a reaction from off screen.
+Do not let Noah smirk, gloat, or look triumphant — he is stating a position, not winning.
+Do not have Noah stand up.
+Do not fade out.
+
+Speaker lock: Only Rachel, the standing woman in the blazer, speaks S1. Only Noah, the seated man in the rolled-sleeve shirt, speaks S2. Never swap dialogue, voices, lip movements, or eyelines. Noah's lips stay completely closed while Rachel speaks, and Rachel's lips stay completely closed while Noah speaks.
+
+Camera: Single continuous medium two-shot from the same slight side angle, pushing in with small amplitude at slow speed across the shot to finish slightly closer on both faces. No cuts.
+
+overall_soundscape: Same quiet end-of-day office room tone, distant air-conditioning hum, falling to near silence under the final line. No narrator or voice-over. Only Rachel and Noah speak.
+
+non_diegetic_music: None.
