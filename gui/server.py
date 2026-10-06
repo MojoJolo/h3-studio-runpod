@@ -148,6 +148,7 @@ H3_AUTO_PARAMS = dict(AUTO_PARAMS, steps=20, layers=50)
 AUTO_CLIP_FRAMES = 192  # 8s @ 24fps — fallback duration for a script block that
                          # omits its own "N |" prefix
 AUTO_CLAUDE_TIMEOUT_S = 300
+AUTO_CLAUDE_STOP_PCT = 90  # plan usage (5-hour or weekly) at which Auto stops and the GPU shuts down
 AUTO_USED_TOPICS_PATH = os.path.join(GUI_DIR, "auto_used_topics.json")  # survives restarts
 AUTO_AVOID_HOOKS = 150  # how many past opening lines Claude is told not to repeat
 DIALOGUE_RE = re.compile(r"<d>\s*(?:\[[^\]]*\]\s*)?(.*?)</d>", re.S)
@@ -699,6 +700,10 @@ class JobRunner:
             for j in list(self.pending):
                 if j["id"] == job_id:
                     self.pending.remove(j)
+                    # A removed sequence clip ends its sequence; otherwise the
+                    # entry lingers and AutoLoop waits on it forever.
+                    if j.get("seq_id") is not None:
+                        self.sequences.pop(j["seq_id"], None)
                     result = "removed"
                     break
             else:
@@ -960,6 +965,8 @@ class AutoLoop:
         self.prefetched = None
         self.prefetch_state = None
         self.prefetch_thread = None
+        self.claude_usage = {}  # rateLimitType -> {pct, resets_at, status, at}, see _note_rate_limit
+        self.gpu_stop_pending = False
         self._load_config()
         self.thread = threading.Thread(target=self._loop, daemon=True)
         self.thread.start()
@@ -1123,6 +1130,8 @@ class AutoLoop:
                 "last_script": self.last_script, "phase": self.phase,
                 "current_topic": self.current_topic, "next_run_at": self.next_run_at,
                 "prefetch": self.prefetch_state, "current_profile": getattr(self, "current_profile", None),
+                "claude_usage": dict(self.claude_usage), "claude_stop_pct": AUTO_CLAUDE_STOP_PCT,
+                "gpu_stop_pending": self.gpu_stop_pending,
                 "config": {"active_profile": self.active_profile, "engine": self.engine,
                            "cooldown_s": self.cooldown_s, "rotation": self.rotation,
                            "profiles": self.profiles},
@@ -1145,6 +1154,7 @@ class AutoLoop:
                     raise ValueError(f"no prompt text saved for '{pid}' — "
                                       f"set one via /api/auto/config first")
             self.running = True
+            self.gpu_stop_pending = False
             self.next_run_at = now_ms()
 
     def stop(self):
@@ -1155,24 +1165,80 @@ class AutoLoop:
     def _run_claude(self, prompt):
         try:
             r = subprocess.run(
-                [CLAUDE_BIN, "-p", prompt, "--output-format", "json", "--permission-mode", "dontAsk",
-                 "--model", CLAUDE_MODEL],
+                # stream-json (not json) so the rate_limit_event messages come
+                # through too: they carry the plan's usage, see _note_rate_limit.
+                [CLAUDE_BIN, "-p", prompt, "--output-format", "stream-json", "--verbose",
+                 "--permission-mode", "dontAsk", "--model", CLAUDE_MODEL],
                 cwd=H3_ROOT, capture_output=True, timeout=AUTO_CLAUDE_TIMEOUT_S,
             )
         except subprocess.TimeoutExpired:
             return None, "claude CLI timed out"
         except Exception as exc:
             return None, f"failed to launch claude: {exc}"
-        try:
-            data = json.loads(r.stdout.decode("utf-8", "replace"))
-        except ValueError:
-            return None, f"claude CLI produced non-JSON output: {r.stdout[:300]!r}"
+        data = None
+        for line in r.stdout.decode("utf-8", "replace").splitlines():
+            try:
+                msg = json.loads(line)
+            except ValueError:
+                continue
+            if not isinstance(msg, dict):
+                continue
+            if msg.get("type") == "rate_limit_event":
+                self._note_rate_limit(msg.get("rate_limit_info") or {})
+            elif msg.get("type") == "result":
+                data = msg
+        if data is None:
+            return None, f"claude CLI produced no result message: {r.stdout[-300:]!r}"
         if data.get("is_error"):
-            return None, f"claude CLI reported an error: {data.get('result') or data}"
+            err = str(data.get("result") or data)
+            if any(k in err.lower() for k in ("session limit", "usage limit", "weekly limit", "hit your")):
+                self._note_rate_limit({"status": "rejected", "rateLimitType": "limit-error"})
+            return None, f"claude CLI reported an error: {err}"
         result = data.get("result")
         if not result:
             return None, "claude CLI returned no result text"
         return result, None
+
+    def _note_rate_limit(self, info):
+        """Record the plan's usage from a rate_limit_event. Utilization comes
+        as a 0-1 fraction (treated as a percentage if > 1); a rejected status
+        counts as 100%. At AUTO_CLAUDE_STOP_PCT or more, Auto stops writing
+        and the GPU is shut down once the episode in flight finishes."""
+        util = info.get("utilization")
+        pct = None
+        if isinstance(util, (int, float)):
+            pct = util * 100 if util <= 1 else float(util)
+        if info.get("status") == "rejected":
+            pct = 100.0
+        if pct is None:
+            return
+        kind = info.get("rateLimitType") or "unknown"
+        with self.lock:
+            self.claude_usage[kind] = {"pct": round(pct, 1), "resets_at": info.get("resetsAt"),
+                                       "status": info.get("status"), "at": now_ms()}
+            trip = pct >= AUTO_CLAUDE_STOP_PCT and self.running
+            if trip:
+                self.running = False
+                self.next_run_at = None
+                self.gpu_stop_pending = True
+        if trip:
+            print(f"AutoLoop: Claude usage {kind} at {pct:.0f}% (>= {AUTO_CLAUDE_STOP_PCT}%), "
+                  f"stopping Auto; GPU stops once the current episode finishes", flush=True)
+
+    def _gpu_stop_when_idle(self):
+        """The GPU half of the Claude-usage stop: wait for the queue (and any
+        sequence mid-chain) to drain, then stop the pod."""
+        with self.lock:
+            if not self.gpu_stop_pending:
+                return
+        q = self.runner.snapshot()
+        if q["current"] or q["pending"] or self.runner.sequences:
+            return
+        with self.lock:
+            self.gpu_stop_pending = False
+        if GPU.snapshot()["state"] not in ("off", "stopping"):
+            print("AutoLoop: queue empty after the Claude-usage stop, stopping the GPU", flush=True)
+            GPU.stop()
 
     def _add_caption(self, script_text, min_history_id):
         """Post-process step: ask Claude for a short Snapchat-style caption
@@ -1293,6 +1359,11 @@ class AutoLoop:
                     self.phase = None
                 return failure
         with self.lock:
+            if not self.running:
+                # Stopped while the script was being written (e.g. the
+                # Claude-usage stop): don't start another episode.
+                self.phase = None
+                return "stopped", None
             self.current_topic = script["topic"]
             self.current_profile = script["profile"]
             self.last_script = script["text"]
@@ -1337,6 +1408,7 @@ class AutoLoop:
                 self.stop()
                 running = False
             if not running:
+                self._gpu_stop_when_idle()
                 time.sleep(1)
                 continue
             status, detail = self._run_cycle()

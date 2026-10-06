@@ -738,6 +738,8 @@ Time / numbers: isá = i-SA · isáng = i-SANG · dalawá = da-la-WA · tatlóng
 
 Describing: malakí = ma-la-KI · magandá = ma-gan-DA · matalíno = ma-ta-LI-no · matandâ = ma-tan-DA (ends with a quick glottal stop) · batà = BA-ta (ends with a quick glottal stop) · págod = PA-god · parého = pa-RE-ho · ibá = i-BA · bágay = BA-gay
 
+Vices / popular topics (user-verified 2026-10-06): sábong = SA-bong (cockfighting; stress on the FIRST syllable, never sa-BONG). Sabong is a popular topic, so always lock it when it's spoken.
+
 Verbs / other: gágawin = GA-ga-win (stress on the FIRST syllable, user-verified) · kailángan = ka-i-LA-ngan · sinasábi = si-na-SA-bi · matúlog = ma-TU-log · alága = a-LA-ga · kilála = ki-LA-la · huwág = hu-WAG · kahít = ka-HIT · likód = li-KOD · kasál = ka-SAL · buntís = bun-TIS · ákin = A-kin · kasáma = ka-SA-ma · saán = sa-AN · gágo = GA-go
 
 Leave UNMARKED (user's call): ulit · tanga · siyempre · ibig
