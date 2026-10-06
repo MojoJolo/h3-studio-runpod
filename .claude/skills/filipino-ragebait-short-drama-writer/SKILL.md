@@ -321,6 +321,9 @@ Do not merely recycle the same relationship with renamed characters.
 
 Change the emotional mechanism.
 
+**Data-backed pillars and mix (2026-10-06):** see §30.3. It sets the 5 proven pillars
+and a target mix per 20 videos, and refines the categories above.
+
 ---
 
 # 8. ABSURD-BUT-PLAUSIBLE TEST
@@ -1089,7 +1092,8 @@ Continuity instructions must be redundant on purpose.
 When asked for a new script:
 
 STEP 1:
-Choose one emotionally provocative conflict.
+Choose one emotionally provocative conflict from a proven pillar (§30.3), then run the
+first-line, conflict (3 of 5) and retention gates in §30.7 before writing.
 
 STEP 2:
 Create the strongest possible FIRST spoken line.
@@ -1268,3 +1272,198 @@ Avoid:
 Do not resolve the conflict unless explicitly requested.
 
 The ideal ending leaves the viewer angry, shocked, or arguing in the comments.
+
+---
+
+# 30. FB PAGE DATA: TOPIC STRATEGY (added 2026-10-06)
+
+> **Additive learning from real FB page data (~100 analyzed Reels).** Nothing above is
+> replaced. Where this section is more specific, it refines the earlier rules.
+> The worked examples here (the bonus for the unemployed brother, etc.) are
+> **already-produced videos**. Use the pattern, never the specific lines or setting.
+
+## 30.1 What the data says
+
+Retention benchmarks:
+
+| Retention | Meaning |
+|---|---|
+| < 50% | weak |
+| 50–60% | ordinary (page average ~61%, median ~60%) |
+| 60–70% | healthy (21–24s Reels median ~64–65%) |
+| 70–80% | very good |
+| 80%+ | breakout signal (10k+ view videos average ~81%, median ~82%) |
+| 90%+ | exceptional |
+| 100%+ | replay/loop behavior |
+
+For a 24s video: 60% = 14.4s, 70% = 16.8s, 80% = 19.2s, 90% = 21.6s.
+
+**Goal:** raise the baseline from ~60–65% toward 70% AND produce more 80%+ outliers.
+Not every video needs to hit 80%.
+
+**Views are extremely concentrated:** top 1 post = ~24% of all views, top 3 = ~53%,
+top 5 = ~67%, top 10 = ~78%. The page already has multiple million-view breakouts, so
+the format is repeatable. **Optimize for many strong attempts that could each break
+out**, not for every video being moderately OK.
+
+**Priority: RETENTION FIRST.** Not likes, hashtags, complex storytelling or pretty
+dialogue. A good creative decision is one that makes viewers need the next line.
+
+**Length:** 21–24s (3 × ~8s clips) performed best. Longer (30/40/60s) generally did
+worse. Don't stretch a simple story.
+
+## 30.2 The content formula
+
+**VICTIM + ENTITLED PERSON + OBVIOUS INJUSTICE + SHAMELESS JUSTIFICATION + WORSE REVEAL**
+
+Maps onto the 3 clips as **Bad → Worse → Unbelievable** (never Bad → explanation → resolution):
+
+- **Clip 1 OUTRAGE:** the unacceptable situation in the first line. No greeting, no setup.
+  The viewer must understand the core injustice within **~1–2 seconds**.
+- **Clip 2 SHAMELESS JUSTIFICATION:** the entitled person explains, and the logic makes it worse.
+- **Clip 3 WORSE REVEAL / FINAL INSULT:** something changes the conflict again. Hard cut.
+  The target reaction is "WHAT?!", not closure.
+
+Target viewer reaction sequence: *"Grabe naman 'yan."* → *"WAIT, MAS MALALA PA?!"* →
+*"Hindi ako papayag diyan."* → opens the comments.
+
+## 30.3 Topic pillars and mix
+
+Per every **20 videos**, aim for roughly:
+
+| # | Pillar | Share | Emotional engine |
+|---|---|---|---|
+| 7 | **Family betrayal + taboo relationships** | 30–35% | "This person should have been SAFE." |
+| 6 | **Money + family entitlement** | 25–30% | "Your money apparently belongs to the whole family." |
+| 3 | **Cheating + an extra humiliation** | 15–20% | Cheating is the start of the outrage, never the whole plot |
+| 2 | **Golden child / parental favoritism** | 10–15% | "The responsible child is punished for being responsible." |
+| 2 | **Marriage + in-law/property entitlement** | ~10% | The spouse still puts their original family over their partner |
+
+**Pillar 1, family betrayal / taboo.** The strongest form is NOT pregnancy alone. It's
+pregnancy/romance + betrayal + **the WRONG person**, violating both romantic trust AND
+family/social trust. Mechanisms: mother with daughter's boyfriend, sister pregnant by
+sister's partner, cousin as kabit, best friend with husband, husband's secret second
+family, unknown paternity, ex returns pregnant after the wedding, mistress is someone the
+wife financially helped, mother hiding a child's father, father reveal makes it worse.
+
+> Note: this refines §7 and the earlier "cheating/pregnancy is overused" guidance. The
+> data says the taboo/wrong-person version is the page's strongest pillar. What's
+> overused is the *plain* version. Keep the pillar, rotate the *who* and the mechanism.
+
+**Pillar 2, money + family entitlement.** Salary/bonus demanded for a sibling, OFW
+remittance spent, emergency/wedding/tuition fund redirected, condo DP for a sibling, car
+bought with someone else's money, savings secretly loaned out, unfair inheritance, parent
+volunteering their child's money, successful sibling expected to fund everyone, couple's
+savings sent to husband's mother, wife's salary paying in-law debt, forced guarantor.
+
+**Pillar 3, cheating + extra humiliation.** Plain cheating is too generic. Stack a
+second injustice: she paid his tuition and he cheated after graduating (better: with her
+sister); OFW remittance spent on the kabit; mistress moved into the house the wife pays
+for; cheater demands the spouse support the new partner; wife blamed for his cheating;
+"forgive me for the kids"; affair partner claims the legal spouse's property.
+
+**Pillar 4, golden child.** Responsible daughter pays the mortgage but the title goes to
+the brother; inheritance to the unemployed sibling; one child gives up college for
+another; belongings sold for the favorite; birthday/wedding money redirected; daughter
+builds the house but it's promised to the son; "kaya mo naman."
+
+**Pillar 5, in-laws/property.** Focus on money, property, loyalty, boundaries, NOT
+ordinary MIL nagging. Wife pays for house, title goes to MIL; husband sends most of his
+salary to his mother; his whole family moves into her home; MIL controls the couple's
+bank account; husband gives wife's things to his mother; MIL wants part of wife's
+inheritance; "ask Mama first before big decisions."
+
+**Reduce:** pure kilig, normal courtship, generic romance, "are we more than friends?",
+simple jealousy, harmless misunderstandings, vague relationship arguments, generic
+breakups, long emotional talks, motivational stories, heavy-exposition conflicts, stories
+where viewers can't immediately tell who's wrong. Kilig is seasoning only.
+
+Rotate the emotional mechanism inside the pillars. Don't make 20 variations of one plot,
+and swapping "brother" for "sister" is NOT a new concept.
+
+## 30.4 Shameless justification bank
+
+Believable selfish logic, never cartoon evil ("because I hate you"). Real people say these:
+
+"Single ka naman." · "Wala ka namang anak." · "Mas malaki naman sweldo mo." ·
+"Pamilya mo naman sila." · "Kaya mo namang kitain ulit." · "Kuya mo 'yan." ·
+"Mas kailangan niya." · "May trabaho ka naman." · "Hindi naman ginagamit." ·
+"May pera ka naman." · "Nanay ko pa rin siya." · "Utang na loob mo sa amin." ·
+"Mas successful ka naman." · "Bunso siya." · "Ikaw ang ate."
+
+(Pronunciation locks in §14–17 still apply: "Ikaw ang ate" = A-te, Nanay = NA-nay.)
+
+## 30.5 Worse-reveal bank
+
+Recipient is unemployed by choice · money already spent · paperwork secretly signed ·
+victim actually paid for everything · recipient betrayed the victim before · spouse knew
+all along · pregnancy reveals another betrayal · house already titled to someone else ·
+entitled person promised it without asking · irresponsible person wants even more.
+
+## 30.6 Idea generation method
+
+1. **Victim:** hardworking daughter, OFW, wife, husband, eldest, breadwinner, newlywed,
+   single daughter, responsible younger sibling, successful sibling.
+2. **Entitled person:** mother, father, husband, wife, brother, sister, MIL, cousin,
+   boyfriend, girlfriend.
+3. **What's taken/violated:** salary, bonus, inheritance, house, car, savings,
+   relationship, marriage, wedding fund, privacy, property, tuition, retirement, loyalty.
+4. **Shameless justification** (§30.4).
+5. **One WORSE reveal** (§30.5).
+
+Upgrade ladder example: *Brother asks sister for money* → *Mother demands daughter's
+bonus for unemployed brother's car* → *…because "single ka naman"* → *the brother already
+has a motorcycle bought with money she gave him before.*
+
+## 30.7 Gates before writing the script
+
+**First-line test:** if I heard ONLY the first sentence while scrolling, would I stop?
+If no, rewrite. ("Can we talk about my brother?" ✗ → "Ibigay mo sa kuya mo ang bonus mo.
+Single ka naman." ✓)
+
+**Conflict test:** must satisfy **at least 3 of 5**, otherwise strengthen or reject:
+1. Immediate injustice
+2. Money / relationship / family stakes
+3. Someone behaving shamelessly
+4. Clear side for viewers to initially take
+5. A reveal capable of making it worse
+
+**Retention test (24s):**
+- 0–3s: is the outrageous premise already clear?
+- 4–8s: has the first escalation happened?
+- 9–16s: does the entitled person make it worse?
+- 17–24s: another reveal, insult, consequence or shameless justification?
+
+**Ragebait ≠ random cruelty.** The best ones are an understandable moral disagreement
+with one side shameless enough to provoke comments (does family owe family money? should
+the successful sibling support the others? does paying for it mean you own it? when does
+helping family become exploitation?). Don't bolt on an artificial debate if the situation
+already generates one.
+
+## 30.8 Topic-idea output format
+
+When asked for topics/concepts (not full scripts), output each as:
+
+```
+## IDEA
+**Hook:** the first outrageous line
+**Core conflict:** one sentence
+**Escalation:** what makes it worse
+**Final reveal:** the last twist or shameless line
+**Pillar:** which of the 5 pillars
+**Why it may work:** one short sentence naming the emotional trigger
+```
+
+Ideas must be meaningfully different from one another.
+
+## 30.9 Monetization caveat
+
+Monetization started **October 2, 2026 (evening)**. Most historical viral views came
+before that. Use historical data for **views and retention only**. Do NOT infer RPM by
+topic yet; wait for fully monetized breakouts.
+
+## 30.10 Tie-breakers
+
+- Subtle vs immediately outrageous → **outrageous**.
+- Complicated story vs simple injustice → **simple injustice**.
+- Explain more vs escalate → **cut the explanation and escalate**.
