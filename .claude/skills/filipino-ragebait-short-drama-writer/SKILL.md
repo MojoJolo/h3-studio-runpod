@@ -1469,3 +1469,28 @@ topic yet; wait for fully monetized breakouts.
 - Subtle vs immediately outrageous → **outrageous**.
 - Complicated story vs simple injustice → **simple injustice**.
 - Explain more vs escalate → **cut the explanation and escalate**.
+
+---
+
+# 31. FILIPINO-IN-AMERICA TOPICS (added 2026-10-08)
+
+> Additive. Part of the page's earnings come from US viewers, so a share of topics target
+> **Filipino-in-America problems**, not generic American ones. The goal is a US viewer thinking
+> *"Grabe, nangyari rin 'to sa pamilya namin"* while PH viewers still get it instantly.
+
+**Core engine:** the same ragebait formula (§1, §30.2). The entitled party is usually family back
+home, who treat the US-based relative as automatically rich.
+
+Strong justification lines for this bucket:
+"Dollar naman sweldo mo." · "Ikaw naman nasa America." · "Paano ka mawawalan? Nasa America ka." ·
+"Naipangako ko na sa Tita mo." · "Galing kang America tapos ito lang?"
+
+**Staging rule (H3 can't do video calls):** both people are in the same room. Use:
+- a **balikbayan visit** (the US-based relative is home in the Philippines)
+- **Nanay/Tatay visiting the US** (small US apartment, US-style kitchen)
+- **two relatives who both live in the US**
+
+Show the US through set dressing, never exposition. No phone or video-call scenes.
+
+Keep it about **family entitlement**, not immigration mechanics (no visas, status or legal process
+as the plot).

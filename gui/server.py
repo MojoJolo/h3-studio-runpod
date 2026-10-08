@@ -934,6 +934,7 @@ class AutoLoop:
     # completely different rules despite sharing a language.
     DEFAULT_PROFILES = {
         "tagalog-drama": {"label": "Tagalog / Taglish — ragebait drama", "caption": False},
+        "tagalog-kawawa": {"label": "Tagalog / Taglish — kawawa / everyday struggle", "caption": False},
         "english-drama": {"label": "English / international — short drama", "caption": False},
         "english-pov": {"label": "English / international — POV social-media", "caption": True},
         "modern-divide": {"label": "Modern Divide — two-sided debate (English)", "caption": False},

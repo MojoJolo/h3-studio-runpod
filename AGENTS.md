@@ -37,6 +37,7 @@ Run: `python3 gui/server.py` (or the `studio` launcher on macOS). Python 3.9+, P
 | Profile | Skill | One-line formula |
 |---|---|---|
 | `tagalog-drama` | `filipino-ragebait-short-drama-writer` | Absurd-but-plausible Filipino conflict; final line makes the antagonist worse; strict pronunciation locks |
+| `tagalog-kawawa` | `filipino-kawawa-short-drama-writer` | Everyday struggle (or, rarely, hurt by someone); painful fact at 0:00; final line is a quiet reveal of sacrifice, not comfort |
 | `english-drama` | `english-short-drama-writer` | Vindication: judged on sight → calm → demand that undoes the judger → flat status reveal |
 | `modern-divide` | `modern-divide-debate-writer` | Two-sided debate; both sides defensible; unresolved hard cut |
 | `clocked-out` | `clocked-out-ragebait` | Workplace entitlement; every justification makes it worse; shameless final line |

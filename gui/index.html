@@ -406,6 +406,7 @@
         <label class="field">profile
           <select id="auto-profile">
             <option value="tagalog-drama">Tagalog / Taglish — ragebait drama (filipino-ragebait-short-drama-writer)</option>
+            <option value="tagalog-kawawa">Tagalog / Taglish — kawawa / everyday struggle (filipino-kawawa-short-drama-writer)</option>
             <option value="english-drama">English / international — short drama (english-short-drama-writer)</option>
             <option value="english-pov">English / international — POV social-media (captioned)</option>
             <option value="modern-divide">Modern Divide — two-sided debate (modern-divide-debate-writer)</option>
@@ -1276,7 +1277,7 @@ function renderAutoStatus(st) {
   $("auto-status").innerHTML = `${dot}<strong style="color:var(--ink)">${label}</strong> · ${esc(parts.join(" · "))}`;
 }
 let AUTO_LOADED_CONFIG = false;
-const AUTO_PROFILE_IDS = ["tagalog-drama", "english-drama", "english-pov", "modern-divide", "clocked-out"];
+const AUTO_PROFILE_IDS = ["tagalog-drama", "tagalog-kawawa", "english-drama", "english-pov", "modern-divide", "clocked-out"];
 let AUTO_PROMPTS = Object.fromEntries(AUTO_PROFILE_IDS.map(id => [id, ""]));  // local cache so switching the dropdown doesn't lose unsaved edits
 let AUTO_TOPICS = Object.fromEntries(AUTO_PROFILE_IDS.map(id => [id, []]));
 let AUTO_PROFILE = "tagalog-drama";
@@ -1297,7 +1298,7 @@ async function loadAutoState() {
       $("auto-prompt").value = AUTO_PROMPTS[AUTO_PROFILE];
       $("auto-topics").value = AUTO_TOPICS[AUTO_PROFILE].join("\n");
       $("auto-cooldown").value = st.config.cooldown_s;
-      const labels = { "tagalog-drama": "Tagalog drama", "english-drama": "English drama", "english-pov": "English POV",
+      const labels = { "tagalog-drama": "Tagalog drama", "tagalog-kawawa": "Tagalog kawawa", "english-drama": "English drama", "english-pov": "English POV",
                        "modern-divide": "Modern Divide", "clocked-out": "Clocked Out" };
       const rot = st.config.rotation || [];
       $("auto-rotation").innerHTML = AUTO_PROFILE_IDS.map(id =>

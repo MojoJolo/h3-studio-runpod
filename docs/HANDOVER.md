@@ -160,7 +160,7 @@ Each line is `data: {json}`. Types: `queue` (current + pending), `progress` (`jo
 }
 ```
 
-Profile ids are fixed in `AutoLoop.DEFAULT_PROFILES` (`server.py`): `tagalog-drama`, `english-drama`, `english-pov`,
+Profile ids are fixed in `AutoLoop.DEFAULT_PROFILES` (`server.py`): `tagalog-drama`, `tagalog-kawawa`, `english-drama`, `english-pov`,
 `modern-divide`, `clocked-out`. Adding a brand = add an id there + an `<option>` and the id in `AUTO_PROFILE_IDS` in
 `index.html` + a skill in `.claude/skills/<name>/SKILL.md` + a prompt and topics via the API.
 
